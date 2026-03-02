@@ -72,12 +72,44 @@ var sniCategories = map[string][]string{
 
 // Чёрный список SNI (мусор)
 var blacklistedSNI = []string{
+        // Big Tech
         "google.com", "youtube.com", "facebook.com", "instagram.com", "twitter.com",
         "cloudflare.com", "amazon.com", "microsoft.com", "apple.com", "github.com",
-        "pornhub", "xvideos", "bet", "casino", "iran", ".ir", ".cn", ".pk",
-        "worker", "pages.dev", "herokuapp", "workers.dev", "localhost",
+        "chatgpt.com", "openai.com",
+        
+        // Adult/Gambling
+        "pornhub", "xvideos", "bet", "casino", "gambling",
+        
+        // Suspicious TLDs
+        ".ir", ".cn", ".pk", ".af", ".sy", ".sa", ".vn", ".id", ".br",
+        ".su", ".xyz", ".top", ".click", ".site", ".online", ".shop", ".icu",
+        ".win", ".loan", ".trade", ".science", ".work", ".party", ".rugby",
+        
+        // VPN/Proxy services
+        "vpn", "proxy", "tunnel", "v2ray", "xray", "shadowsocks", "trojan",
+        "outline", "clash", "sing-box", "nekoray", "vless",
+        "invisevps", "firstvds", "ultimateserv", "suio.me", "smarteracloud",
+        "outlinekeys", "jugsenkeys", "fasssst", "privetnet", "shadow-net",
+        "resetnet", "allonetworks", "normbot", "kopobkatopta",
+        
+        // Hosting/CDN
+        "cdn.stun", "cdnvideo", "cdnv-img", "cdns.su", "msemse.ru",
+        "lagzero", "quattro-tech", "jojack.ru", "serverstats",
+        "hb-by3", "pkvc-hls4", "nlcdn",
+        
+        // Cloud platforms
+        "worker", "pages.dev", "herokuapp", "workers.dev", "vercel.app",
+        "netlify.app", "railway.app", "render.com",
+        
+        // Local/Private
+        "localhost", "127.0.0.1", "0.0.0.0",
+        
+        // Analytics/Ads
         "doubleclick", "adservice", "analytics", "cdnjs", "fonts.googleapis",
-        "fuck.rkn", "vpn", "proxy", "tunnel", "chatgpt.com",
+        "counter.yadro", "ad.mail.ru",
+        
+        // Other trash
+        "fuck.rkn", ".ir", "arvancloud", "derp",
 }
 
 // ============================================================================
@@ -99,13 +131,14 @@ type SNIInfo struct {
 }
 
 type Stats struct {
-        TotalSNIs  int32
-        DNSFailed  int32
-        TCPFailed  int32
-        TLSFailed  int32
-        HTTPFailed int32
+        TotalSNIs   int32
+        DNSFailed   int32
+        TCPFailed   int32
+        TLSFailed   int32
+        HTTPFailed  int32
         Blacklisted int32
-        Success    int32
+        Filtered    int32  // Отфильтровано как мусор
+        Success     int32
 }
 
 // ============================================================================
@@ -309,8 +342,7 @@ func categorizeSNI(sni string) string {
 func isRussianSNI(sni string) bool {
         sniLower := strings.ToLower(sni)
         if strings.HasSuffix(sniLower, ".ru") ||
-                strings.HasSuffix(sniLower, ".рф") ||
-                strings.HasSuffix(sniLower, ".su") {
+                strings.HasSuffix(sniLower, ".рф") {
                 return true
         }
         ruPatterns := []string{
@@ -326,6 +358,48 @@ func isRussianSNI(sni string) bool {
                         return true
                 }
         }
+        return false
+}
+
+// isSuspiciousDomain - проверка на подозрительные паттерны
+func isSuspiciousDomain(sni string) bool {
+        sniLower := strings.ToLower(sni)
+        
+        // Подозрительные слова
+        suspiciousWords := []string{
+                "key", "keys4pay", "keys", "pass", "passwd", "password",
+                "serv", "server", "vps", "host", "hosting",
+                "cdn", "edge", "node", "relay",
+                "test", "demo", "dev", "staging",
+                "random", "temp", "tmp",
+        }
+        for _, word := range suspiciousWords {
+                if strings.Contains(sniLower, word) {
+                        return true
+                }
+        }
+        
+        // Много цифр в поддомене (cdh47dh3.domain.ru)
+        parts := strings.Split(sni, ".")
+        if len(parts) > 0 {
+                subdomain := parts[0]
+                digitCount := 0
+                for _, c := range subdomain {
+                        if c >= '0' && c <= '9' {
+                                digitCount++
+                        }
+                }
+                // Если больше 3 цифр в поддомене - подозрительно
+                if digitCount > 3 {
+                        return true
+                }
+        }
+        
+        // Очень длинный поддомен (>20 символов)
+        if len(parts) > 0 && len(parts[0]) > 20 {
+                return true
+        }
+        
         return false
 }
 
@@ -432,9 +506,19 @@ func parseInputFiles(files []string) map[string]int {
                         line := scanner.Text()
                         snis := extractSNI(line)
                         for _, sni := range snis {
-                                if sni != "" && !isBlacklisted(sni) && !isIP(sni) {
-                                        sniCounts[sni]++
+                                if sni == "" || isIP(sni) {
+                                        continue
                                 }
+                                // Фильтрация
+                                if isBlacklisted(sni) {
+                                        atomic.AddInt32(&stats.Blacklisted, 1)
+                                        continue
+                                }
+                                if isSuspiciousDomain(sni) {
+                                        atomic.AddInt32(&stats.Filtered, 1)
+                                        continue
+                                }
+                                sniCounts[sni]++
                         }
                 }
                 fmt.Printf("📄 %s: %d lines processed\n", file, lineNum)
@@ -515,7 +599,9 @@ func fetchFromCTLogs(domain string) ([]string, error) {
         for _, r := range ctResults {
                 for _, name := range strings.Split(r.NameValue, "\n") {
                         name = strings.TrimSpace(name)
-                        if name != "" && !strings.HasPrefix(name, "*") {
+                        name = cleanSNI(name)
+                        // Фильтруем: не wildcard, не blacklist, не подозрительный
+                        if name != "" && !strings.HasPrefix(name, "*") && !isBlacklisted(name) && !isSuspiciousDomain(name) {
                                 snis = append(snis, name)
                         }
                 }
@@ -596,6 +682,8 @@ func printStats() {
         fmt.Println("\n" + strings.Repeat("=", 50))
         fmt.Println("📊 SNI SCAN STATISTICS:")
         fmt.Printf("   📥 Total SNI found:    %d\n", stats.TotalSNIs)
+        fmt.Printf("   🚫 Blacklisted:        %d\n", stats.Blacklisted)
+        fmt.Printf("   🗑️  Filtered (trash):    %d\n", stats.Filtered)
         fmt.Printf("   ❌ DNS failed:         %d\n", stats.DNSFailed)
         fmt.Printf("   ❌ TCP failed:         %d\n", stats.TCPFailed)
         fmt.Printf("   ❌ TLS failed:         %d\n", stats.TLSFailed)
