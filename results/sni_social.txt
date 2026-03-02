@@ -17,9 +17,7 @@ apiok.ru
 mail.ru
 st-im.kinopoisk.ru
 www.rutube.ru
-crowdtest.payment-widget-smarttv.plus.tst.kinopoisk.ru
 api.ok.ru
-cdnv-img.perekrestok.ru
 holodos.vk.com
 music.vk.com
 www.m.vk.com
