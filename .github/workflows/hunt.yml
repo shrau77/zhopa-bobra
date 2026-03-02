@@ -42,18 +42,20 @@ jobs:
       env:
         GTA_TOKEN: ${{ secrets.GTA_TOKEN }}
       run: |
-        if [ -n "$GTA_TOKEN" ]; then
+        TOKEN="${GTA_TOKEN:-${{ secrets.GITHUB_TOKEN }}}"
+        if [ -n "$TOKEN" ]; then
           echo "📥 Cloning loshad-scoc..."
-          git clone https://$GTA_TOKEN@github.com/${{ github.repository_owner }}/loshad-scoc.git /tmp/loshad-scoc 2>/dev/null || echo "loshad-scoc not found"
+          git clone https://x-access-token:${TOKEN}@github.com/${{ github.repository_owner }}/loshad-scoc.git /tmp/loshad-scoc 2>/dev/null || echo "loshad-scoc not found or access denied"
         fi
 
     - name: Fetch configs from hpp
       env:
         GTA_TOKEN: ${{ secrets.GTA_TOKEN }}
       run: |
-        if [ -n "$GTA_TOKEN" ]; then
+        TOKEN="${GTA_TOKEN:-${{ secrets.GITHUB_TOKEN }}}"
+        if [ -n "$TOKEN" ]; then
           echo "📥 Cloning hpp..."
-          git clone https://$GTA_TOKEN@github.com/${{ github.repository_owner }}/hpp.git /tmp/hpp 2>/dev/null || echo "hpp not found"
+          git clone https://x-access-token:${TOKEN}@github.com/${{ github.repository_owner }}/hpp.git /tmp/hpp 2>/dev/null || echo "hpp not found or access denied"
         fi
 
     - name: Prepare input files
