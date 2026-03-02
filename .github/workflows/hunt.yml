@@ -1,0 +1,124 @@
+name: 🦫 SNI Hunt
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Каждые 6 часов
+  workflow_dispatch:
+    inputs:
+      ct_domains:
+        description: 'CT Log domains (comma-separated)'
+        required: false
+        default: 'yandex.ru,sberbank.ru,vk.com,mail.ru,ozon.ru'
+      min_count:
+        description: 'Minimum SNI usage count'
+        required: false
+        default: '2'
+
+permissions:
+  contents: write
+
+jobs:
+  hunt:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Set up Go
+      uses: actions/setup-go@v5
+      with:
+        go-version: '1.21'
+
+    - name: Pull latest changes
+      run: |
+        git config --global user.name '🦫 Bobr Bot'
+        git config --global user.email 'bobr@noreply.github.com'
+        git pull origin main
+
+    - name: Fetch configs from loshad-scoc
+      env:
+        GTA_TOKEN: ${{ secrets.GTA_TOKEN }}
+      run: |
+        if [ -n "$GTA_TOKEN" ]; then
+          echo "📥 Cloning loshad-scoc..."
+          git clone https://$GTA_TOKEN@github.com/${{ github.repository_owner }}/loshad-scoc.git /tmp/loshad-scoc 2>/dev/null || echo "loshad-scoc not found"
+        fi
+
+    - name: Fetch configs from hpp
+      env:
+        GTA_TOKEN: ${{ secrets.GTA_TOKEN }}
+      run: |
+        if [ -n "$GTA_TOKEN" ]; then
+          echo "📥 Cloning hpp..."
+          git clone https://$GTA_TOKEN@github.com/${{ github.repository_owner }}/hpp.git /tmp/hpp 2>/dev/null || echo "hpp not found"
+        fi
+
+    - name: Prepare input files
+      run: |
+        mkdir -p input
+        
+        # Собираем все txt файлы из реп
+        if [ -d "/tmp/loshad-scoc" ]; then
+          echo "📄 Copying from loshad-scoc..."
+          cp /tmp/loshad-scoc/verified_ru.txt input/ 2>/dev/null || true
+          cp /tmp/loshad-scoc/potential_mixed.txt input/ 2>/dev/null || true
+        fi
+        
+        if [ -d "/tmp/hpp" ]; then
+          echo "📄 Copying from hpp..."
+          cp /tmp/hpp/output/*.txt input/ 2>/dev/null || true
+          cp /tmp/hpp/verified_ru.txt input/ 2>/dev/null || true
+        fi
+        
+        # Объединяем в один файл
+        cat input/*.txt > input/all_configs.txt 2>/dev/null || echo "No configs found"
+        
+        echo "📊 Input files:"
+        ls -la input/ || true
+
+    - name: Build zhopa-bobra
+      run: |
+        go mod tidy
+        go build -o zhopa-bobra .
+
+    - name: Run SNI Hunt
+      env:
+        GTA_TOKEN: ${{ secrets.GTA_TOKEN }}
+      run: |
+        CT_DOMAINS="${{ github.event.inputs.ct_domains || 'yandex.ru,sberbank.ru,vk.com,mail.ru,ozon.ru' }}"
+        MIN_COUNT="${{ github.event.inputs.min_count || '2' }}"
+        
+        echo "🦫 Starting SNI Hunt..."
+        echo "   CT Domains: $CT_DOMAINS"
+        echo "   Min Count: $MIN_COUNT"
+        
+        if [ -f "input/all_configs.txt" ] && [ -s "input/all_configs.txt" ]; then
+          ./zhopa-bobra \
+            -input input/all_configs.txt \
+            -ct "$CT_DOMAINS" \
+            -min-count "$MIN_COUNT" \
+            -v
+        else
+          echo "⚠️ No input configs, running CT-only mode..."
+          ./zhopa-bobra \
+            -ct "$CT_DOMAINS" \
+            -min-count "$MIN_COUNT" \
+            -v
+        fi
+
+    - name: Commit and Push results
+      run: |
+        # Добавляем результаты
+        git add results/ 2>/dev/null || true
+        
+        # Проверяем есть ли изменения
+        if git diff --cached --quiet; then
+          echo "No changes to commit."
+          exit 0
+        fi
+        
+        git commit -m "🦫 SNI Hunt Update $(date +'%Y-%m-%d %H:%M:%S')"
+        git push origin main

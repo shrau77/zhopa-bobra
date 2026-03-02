@@ -1,0 +1,131 @@
+name: 🦫 SNI Hunt Manual
+
+on:
+  workflow_dispatch:
+    inputs:
+      input_urls:
+        description: 'Direct URLs to config files (comma-separated)'
+        required: false
+        default: ''
+      ct_domains:
+        description: 'CT Log domains (comma-separated)'
+        required: false
+        default: 'yandex.ru,sberbank.ru,vk.com,mail.ru,ozon.ru,wildberries.ru,tbank.ru'
+      min_count:
+        description: 'Minimum SNI usage count'
+        required: false
+        default: '1'
+      check_tls:
+        description: 'Check TLS handshake'
+        required: false
+        default: 'true'
+        type: boolean
+      check_http:
+        description: 'Check HTTP connectivity'
+        required: false
+        default: 'true'
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  hunt:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Set up Go
+      uses: actions/setup-go@v5
+      with:
+        go-version: '1.21'
+
+    - name: Pull latest changes
+      run: |
+        git config --global user.name '🦫 Bobr Bot'
+        git config --global user.email 'bobr@noreply.github.com'
+        git pull origin main
+
+    - name: Download external configs
+      env:
+        GTA_TOKEN: ${{ secrets.GTA_TOKEN }}
+      run: |
+        mkdir -p input
+        INPUT_URLS="${{ github.event.inputs.input_urls }}"
+        
+        # Скачиваем по прямым URL если указаны
+        if [ -n "$INPUT_URLS" ]; then
+          IFS=',' read -ra URLS <<< "$INPUT_URLS"
+          for url in "${URLS[@]}"; do
+            url=$(echo "$url" | xargs)  # trim
+            if [ -n "$url" ]; then
+              echo "📥 Downloading: $url"
+              filename=$(basename "$url" | cut -d'?' -f1)
+              curl -sL "$url" -o "input/$filename" 2>/dev/null || echo "Failed: $url"
+            fi
+          done
+        fi
+        
+        # Клонируем репы
+        if [ -n "$GTA_TOKEN" ]; then
+          git clone https://$GTA_TOKEN@github.com/${{ github.repository_owner }}/loshad-scoc.git /tmp/loshad-scoc 2>/dev/null || true
+          git clone https://$GTA_TOKEN@github.com/${{ github.repository_owner }}/hpp.git /tmp/hpp 2>/dev/null || true
+        fi
+        
+        # Копируем файлы
+        cp /tmp/loshad-scoc/*.txt input/ 2>/dev/null || true
+        cp /tmp/hpp/output/*.txt input/ 2>/dev/null || true
+        cp /tmp/hpp/*.txt input/ 2>/dev/null || true
+        
+        # Объединяем
+        cat input/*.txt > input/all_configs.txt 2>/dev/null || true
+        
+        echo "📊 Input files:"
+        wc -l input/*.txt 2>/dev/null || echo "No files"
+
+    - name: Build zhopa-bobra
+      run: |
+        go mod tidy
+        go build -o zhopa-bobra .
+
+    - name: Run SNI Hunt
+      run: |
+        CT_DOMAINS="${{ github.event.inputs.ct_domains }}"
+        MIN_COUNT="${{ github.event.inputs.min_count }}"
+        CHECK_TLS="${{ github.event.inputs.check_tls }}"
+        CHECK_HTTP="${{ github.event.inputs.check_http }}"
+        
+        TLS_FLAG="true"
+        HTTP_FLAG="true"
+        [ "$CHECK_TLS" = "false" ] && TLS_FLAG="false"
+        [ "$CHECK_HTTP" = "false" ] && HTTP_FLAG="false"
+        
+        echo "🦫 SNI Hunt Manual"
+        echo "   CT Domains: $CT_DOMAINS"
+        echo "   Min Count: $MIN_COUNT"
+        echo "   Check TLS: $TLS_FLAG"
+        echo "   Check HTTP: $HTTP_FLAG"
+        
+        ./zhopa-bobra \
+          -input input/all_configs.txt \
+          -ct "$CT_DOMAINS" \
+          -min-count "$MIN_COUNT" \
+          -tls="$TLS_FLAG" \
+          -http="$HTTP_FLAG" \
+          -v
+
+    - name: Commit and Push results
+      run: |
+        git add results/ 2>/dev/null || true
+        
+        if git diff --cached --quiet; then
+          echo "No changes to commit."
+          exit 0
+        fi
+        
+        git commit -m "🦫 Manual SNI Hunt $(date +'%Y-%m-%d %H:%M:%S')"
+        git push origin main
