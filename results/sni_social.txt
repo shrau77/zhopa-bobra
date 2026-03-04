@@ -1,6 +1,5 @@
 eh.vk.com
 m.vk.com
-rutube.ru
 www.vk.com
 vk.com
 celular.vk.com
@@ -20,6 +19,7 @@ st-im.kinopoisk.ru
 api.ok.ru
 holodos.vk.com
 music.vk.com
-st4-22.vk.com
 api.vk.com
+st4-22.vk.com
 www.m.vk.com
+ok.ru
