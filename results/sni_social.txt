@@ -1,5 +1,6 @@
 eh.vk.com
 m.vk.com
+rutube.ru
 www.vk.com
 vk.com
 celular.vk.com
@@ -11,15 +12,14 @@ queuev4.vk.com
 login.vk.com
 static.rutube.ru
 goya.rutube.ru
-apiok.ru
 eh1.vk.com
+apiok.ru
 mail.ru
-www.rutube.ru
 st-im.kinopoisk.ru
+www.rutube.ru
 api.ok.ru
 holodos.vk.com
 music.vk.com
 api.vk.com
 st4-22.vk.com
 www.m.vk.com
-ok.ru
