@@ -8,15 +8,15 @@ www.kinopoisk.ru
 st.vk.com
 m.ok.ru
 kinopoisk.ru
-queuev4.vk.com
-static.rutube.ru
 login.vk.com
+static.rutube.ru
 goya.rutube.ru
+queuev4.vk.com
 eh1.vk.com
 apiok.ru
 mail.ru
-www.rutube.ru
 st-im.kinopoisk.ru
+www.rutube.ru
 api.ok.ru
 holodos.vk.com
 music.vk.com
@@ -24,4 +24,3 @@ api.vk.com
 st4-22.vk.com
 www.m.vk.com
 ok.ru
-widgets.kinopoisk.ru
