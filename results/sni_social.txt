@@ -6,17 +6,17 @@ rutube.ru
 celular.vk.com
 www.kinopoisk.ru
 st.vk.com
-m.ok.ru
 kinopoisk.ru
-login.vk.com
+m.ok.ru
 static.rutube.ru
-eh1.vk.com
+login.vk.com
 goya.rutube.ru
+eh1.vk.com
 apiok.ru
 mail.ru
 queuev4.vk.com
-st-im.kinopoisk.ru
 www.rutube.ru
+st-im.kinopoisk.ru
 api.ok.ru
 holodos.vk.com
 music.vk.com
@@ -24,4 +24,3 @@ api.vk.com
 st4-22.vk.com
 www.m.vk.com
 ok.ru
-m8.vk.com
