@@ -2,3 +2,4 @@ rbc.ru
 d-assets.2gis.ru
 www.2gis.kz
 2gis.ru
+connectivitycheck.gstatic.com
