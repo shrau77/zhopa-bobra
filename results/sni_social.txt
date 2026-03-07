@@ -9,12 +9,12 @@ st.vk.com
 kinopoisk.ru
 m.ok.ru
 static.rutube.ru
-login.vk.com
 goya.rutube.ru
+login.vk.com
 eh1.vk.com
 apiok.ru
-mail.ru
 queuev4.vk.com
+mail.ru
 www.rutube.ru
 st-im.kinopoisk.ru
 api.ok.ru
@@ -24,3 +24,4 @@ api.vk.com
 st4-22.vk.com
 www.m.vk.com
 ok.ru
+widgets.kinopoisk.ru
