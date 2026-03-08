@@ -1,6 +1,7 @@
 rbc.ru
 d-assets.2gis.ru
 ivi.ru
+sso.auto.ru
 www.2gis.kz
 2gis.ru
 connectivitycheck.gstatic.com
