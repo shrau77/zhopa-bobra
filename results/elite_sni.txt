@@ -54,5 +54,3 @@ web.max.ru
 help.max.ru
 www.max.ru
 x5club.ru
-anticheat.kittystars.ru
-salute.sber.ru
