@@ -10,7 +10,7 @@ on:
       ct_domains:
         description: 'CT Log domains (comma-separated)'
         required: false
-        default: 'yandex.ru,sberbank.ru,vk.com,mail.ru,ozon.ru,wildberries.ru,tbank.ru'
+        default: 'yandex.ru,sberbank.ru,vk.com,mail.ru,ozon.ru,wildberries.ru,tbank.ru,alfa.ru,mts.ru,megafon.ru,beeline.ru,gosuslugi.ru'
       min_count:
         description: 'Minimum SNI usage count'
         required: false
@@ -25,6 +25,16 @@ on:
         required: false
         default: 'true'
         type: boolean
+      strict_ru:
+        description: 'Strict .ru only mode'
+        required: false
+        default: 'true'
+        type: boolean
+      skip_existing:
+        description: 'Skip already processed SNI'
+        required: false
+        default: 'true'
+        type: boolean
 
 permissions:
   contents: write
@@ -32,23 +42,26 @@ permissions:
 jobs:
   hunt:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
         fetch-depth: 0
+        token: ${{ secrets.GTA_TOKEN || secrets.GITHUB_TOKEN }}
 
     - name: Set up Go
       uses: actions/setup-go@v5
       with:
         go-version: '1.21'
+        cache: true
 
-    - name: Pull latest changes
+    - name: Configure Git
       run: |
         git config --global user.name '🦫 Bobr Bot'
         git config --global user.email 'bobr@noreply.github.com'
-        git pull origin main
+        git pull origin main || true
 
     - name: Download external configs
       env:
@@ -56,41 +69,43 @@ jobs:
       run: |
         mkdir -p input
         INPUT_URLS="${{ github.event.inputs.input_urls }}"
-        
+
         # Скачиваем по прямым URL если указаны
         if [ -n "$INPUT_URLS" ]; then
           IFS=',' read -ra URLS <<< "$INPUT_URLS"
           for url in "${URLS[@]}"; do
-            url=$(echo "$url" | xargs)  # trim
+            url=$(echo "$url" | xargs)
             if [ -n "$url" ]; then
               echo "📥 Downloading: $url"
               filename=$(basename "$url" | cut -d'?' -f1)
-              curl -sL "$url" -o "input/$filename" 2>/dev/null || echo "Failed: $url"
+              curl -sL --connect-timeout 10 --max-time 60 "$url" -o "input/$filename" 2>/dev/null || echo "⚠️ Failed: $url"
             fi
           done
         fi
-        
-        # Клонируем репы
+
+        # Клонируем репы если есть токен
         if [ -n "$GTA_TOKEN" ]; then
-          git clone https://$GTA_TOKEN@github.com/${{ github.repository_owner }}/loshad-scoc.git /tmp/loshad-scoc 2>/dev/null || true
-          git clone https://$GTA_TOKEN@github.com/${{ github.repository_owner }}/hpp.git /tmp/hpp 2>/dev/null || true
+          git clone --depth 1 https://$GTA_TOKEN@github.com/${{ github.repository_owner }}/loshad-scoc.git /tmp/loshad-scoc 2>/dev/null || true
+          git clone --depth 1 https://$GTA_TOKEN@github.com/${{ github.repository_owner }}/hpp.git /tmp/hpp 2>/dev/null || true
         fi
-        
+
         # Копируем файлы
         cp /tmp/loshad-scoc/*.txt input/ 2>/dev/null || true
         cp /tmp/hpp/output/*.txt input/ 2>/dev/null || true
         cp /tmp/hpp/*.txt input/ 2>/dev/null || true
-        
+
         # Объединяем
         cat input/*.txt > input/all_configs.txt 2>/dev/null || true
-        
+        sort -u input/all_configs.txt > input/all_configs_unique.txt 2>/dev/null || true
+        mv input/all_configs_unique.txt input/all_configs.txt 2>/dev/null || true
+
         echo "📊 Input files:"
-        wc -l input/*.txt 2>/dev/null || echo "No files"
+        wc -l input/*.txt 2>/dev/null || echo "   No files"
 
     - name: Build zhopa-bobra
       run: |
         go mod tidy
-        go build -o zhopa-bobra .
+        go build -ldflags="-s -w" -o zhopa-bobra .
 
     - name: Run SNI Hunt
       run: |
@@ -98,34 +113,59 @@ jobs:
         MIN_COUNT="${{ github.event.inputs.min_count }}"
         CHECK_TLS="${{ github.event.inputs.check_tls }}"
         CHECK_HTTP="${{ github.event.inputs.check_http }}"
-        
+        STRICT_RU="${{ github.event.inputs.strict_ru }}"
+
         TLS_FLAG="true"
         HTTP_FLAG="true"
         [ "$CHECK_TLS" = "false" ] && TLS_FLAG="false"
         [ "$CHECK_HTTP" = "false" ] && HTTP_FLAG="false"
-        
-        echo "🦫 SNI Hunt Manual"
+
+        echo "🦫 Manual SNI Hunt"
+        echo "   📅 $(date +'%Y-%m-%d %H:%M:%S'"
         echo "   CT Domains: $CT_DOMAINS"
         echo "   Min Count: $MIN_COUNT"
         echo "   Check TLS: $TLS_FLAG"
         echo "   Check HTTP: $HTTP_FLAG"
-        
+        echo "   Strict RU: $STRICT_RU"
+
         ./zhopa-bobra \
           -input input/all_configs.txt \
           -ct "$CT_DOMAINS" \
           -min-count "$MIN_COUNT" \
           -tls="$TLS_FLAG" \
           -http="$HTTP_FLAG" \
+          -strict-ru="$STRICT_RU" \
           -v
+
+    - name: Show Results Summary
+      run: |
+        echo ""
+        echo "📊 HUNT RESULTS:"
+        echo "================"
+        echo "⭐ Elite SNI (score >= 70):"
+        head -20 results/elite_sni.txt 2>/dev/null || echo "   No elite SNI found"
+        echo ""
+        echo "📄 File sizes:"
+        wc -l results/*.txt 2>/dev/null || true
 
     - name: Commit and Push results
       run: |
         git add results/ 2>/dev/null || true
-        
+
         if git diff --cached --quiet; then
-          echo "No changes to commit."
+          echo "ℹ️ No changes to commit."
           exit 0
         fi
-        
-        git commit -m "🦫 Manual SNI Hunt $(date +'%Y-%m-%d %H:%M:%S')"
+
+        git commit -m "🦫 Manual SNI Hunt - $(date +'%Y-%m-%d %H:%M')
+
+⭐ Elite: $(wc -l < results/elite_sni.txt 2>/dev/null || echo '0')
+💎 Premium: $(wc -l < results/premium_sni.txt 2>/dev/null || echo '0')
+📄 Target: $(wc -l < results/target_sni.txt 2>/dev/null || echo '0')"
+
         git push origin main
+
+    - name: Clean up
+      if: always()
+      run: |
+        rm -rf /tmp/loshad-scoc /tmp/hpp input/ 2>/dev/null || true

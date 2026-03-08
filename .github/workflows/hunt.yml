@@ -1,42 +1,57 @@
-name: 🦫 SNI Hunt
+name: 🦫 SNI Hunt - Autonomous
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Каждые 6 часов
+    - cron: '0 */4 * * *'  # Каждые 4 часа
   workflow_dispatch:
     inputs:
       ct_domains:
         description: 'CT Log domains (comma-separated)'
         required: false
-        default: 'yandex.ru,sberbank.ru,vk.com,mail.ru,ozon.ru'
+        default: 'yandex.ru,sberbank.ru,vk.com,mail.ru,ozon.ru,wildberries.ru,tbank.ru,alfa.ru,mts.ru,megafon.ru,beeline.ru,gosuslugi.ru'
       min_count:
         description: 'Minimum SNI usage count'
         required: false
-        default: '2'
+        default: '1'
+      strict_ru:
+        description: 'Strict .ru only mode'
+        required: false
+        default: 'true'
+        type: boolean
 
 permissions:
   contents: write
 
+env:
+  # Публичные источники конфигов
+  PUBLIC_CONFIG_SOURCES: >
+    https://raw.githubusercontent.com/mahsan0/maHSan/main/config.txt
+    https://raw.githubusercontent.com/mahsan0/maHSan/main/VlessConfig.txt
+    https://raw.githubusercontent.com/mahsan0/maHSan/main/TrojanConfig.txt
+
 jobs:
   hunt:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
         fetch-depth: 0
+        token: ${{ secrets.GTA_TOKEN || secrets.GITHUB_TOKEN }}
 
     - name: Set up Go
       uses: actions/setup-go@v5
       with:
         go-version: '1.21'
+        cache: true
 
-    - name: Pull latest changes
+    - name: Configure Git
       run: |
         git config --global user.name '🦫 Bobr Bot'
         git config --global user.email 'bobr@noreply.github.com'
-        git pull origin main
+        git pull origin main || true
 
     - name: Fetch configs from loshad-scoc
       env:
@@ -45,7 +60,7 @@ jobs:
         TOKEN="${GTA_TOKEN:-${{ secrets.GITHUB_TOKEN }}}"
         if [ -n "$TOKEN" ]; then
           echo "📥 Cloning loshad-scoc..."
-          git clone https://x-access-token:${TOKEN}@github.com/${{ github.repository_owner }}/loshad-scoc.git /tmp/loshad-scoc 2>/dev/null || echo "loshad-scoc not found or access denied"
+          git clone --depth 1 https://x-access-token:${TOKEN}@github.com/${{ github.repository_owner }}/loshad-scoc.git /tmp/loshad-scoc 2>/dev/null || echo "⚠️ loshad-scoc not found"
         fi
 
     - name: Fetch configs from hpp
@@ -55,72 +70,186 @@ jobs:
         TOKEN="${GTA_TOKEN:-${{ secrets.GITHUB_TOKEN }}}"
         if [ -n "$TOKEN" ]; then
           echo "📥 Cloning hpp..."
-          git clone https://x-access-token:${TOKEN}@github.com/${{ github.repository_owner }}/hpp.git /tmp/hpp 2>/dev/null || echo "hpp not found or access denied"
+          git clone --depth 1 https://x-access-token:${TOKEN}@github.com/${{ github.repository_owner }}/hpp.git /tmp/hpp 2>/dev/null || echo "⚠️ hpp not found"
         fi
+
+    - name: Download public configs
+      run: |
+        mkdir -p input/public
+
+        # Скачиваем публичные конфиги
+        echo "📥 Downloading public configs..."
+
+        # Массив публичных источников
+        SOURCES=(
+          "https://raw.githubusercontent.com/mahsan0/maHSan/main/config.txt"
+          "https://raw.githubusercontent.com/mahsan0/maHSan/main/VlessConfig.txt"
+          "https://raw.githubusercontent.com/mahsan0/maHSan/main/TrojanConfig.txt"
+          "https://raw.githubusercontent.com/mahsan0/maHSan/main/VMessConfig.txt"
+          "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/mixed"
+          "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/vless"
+          "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/trojan"
+          "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/vmess"
+        )
+
+        IDX=1
+        for URL in "${SOURCES[@]}"; do
+          echo "   📡 $URL"
+          curl -sL --connect-timeout 10 --max-time 30 "$URL" -o "input/public/source_${IDX}.txt" 2>/dev/null || echo "   ⚠️ Failed: $URL"
+          IDX=$((IDX + 1))
+          sleep 1
+        done
+
+        echo "📊 Public configs downloaded:"
+        wc -l input/public/*.txt 2>/dev/null || echo "   No files"
 
     - name: Prepare input files
       run: |
         mkdir -p input
-        
-        # Собираем все txt файлы из реп
+
+        # Копируем из loshad-scoc
         if [ -d "/tmp/loshad-scoc" ]; then
           echo "📄 Copying from loshad-scoc..."
           cp /tmp/loshad-scoc/verified_ru.txt input/ 2>/dev/null || true
           cp /tmp/loshad-scoc/potential_mixed.txt input/ 2>/dev/null || true
+          cp /tmp/loshad-scoc/*.txt input/ 2>/dev/null || true
         fi
-        
+
+        # Копируем из hpp
         if [ -d "/tmp/hpp" ]; then
           echo "📄 Copying from hpp..."
           cp /tmp/hpp/output/*.txt input/ 2>/dev/null || true
           cp /tmp/hpp/verified_ru.txt input/ 2>/dev/null || true
+          cp /tmp/hpp/*.txt input/ 2>/dev/null || true
         fi
-        
-        # Объединяем в один файл
-        cat input/*.txt > input/all_configs.txt 2>/dev/null || echo "No configs found"
-        
-        echo "📊 Input files:"
-        ls -la input/ || true
+
+        # Объединяем всё
+        cat input/*.txt input/public/*.txt > input/all_configs.txt 2>/dev/null || true
+
+        # Уникализируем
+        sort -u input/all_configs.txt > input/all_configs_unique.txt 2>/dev/null || true
+        mv input/all_configs_unique.txt input/all_configs.txt 2>/dev/null || true
+
+        echo "📊 Total input lines:"
+        wc -l input/all_configs.txt 2>/dev/null || echo "   No configs found"
 
     - name: Build zhopa-bobra
       run: |
         go mod tidy
-        go build -o zhopa-bobra .
+        go build -ldflags="-s -w" -o zhopa-bobra .
 
     - name: Run SNI Hunt
+      id: hunt
       env:
         GTA_TOKEN: ${{ secrets.GTA_TOKEN }}
       run: |
-        CT_DOMAINS="${{ github.event.inputs.ct_domains || 'yandex.ru,sberbank.ru,vk.com,mail.ru,ozon.ru' }}"
-        MIN_COUNT="${{ github.event.inputs.min_count || '2' }}"
-        
-        echo "🦫 Starting SNI Hunt..."
+        CT_DOMAINS="${{ github.event.inputs.ct_domains || 'yandex.ru,sberbank.ru,vk.com,mail.ru,ozon.ru,wildberries.ru,tbank.ru,alfa.ru,mts.ru,megafon.ru,beeline.ru,gosuslugi.ru,rutube.ru,dzen.ru,kinopoisk.ru,hh.ru,habr.ru,2gis.ru,avito.ru' }}"
+        MIN_COUNT="${{ github.event.inputs.min_count || '1' }}"
+        STRICT_RU="${{ github.event.inputs.strict_ru || 'true' }}"
+
+        echo "🦫 Starting Autonomous SNI Hunt..."
+        echo "   📅 $(date +'%Y-%m-%d %H:%M:%S')"
         echo "   CT Domains: $CT_DOMAINS"
         echo "   Min Count: $MIN_COUNT"
-        
+        echo "   Strict RU: $STRICT_RU"
+
         if [ -f "input/all_configs.txt" ] && [ -s "input/all_configs.txt" ]; then
           ./zhopa-bobra \
             -input input/all_configs.txt \
             -ct "$CT_DOMAINS" \
             -min-count "$MIN_COUNT" \
-            -v
+            -strict-ru="$STRICT_RU" \
+            -v 2>&1 | tee hunt_output.log
         else
           echo "⚠️ No input configs, running CT-only mode..."
           ./zhopa-bobra \
             -ct "$CT_DOMAINS" \
             -min-count "$MIN_COUNT" \
-            -v
+            -strict-ru="$STRICT_RU" \
+            -v 2>&1 | tee hunt_output.log
         fi
+
+        # Извлекаем статистику для следующего шага
+        ELITE_COUNT=$(wc -l < results/elite_sni.txt 2>/dev/null || echo "0")
+        PREMIUM_COUNT=$(wc -l < results/premium_sni.txt 2>/dev/null || echo "0")
+        TARGET_COUNT=$(wc -l < results/target_sni.txt 2>/dev/null || echo "0")
+
+        echo "elite_count=$ELITE_COUNT" >> $GITHUB_OUTPUT
+        echo "premium_count=$PREMIUM_COUNT" >> $GITHUB_OUTPUT
+        echo "target_count=$TARGET_COUNT" >> $GITHUB_OUTPUT
+
+        echo ""
+        echo "📊 Hunt Results:"
+        echo "   ⭐ Elite SNI: $ELITE_COUNT"
+        echo "   💎 Premium SNI: $PREMIUM_COUNT"
+        echo "   📄 Target SNI: $TARGET_COUNT"
 
     - name: Commit and Push results
       run: |
-        # Добавляем результаты
+        # Сохраняем статистику
+        echo "## 🦫 SNI Hunt Report - $(date +'%Y-%m-%d %H:%M')" >> results/LAST_RUN.md
+        echo "" >> results/LAST_RUN.md
+        echo "### Results" >> results/LAST_RUN.md
+        echo "- ⭐ Elite SNI: $(wc -l < results/elite_sni.txt 2>/dev/null || echo '0')" >> results/LAST_RUN.md
+        echo "- 💎 Premium SNI: $(wc -l < results/premium_sni.txt 2>/dev/null || echo '0')" >> results/LAST_RUN.md
+        echo "- 📄 Target SNI: $(wc -l < results/target_sni.txt 2>/dev/null || echo '0')" >> results/LAST_RUN.md
+        echo "" >> results/LAST_RUN.md
+        echo "### Stats" >> results/LAST_RUN.md
+        grep -E "📊|📥|🚫|🗑|❌|✅|⭐" hunt_output.log >> results/LAST_RUN.md 2>/dev/null || true
+
+        # Добавляем все результаты
         git add results/ 2>/dev/null || true
-        
+
         # Проверяем есть ли изменения
         if git diff --cached --quiet; then
-          echo "No changes to commit."
+          echo "ℹ️ No changes to commit."
           exit 0
         fi
-        
-        git commit -m "🦫 SNI Hunt Update $(date +'%Y-%m-%d %H:%M:%S')"
+
+        git commit -m "🦫 Auto SNI Hunt - $(date +'%Y-%m-%d %H:%M')
+
+⭐ Elite: $(wc -l < results/elite_sni.txt 2>/dev/null || echo '0')
+💎 Premium: $(wc -l < results/premium_sni.txt 2>/dev/null || echo '0')
+📄 Target: $(wc -l < results/target_sni.txt 2>/dev/null || echo '0')"
+
         git push origin main
+
+    - name: Clean up
+      if: always()
+      run: |
+        rm -rf /tmp/loshad-scoc /tmp/hpp input/ 2>/dev/null || true
+
+  # Еженедельная глубокая чистка - запускается в воскресенье
+  deep-hunt:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    if: github.event_name == 'schedule' && (github.run_attempt == 1 || github.event.schedule == '0 0 * * 0')
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GTA_TOKEN || secrets.GITHUB_TOKEN }}
+
+    - name: Set up Go
+      uses: actions/setup-go@v5
+      with:
+        go-version: '1.21'
+
+    - name: Deep CT Scan
+      run: |
+        go mod tidy
+        go build -ldflags="-s -w" -o zhopa-bobra .
+
+        # Глубокий скан всех крупных RU доменов
+        DOMAINS="yandex.ru,sberbank.ru,vk.com,mail.ru,ozon.ru,wildberries.ru,tbank.ru,alfa.ru,mts.ru,megafon.ru,beeline.ru,gosuslugi.ru,rutube.ru,dzen.ru,kinopoisk.ru,hh.ru,habr.ru,2gis.ru,avito.ru,ok.ru,rbc.ru,lenta.ru,rambler.ru,gismeteo.ru,ivi.ru,auto.ru,cian.ru,drive2.ru,drom.ru,tutu.ru,aviasales.ru,leroymerlin.ru,petrovich.ru,detmir.ru,sportmaster.ru,lamoda.ru,mvideo.ru,eldorado.ru,citilink.ru,dns-shop.ru"
+
+        ./zhopa-bobra -ct "$DOMAINS" -min-count 1 -strict-ru=true -v
+
+    - name: Push
+      run: |
+        git config --global user.name '🦫 Bobr Bot'
+        git config --global user.email 'bobr@noreply.github.com'
+        git add results/
+        git diff --cached --quiet || (git commit -m "🦫 Weekly Deep Scan - $(date +'%Y-%m-%d')" && git push origin main)
