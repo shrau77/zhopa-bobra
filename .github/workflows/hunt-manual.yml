@@ -121,7 +121,7 @@ jobs:
         [ "$CHECK_HTTP" = "false" ] && HTTP_FLAG="false"
 
         echo "🦫 Manual SNI Hunt"
-        echo "   📅 $(date +'%Y-%m-%d %H:%M:%S'"
+        echo "   📅 $(date +'%Y-%m-%d %H:%M:%S')"
         echo "   CT Domains: $CT_DOMAINS"
         echo "   Min Count: $MIN_COUNT"
         echo "   Check TLS: $TLS_FLAG"
@@ -157,11 +157,11 @@ jobs:
           exit 0
         fi
 
-        git commit -m "🦫 Manual SNI Hunt - $(date +'%Y-%m-%d %H:%M')
+        ELITE_NUM=$(wc -l < results/elite_sni.txt 2>/dev/null || echo '0')
+        PREMIUM_NUM=$(wc -l < results/premium_sni.txt 2>/dev/null || echo '0')
+        TARGET_NUM=$(wc -l < results/target_sni.txt 2>/dev/null || echo '0')
 
-⭐ Elite: $(wc -l < results/elite_sni.txt 2>/dev/null || echo '0')
-💎 Premium: $(wc -l < results/premium_sni.txt 2>/dev/null || echo '0')
-📄 Target: $(wc -l < results/target_sni.txt 2>/dev/null || echo '0')"
+        git commit -m "🦫 Manual SNI Hunt - $(date +'%Y-%m-%d %H:%M') | ⭐Elite: ${ELITE_NUM} 💎Premium: ${PREMIUM_NUM} 📄Target: ${TARGET_NUM}"
 
         git push origin main
 
