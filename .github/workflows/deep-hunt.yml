@@ -1,0 +1,109 @@
+name: 🦫 Deep Hunt - CT Logs Scan
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Каждое воскресенье в 00:00 UTC
+  workflow_dispatch:
+    inputs:
+      ct_domains:
+        description: 'CT Log domains (comma-separated, leave empty for default)'
+        required: false
+        default: ''
+      strict_ru:
+        description: 'Strict .ru only mode'
+        required: false
+        default: 'true'
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  deep-hunt:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GTA_TOKEN || secrets.GITHUB_TOKEN }}
+
+    - name: Set up Go
+      uses: actions/setup-go@v5
+      with:
+        go-version: '1.21'
+        cache: true
+
+    - name: Configure Git
+      run: |
+        git config --global user.name '🦫 Bobr Bot'
+        git config --global user.email 'bobr@noreply.github.com'
+        git pull origin main || true
+
+    - name: Build zhopa-bobra
+      run: |
+        go mod tidy
+        go build -ldflags="-s -w" -o zhopa-bobra .
+
+    - name: Deep CT Scan
+      run: |
+        # Если домены не указаны - используем полный список
+        CT_DOMAINS="${{ github.event.inputs.ct_domains }}"
+        STRICT_RU="${{ github.event.inputs.strict_ru || 'true' }}"
+
+        if [ -z "$CT_DOMAINS" ]; then
+          CT_DOMAINS="yandex.ru,sberbank.ru,vk.com,mail.ru,ozon.ru,wildberries.ru,tbank.ru,alfa.ru,mts.ru,megafon.ru,beeline.ru,gosuslugi.ru,rutube.ru,dzen.ru,kinopoisk.ru,hh.ru,habr.ru,2gis.ru,avito.ru,ok.ru,rbc.ru,lenta.ru,rambler.ru,gismeteo.ru,ivi.ru,auto.ru,cian.ru,drive2.ru,drom.ru,tutu.ru,aviasales.ru,leroymerlin.ru,petrovich.ru,detmir.ru,sportmaster.ru,lamoda.ru,mvideo.ru,eldorado.ru,citilink.ru,dns-shop.ru,nalog.ru,mos.ru,pochta.ru,rzd.ru"
+        fi
+
+        echo "🦫 Deep CT Scan Starting..."
+        echo "   📅 $(date +'%Y-%m-%d %H:%M:%S')"
+        echo "   🌐 Domains: $CT_DOMAINS"
+        echo "   🔒 Strict RU: $STRICT_RU"
+        echo ""
+
+        ./zhopa-bobra -ct "$CT_DOMAINS" -min-count 1 -strict-ru="$STRICT_RU" -v 2>&1 | tee deep_hunt.log
+
+        echo ""
+        echo "📊 Results:"
+        echo "   ⭐ Elite: $(wc -l < results/elite_sni.txt 2>/dev/null || echo '0')"
+        echo "   💎 Premium: $(wc -l < results/premium_sni.txt 2>/dev/null || echo '0')"
+        echo "   📄 Target: $(wc -l < results/target_sni.txt 2>/dev/null || echo '0')"
+
+    - name: Show Top Elite SNI
+      run: |
+        echo ""
+        echo "⭐ TOP 20 ELITE SNI:"
+        echo "===================="
+        head -20 results/elite_sni.txt 2>/dev/null || echo "No elite SNI found"
+
+    - name: Commit and Push results
+      run: |
+        # Сохраняем отчёт
+        echo "## 🦫 Deep Hunt Report - $(date +'%Y-%m-%d %H:%M')" >> results/DEEP_HUNT_LAST.md
+        echo "" >> results/DEEP_HUNT_LAST.md
+        echo "### Domains Scanned" >> results/DEEP_HUNT_LAST.md
+        echo "\`\`\`" >> results/DEEP_HUNT_LAST.md
+        echo "${{ github.event.inputs.ct_domains || 'Full RU list (40+ domains)' }}" >> results/DEEP_HUNT_LAST.md
+        echo "\`\`\`" >> results/DEEP_HUNT_LAST.md
+        echo "" >> results/DEEP_HUNT_LAST.md
+        echo "### Results" >> results/DEEP_HUNT_LAST.md
+        echo "- ⭐ Elite: $(wc -l < results/elite_sni.txt 2>/dev/null || echo '0')" >> results/DEEP_HUNT_LAST.md
+        echo "- 💎 Premium: $(wc -l < results/premium_sni.txt 2>/dev/null || echo '0')" >> results/DEEP_HUNT_LAST.md
+        echo "- 📄 Target: $(wc -l < results/target_sni.txt 2>/dev/null || echo '0')" >> results/DEEP_HUNT_LAST.md
+
+        git add results/ 2>/dev/null || true
+
+        if git diff --cached --quiet; then
+          echo "ℹ️ No changes to commit."
+          exit 0
+        fi
+
+        ELITE_NUM=$(wc -l < results/elite_sni.txt 2>/dev/null || echo '0')
+        PREMIUM_NUM=$(wc -l < results/premium_sni.txt 2>/dev/null || echo '0')
+        TARGET_NUM=$(wc -l < results/target_sni.txt 2>/dev/null || echo '0')
+
+        git commit -m "🦫 Deep CT Scan - $(date +'%Y-%m-%d %H:%M') | ⭐Elite: ${ELITE_NUM} 💎Premium: ${PREMIUM_NUM} 📄Target: ${TARGET_NUM}"
+
+        git push origin main

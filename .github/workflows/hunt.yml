@@ -218,38 +218,3 @@ jobs:
       if: always()
       run: |
         rm -rf /tmp/loshad-scoc /tmp/hpp input/ 2>/dev/null || true
-
-  # Еженедельная глубокая чистка - запускается в воскресенье
-  deep-hunt:
-    runs-on: ubuntu-latest
-    timeout-minutes: 45
-    if: github.event_name == 'schedule' && (github.run_attempt == 1 || github.event.schedule == '0 0 * * 0')
-
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
-        token: ${{ secrets.GTA_TOKEN || secrets.GITHUB_TOKEN }}
-
-    - name: Set up Go
-      uses: actions/setup-go@v5
-      with:
-        go-version: '1.21'
-
-    - name: Deep CT Scan
-      run: |
-        go mod tidy
-        go build -ldflags="-s -w" -o zhopa-bobra .
-
-        # Глубокий скан всех крупных RU доменов
-        DOMAINS="yandex.ru,sberbank.ru,vk.com,mail.ru,ozon.ru,wildberries.ru,tbank.ru,alfa.ru,mts.ru,megafon.ru,beeline.ru,gosuslugi.ru,rutube.ru,dzen.ru,kinopoisk.ru,hh.ru,habr.ru,2gis.ru,avito.ru,ok.ru,rbc.ru,lenta.ru,rambler.ru,gismeteo.ru,ivi.ru,auto.ru,cian.ru,drive2.ru,drom.ru,tutu.ru,aviasales.ru,leroymerlin.ru,petrovich.ru,detmir.ru,sportmaster.ru,lamoda.ru,mvideo.ru,eldorado.ru,citilink.ru,dns-shop.ru"
-
-        ./zhopa-bobra -ct "$DOMAINS" -min-count 1 -strict-ru=true -v
-
-    - name: Push
-      run: |
-        git config --global user.name '🦫 Bobr Bot'
-        git config --global user.email 'bobr@noreply.github.com'
-        git add results/
-        git diff --cached --quiet || (git commit -m "🦫 Weekly Deep Scan - $(date +'%Y-%m-%d')" && git push origin main)
