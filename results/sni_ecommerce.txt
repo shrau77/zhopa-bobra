@@ -2,14 +2,14 @@ yandex.ru
 taxi.yandex.ru
 travel.yandex.ru
 disk.yandex.ru
-enterprise.api-maps.yandex.ru
 yabro-wbplugin.edadeal.yandex.ru
+enterprise.api-maps.yandex.ru
 www.yandex.ru
 www.wildberries.ru
 drive.yandex.ru
 avito.ru
-any.yandex.ru
 dns.yandex.ru
+any.yandex.ru
 passport.yandex.ru
 x5.ru
 io.ozone.ru
