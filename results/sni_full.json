@@ -1,37 +1,37 @@
 [
   {
     "sni": "yandex.ru",
-    "count": 10938,
+    "count": 11184,
     "alive": true,
     "http_status": 200,
-    "response_time": 1275,
+    "response_time": 3106,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:37.369825546Z",
-    "last_checked": "2026-03-09T01:45:39.447936548Z",
+    "first_seen": "2026-03-09T05:20:21.523319788Z",
+    "last_checked": "2026-03-09T05:20:25.246336048Z",
     "servers": [
-      "77.88.44.55",
       "77.88.55.88",
       "5.255.255.77",
+      "77.88.44.55",
       "2a02:6b8:a::a"
     ]
   },
   {
     "sni": "taxi.yandex.ru",
-    "count": 1081,
+    "count": 1118,
     "alive": true,
     "http_status": 200,
-    "response_time": 1248,
+    "response_time": 1251,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:35.237922963Z",
-    "last_checked": "2026-03-09T01:45:37.695066927Z",
+    "first_seen": "2026-03-09T05:20:19.060102423Z",
+    "last_checked": "2026-03-09T05:20:21.308937744Z",
     "servers": [
       "37.9.112.5",
       "2a02:6b8::316"
@@ -39,76 +39,76 @@
   },
   {
     "sni": "eh.vk.ru",
-    "count": 350,
+    "count": 352,
     "alive": true,
     "http_status": 400,
-    "response_time": 807,
+    "response_time": 851,
     "category": "other",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:36.380355465Z",
-    "last_checked": "2026-03-09T01:45:38.028168235Z",
+    "first_seen": "2026-03-09T05:20:19.059666414Z",
+    "last_checked": "2026-03-09T05:20:21.045484574Z",
     "servers": [
-      "95.213.56.4",
       "95.213.56.2",
       "93.186.237.6",
+      "93.186.237.7",
       "93.186.237.16",
-      "93.186.237.7"
+      "95.213.56.4"
     ]
   },
   {
     "sni": "rutube.ru",
-    "count": 256,
+    "count": 248,
     "alive": true,
     "http_status": 200,
-    "response_time": 2870,
+    "response_time": 2193,
     "category": "social",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:39.972467091Z",
-    "last_checked": "2026-03-09T01:45:43.065106892Z",
+    "first_seen": "2026-03-09T05:20:20.006795976Z",
+    "last_checked": "2026-03-09T05:20:23.302998871Z",
     "servers": [
-      "178.248.233.148",
-      "109.238.90.239"
+      "109.238.90.239",
+      "178.248.233.148"
     ]
   },
   {
     "sni": "ya.ru",
-    "count": 188,
+    "count": 233,
     "alive": true,
     "http_status": 200,
-    "response_time": 1254,
+    "response_time": 1243,
     "category": "other",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:38.155674971Z",
-    "last_checked": "2026-03-09T01:45:40.270711225Z",
+    "first_seen": "2026-03-09T05:20:19.884651867Z",
+    "last_checked": "2026-03-09T05:20:21.985784422Z",
     "servers": [
-      "5.255.255.242",
       "77.88.44.242",
+      "5.255.255.242",
       "77.88.55.242",
       "2a02:6b8::2:242"
     ]
   },
   {
     "sni": "travel.yandex.ru",
-    "count": 165,
+    "count": 155,
     "alive": true,
     "http_status": 200,
-    "response_time": 1275,
+    "response_time": 1224,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:35.238558914Z",
-    "last_checked": "2026-03-09T01:45:37.359032094Z",
+    "first_seen": "2026-03-09T05:20:19.059847894Z",
+    "last_checked": "2026-03-09T05:20:21.094558139Z",
     "servers": [
       "93.158.134.81",
       "2a02:6b8::45a"
@@ -116,52 +116,34 @@
   },
   {
     "sni": "rbc.ru",
-    "count": 131,
+    "count": 136,
     "alive": true,
     "http_status": 401,
-    "response_time": 1148,
+    "response_time": 1185,
     "category": "tech",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:36.194784225Z",
-    "last_checked": "2026-03-09T01:45:37.638009011Z",
+    "first_seen": "2026-03-09T05:20:21.09738775Z",
+    "last_checked": "2026-03-09T05:20:22.571427151Z",
     "servers": [
       "178.248.236.77"
     ]
   },
   {
     "sni": "www.kinopoisk.ru",
-    "count": 100,
+    "count": 108,
     "alive": true,
     "http_status": 200,
-    "response_time": 1250,
+    "response_time": 1238,
     "category": "social",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:38.803444741Z",
-    "last_checked": "2026-03-09T01:45:41.138876581Z",
-    "servers": [
-      "213.180.199.9",
-      "2a02:6b8::473"
-    ]
-  },
-  {
-    "sni": "kinopoisk.ru",
-    "count": 89,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 1277,
-    "category": "social",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:36.990989796Z",
-    "last_checked": "2026-03-09T01:45:43.021565467Z",
+    "first_seen": "2026-03-09T05:20:20.074591433Z",
+    "last_checked": "2026-03-09T05:20:22.330318428Z",
     "servers": [
       "213.180.199.9",
       "2a02:6b8::473"
@@ -169,105 +151,123 @@
   },
   {
     "sni": "alfabank.ru",
-    "count": 61,
+    "count": 80,
     "alive": true,
     "http_status": 403,
-    "response_time": 865,
+    "response_time": 540,
     "category": "banks",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:39.973093244Z",
-    "last_checked": "2026-03-09T01:45:41.892326752Z",
+    "first_seen": "2026-03-09T05:20:21.97537859Z",
+    "last_checked": "2026-03-09T05:20:23.572732926Z",
     "servers": [
       "217.12.104.100"
     ]
   },
   {
-    "sni": "contract.gosuslugi.ru",
-    "count": 44,
+    "sni": "kinopoisk.ru",
+    "count": 60,
     "alive": true,
     "http_status": 200,
-    "response_time": 771,
-    "category": "government",
+    "response_time": 1312,
+    "category": "social",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:37.359051971Z",
-    "last_checked": "2026-03-09T01:45:38.924841844Z",
+    "first_seen": "2026-03-09T05:20:22.541457392Z",
+    "last_checked": "2026-03-09T05:20:24.926771397Z",
     "servers": [
-      "109.207.1.138",
-      "109.207.8.138"
+      "213.180.199.9",
+      "2a02:6b8::473"
     ]
   },
   {
     "sni": "disk.yandex.ru",
-    "count": 39,
+    "count": 50,
     "alive": true,
     "http_status": 200,
-    "response_time": 1289,
+    "response_time": 1324,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:37.638062922Z",
-    "last_checked": "2026-03-09T01:45:39.919977359Z",
+    "first_seen": "2026-03-09T05:20:19.74367124Z",
+    "last_checked": "2026-03-09T05:20:22.28874604Z",
     "servers": [
       "87.250.250.50",
       "2a02:6b8::2:50"
     ]
   },
   {
-    "sni": "goya.rutube.ru",
-    "count": 38,
+    "sni": "contract.gosuslugi.ru",
+    "count": 46,
     "alive": true,
     "http_status": 200,
-    "response_time": 367,
+    "response_time": 839,
+    "category": "government",
+    "is_russian": true,
+    "is_elite": true,
+    "has_https": true,
+    "quality_score": 100,
+    "first_seen": "2026-03-09T05:20:19.05916188Z",
+    "last_checked": "2026-03-09T05:20:20.873108528Z",
+    "servers": [
+      "109.207.1.138",
+      "109.207.8.138"
+    ]
+  },
+  {
+    "sni": "goya.rutube.ru",
+    "count": 36,
+    "alive": true,
+    "http_status": 200,
+    "response_time": 654,
     "category": "social",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:35.238062129Z",
-    "last_checked": "2026-03-09T01:45:36.274238346Z",
+    "first_seen": "2026-03-09T05:20:22.693031693Z",
+    "last_checked": "2026-03-09T05:20:23.987456675Z",
     "servers": [
       "178.248.234.78"
     ]
   },
   {
     "sni": "www.rutube.ru",
-    "count": 32,
+    "count": 34,
     "alive": true,
     "http_status": 200,
-    "response_time": 2813,
+    "response_time": 2427,
     "category": "social",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:35.237915065Z",
-    "last_checked": "2026-03-09T01:45:38.828542294Z",
+    "first_seen": "2026-03-09T05:20:22.330363272Z",
+    "last_checked": "2026-03-09T05:20:26.036255041Z",
     "servers": [
-      "178.248.233.148",
-      "109.238.90.239"
+      "109.238.90.239",
+      "178.248.233.148"
     ]
   },
   {
     "sni": "yabro-wbplugin.edadeal.yandex.ru",
-    "count": 22,
+    "count": 26,
     "alive": true,
     "http_status": 404,
-    "response_time": 596,
+    "response_time": 620,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:35.23830441Z",
-    "last_checked": "2026-03-09T01:45:37.048177695Z",
+    "first_seen": "2026-03-09T05:20:19.05967898Z",
+    "last_checked": "2026-03-09T05:20:20.707945873Z",
     "servers": [
       "93.158.134.210",
       "2a02:6b8::26d"
@@ -275,35 +275,55 @@
   },
   {
     "sni": "enterprise.api-maps.yandex.ru",
-    "count": 15,
+    "count": 18,
     "alive": true,
     "http_status": 404,
-    "response_time": 649,
+    "response_time": 589,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:39.368997815Z",
-    "last_checked": "2026-03-09T01:45:40.813775626Z",
+    "first_seen": "2026-03-09T05:20:19.060214441Z",
+    "last_checked": "2026-03-09T05:20:20.43913798Z",
     "servers": [
       "87.250.251.134",
       "2a02:6b8::274"
     ]
   },
   {
-    "sni": "crowdtest.payment-widget-smarttv.plus.tst.kinopoisk.ru",
-    "count": 14,
+    "sni": "www.yandex.ru",
+    "count": 12,
     "alive": true,
     "http_status": 200,
-    "response_time": 2148,
+    "response_time": 2077,
+    "category": "ecommerce",
+    "is_russian": true,
+    "is_elite": true,
+    "has_https": true,
+    "quality_score": 100,
+    "first_seen": "2026-03-09T05:20:19.06027157Z",
+    "last_checked": "2026-03-09T05:20:21.941308748Z",
+    "servers": [
+      "77.88.44.55",
+      "5.255.255.77",
+      "77.88.55.88",
+      "2a02:6b8:a::a"
+    ]
+  },
+  {
+    "sni": "crowdtest.payment-widget-smarttv.plus.tst.kinopoisk.ru",
+    "count": 12,
+    "alive": true,
+    "http_status": 200,
+    "response_time": 2201,
     "category": "social",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:35.23772777Z",
-    "last_checked": "2026-03-09T01:45:38.95276548Z",
+    "first_seen": "2026-03-09T05:20:19.059903268Z",
+    "last_checked": "2026-03-09T05:20:22.747407834Z",
     "servers": [
       "93.158.134.59",
       "2a02:6b8::22f"
@@ -314,14 +334,14 @@
     "count": 12,
     "alive": true,
     "http_status": 200,
-    "response_time": 2190,
+    "response_time": 2996,
     "category": "tech",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:37.460846154Z",
-    "last_checked": "2026-03-09T01:45:39.842711449Z",
+    "first_seen": "2026-03-09T05:20:19.059848327Z",
+    "last_checked": "2026-03-09T05:20:22.703838582Z",
     "servers": [
       "80.67.43.1",
       "80.67.43.33",
@@ -329,23 +349,20 @@
     ]
   },
   {
-    "sni": "www.yandex.ru",
-    "count": 12,
+    "sni": "www.wildberries.ru",
+    "count": 10,
     "alive": true,
-    "http_status": 200,
-    "response_time": 3726,
+    "http_status": 498,
+    "response_time": 908,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:36.894294942Z",
-    "last_checked": "2026-03-09T01:45:41.426449938Z",
+    "first_seen": "2026-03-09T05:20:21.539720775Z",
+    "last_checked": "2026-03-09T05:20:23.700087215Z",
     "servers": [
-      "77.88.44.55",
-      "5.255.255.77",
-      "77.88.55.88",
-      "2a02:6b8:a::a"
+      "185.62.202.2"
     ]
   },
   {
@@ -353,37 +370,20 @@
     "count": 10,
     "alive": true,
     "http_status": 200,
-    "response_time": 2028,
+    "response_time": 1836,
     "category": "other",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:38.215311112Z",
-    "last_checked": "2026-03-09T01:45:41.393183377Z",
+    "first_seen": "2026-03-09T05:20:19.060161805Z",
+    "last_checked": "2026-03-09T05:20:21.755989075Z",
     "servers": [
-      "87.240.132.72",
       "87.240.129.133",
+      "87.240.132.72",
       "87.240.132.67",
-      "93.186.225.194",
+      "87.240.132.78",
       "87.240.137.164"
-    ]
-  },
-  {
-    "sni": "www.wildberries.ru",
-    "count": 10,
-    "alive": true,
-    "http_status": 498,
-    "response_time": 779,
-    "category": "ecommerce",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:36.855150011Z",
-    "last_checked": "2026-03-09T01:45:38.496403606Z",
-    "servers": [
-      "185.62.202.2"
     ]
   },
   {
@@ -391,14 +391,14 @@
     "count": 8,
     "alive": true,
     "http_status": 200,
-    "response_time": 1284,
+    "response_time": 1258,
     "category": "tech",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:37.580379621Z",
-    "last_checked": "2026-03-09T01:45:40.115322875Z",
+    "first_seen": "2026-03-09T05:20:19.059730035Z",
+    "last_checked": "2026-03-09T05:20:21.847611023Z",
     "servers": [
       "91.236.51.145"
     ]
@@ -408,14 +408,14 @@
     "count": 6,
     "alive": true,
     "http_status": 200,
-    "response_time": 1867,
+    "response_time": 2123,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:39.747058774Z",
-    "last_checked": "2026-03-09T01:45:42.412655937Z",
+    "first_seen": "2026-03-09T05:20:19.060834024Z",
+    "last_checked": "2026-03-09T05:20:21.975343213Z",
     "servers": [
       "213.180.204.242",
       "2a02:6b8::242"
@@ -426,18 +426,18 @@
     "count": 4,
     "alive": true,
     "http_status": 200,
-    "response_time": 1722,
+    "response_time": 2398,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:35.417581271Z",
-    "last_checked": "2026-03-09T01:45:37.356953132Z",
+    "first_seen": "2026-03-09T05:20:20.873156908Z",
+    "last_checked": "2026-03-09T05:20:23.422797384Z",
     "servers": [
+      "176.114.122.24",
       "176.114.120.24",
-      "176.114.124.24",
-      "176.114.122.24"
+      "176.114.124.24"
     ]
   },
   {
@@ -445,33 +445,16 @@
     "count": 1,
     "alive": true,
     "http_status": 200,
-    "response_time": 1592,
+    "response_time": 2430,
     "category": "tech",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:36.159105283Z",
-    "last_checked": "2026-03-09T01:45:39.230933348Z",
+    "first_seen": "2026-03-09T05:20:19.060320562Z",
+    "last_checked": "2026-03-09T05:20:23.066659927Z",
     "servers": [
       "91.236.51.50"
-    ]
-  },
-  {
-    "sni": "tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 2109,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 100,
-    "first_seen": "2026-03-09T01:45:38.307610208Z",
-    "last_checked": "2026-03-09T01:45:41.184063234Z",
-    "servers": [
-      "178.130.128.27"
     ]
   },
   {
@@ -479,36 +462,17 @@
     "count": 2,
     "alive": true,
     "http_status": 404,
-    "response_time": 633,
+    "response_time": 660,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:37.35221239Z",
-    "last_checked": "2026-03-09T01:45:38.803421798Z",
+    "first_seen": "2026-03-09T05:20:23.279823374Z",
+    "last_checked": "2026-03-09T05:20:24.744855628Z",
     "servers": [
       "213.180.204.242",
       "2a02:6b8::242"
-    ]
-  },
-  {
-    "sni": "www.ok.ru",
-    "count": 2,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 2403,
-    "category": "social",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:35.237991828Z",
-    "last_checked": "2026-03-09T01:45:38.713016903Z",
-    "servers": [
-      "217.20.155.13",
-      "217.20.147.1",
-      "5.61.23.11"
     ]
   },
   {
@@ -516,17 +480,36 @@
     "count": 2,
     "alive": true,
     "http_status": 200,
-    "response_time": 1647,
+    "response_time": 1644,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:37.440849864Z",
-    "last_checked": "2026-03-09T01:45:40.093394267Z",
+    "first_seen": "2026-03-09T05:20:19.059166301Z",
+    "last_checked": "2026-03-09T05:20:21.690022159Z",
     "servers": [
       "87.250.251.101",
       "2a02:6b8::1b"
+    ]
+  },
+  {
+    "sni": "www.ok.ru",
+    "count": 2,
+    "alive": true,
+    "http_status": 200,
+    "response_time": 2589,
+    "category": "social",
+    "is_russian": true,
+    "is_elite": true,
+    "has_https": true,
+    "quality_score": 95,
+    "first_seen": "2026-03-09T05:20:22.602492556Z",
+    "last_checked": "2026-03-09T05:20:25.985092891Z",
+    "servers": [
+      "217.20.147.1",
+      "5.61.23.11",
+      "217.20.155.13"
     ]
   },
   {
@@ -534,460 +517,16 @@
     "count": 2,
     "alive": true,
     "http_status": 200,
-    "response_time": 1138,
+    "response_time": 628,
     "category": "banks",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:38.681594642Z",
-    "last_checked": "2026-03-09T01:45:41.609384489Z",
+    "first_seen": "2026-03-09T05:20:21.421573479Z",
+    "last_checked": "2026-03-09T05:20:23.346536537Z",
     "servers": [
       "84.252.149.206"
-    ]
-  },
-  {
-    "sni": "tact-sm.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 764,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:35.774198432Z",
-    "last_checked": "2026-03-09T01:45:37.303477515Z",
-    "servers": [
-      "178.130.128.44"
-    ]
-  },
-  {
-    "sni": "bridge.time.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 798,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:36.093824422Z",
-    "last_checked": "2026-03-09T01:45:37.686630832Z",
-    "servers": [
-      "84.201.187.121"
-    ]
-  },
-  {
-    "sni": "id.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 404,
-    "response_time": 760,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:35.240010608Z",
-    "last_checked": "2026-03-09T01:45:36.769020823Z",
-    "servers": [
-      "178.130.128.26"
-    ]
-  },
-  {
-    "sni": "twork-learn.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 492,
-    "response_time": 581,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:35.23985057Z",
-    "last_checked": "2026-03-09T01:45:36.855115096Z",
-    "servers": [
-      "178.130.128.37"
-    ]
-  },
-  {
-    "sni": "docker.registry.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 400,
-    "response_time": 967,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:35.239312456Z",
-    "last_checked": "2026-03-09T01:45:36.855789622Z",
-    "servers": [
-      "84.201.150.151"
-    ]
-  },
-  {
-    "sni": "social.secrets.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 401,
-    "response_time": 785,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:39.47968732Z",
-    "last_checked": "2026-03-09T01:45:41.243396843Z",
-    "servers": [
-      "178.130.128.48"
-    ]
-  },
-  {
-    "sni": "emails.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 404,
-    "response_time": 1392,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:36.08720669Z",
-    "last_checked": "2026-03-09T01:45:38.87942139Z",
-    "servers": [
-      "185.76.234.240",
-      "185.76.232.240"
-    ]
-  },
-  {
-    "sni": "le.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 774,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:38.028196617Z",
-    "last_checked": "2026-03-09T01:45:39.576244467Z",
-    "servers": [
-      "178.130.128.39"
-    ]
-  },
-  {
-    "sni": "shop.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 2081,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:35.238127934Z",
-    "last_checked": "2026-03-09T01:45:38.307580953Z",
-    "servers": [
-      "178.130.128.40"
-    ]
-  },
-  {
-    "sni": "time.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 604,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:38.82857281Z",
-    "last_checked": "2026-03-09T01:45:40.211148152Z",
-    "servers": [
-      "84.201.187.121"
-    ]
-  },
-  {
-    "sni": "link.emails.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 404,
-    "response_time": 970,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:35.237746616Z",
-    "last_checked": "2026-03-09T01:45:38.268123755Z",
-    "servers": [
-      "185.76.232.246",
-      "185.76.234.246"
-    ]
-  },
-  {
-    "sni": "time-ops.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 783,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:35.238134066Z",
-    "last_checked": "2026-03-09T01:45:36.990950753Z",
-    "servers": [
-      "51.250.55.90"
-    ]
-  },
-  {
-    "sni": "secrets.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 401,
-    "response_time": 224,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:36.27101197Z",
-    "last_checked": "2026-03-09T01:45:36.73343287Z",
-    "servers": [
-      "178.248.232.177"
-    ]
-  },
-  {
-    "sni": "cobrowsing-cdn-test.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 403,
-    "response_time": 1469,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:37.884194329Z",
-    "last_checked": "2026-03-09T01:45:40.422362645Z",
-    "servers": [
-      "193.17.93.194"
-    ]
-  },
-  {
-    "sni": "j.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 401,
-    "response_time": 500,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:35.238552382Z",
-    "last_checked": "2026-03-09T01:45:36.173677143Z",
-    "servers": [
-      "178.248.232.177"
-    ]
-  },
-  {
-    "sni": "hrc.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 595,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:35.782653571Z",
-    "last_checked": "2026-03-09T01:45:37.173600712Z",
-    "servers": [
-      "178.130.128.39"
-    ]
-  },
-  {
-    "sni": "twork-fks.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 492,
-    "response_time": 539,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:38.024804575Z",
-    "last_checked": "2026-03-09T01:45:39.338401697Z",
-    "servers": [
-      "178.130.128.37"
-    ]
-  },
-  {
-    "sni": "www.j.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 401,
-    "response_time": 509,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:39.230955609Z",
-    "last_checked": "2026-03-09T01:45:40.620534233Z",
-    "servers": [
-      "178.248.232.177"
-    ]
-  },
-  {
-    "sni": "speedtest.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 849,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:38.952809612Z",
-    "last_checked": "2026-03-09T01:45:40.580367657Z",
-    "servers": [
-      "178.130.128.39"
-    ]
-  },
-  {
-    "sni": "safemobile.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 571,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:35.239312499Z",
-    "last_checked": "2026-03-09T01:45:36.578790516Z",
-    "servers": [
-      "178.130.128.55"
-    ]
-  },
-  {
-    "sni": "invest-media.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 2438,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:40.211180572Z",
-    "last_checked": "2026-03-09T01:45:42.66641369Z",
-    "servers": [
-      "178.248.232.177"
-    ]
-  },
-  {
-    "sni": "twork.edu.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 929,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:38.242351727Z",
-    "last_checked": "2026-03-09T01:45:39.938370122Z",
-    "servers": [
-      "178.130.128.54"
-    ]
-  },
-  {
-    "sni": "www.journal.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 401,
-    "response_time": 590,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:35.239910953Z",
-    "last_checked": "2026-03-09T01:45:36.165468914Z",
-    "servers": [
-      "178.248.232.177"
-    ]
-  },
-  {
-    "sni": "ffdd2d.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 1809,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:35.238133045Z",
-    "last_checked": "2026-03-09T01:45:38.024783707Z",
-    "servers": [
-      "178.130.128.54"
-    ]
-  },
-  {
-    "sni": "journal.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 401,
-    "response_time": 519,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:38.638668564Z",
-    "last_checked": "2026-03-09T01:45:39.167581778Z",
-    "servers": [
-      "178.248.232.177"
-    ]
-  },
-  {
-    "sni": "producty24conf.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 1606,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:39.557263697Z",
-    "last_checked": "2026-03-09T01:45:41.939573194Z",
-    "servers": [
-      "178.130.128.54"
     ]
   },
   {
@@ -995,134 +534,31 @@
     "count": 1,
     "alive": true,
     "http_status": 200,
-    "response_time": 1210,
+    "response_time": 1256,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": true,
     "has_https": true,
     "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:39.110196055Z",
-    "last_checked": "2026-03-09T01:45:41.119158371Z",
+    "first_seen": "2026-03-09T05:20:23.303024719Z",
+    "last_checked": "2026-03-09T05:20:25.36935746Z",
     "servers": [
       "93.158.134.39",
       "2a02:6b8::d6"
     ]
   },
   {
-    "sni": "read.emails.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 404,
-    "response_time": 969,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:38.924874224Z",
-    "last_checked": "2026-03-09T01:45:41.960066546Z",
-    "servers": [
-      "185.76.232.244",
-      "185.76.234.244"
-    ]
-  },
-  {
-    "sni": "registry.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 404,
-    "response_time": 1005,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:36.165541099Z",
-    "last_checked": "2026-03-09T01:45:37.721563435Z",
-    "servers": [
-      "84.201.150.151"
-    ]
-  },
-  {
-    "sni": "tmsg-p2p.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 961,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:37.123825212Z",
-    "last_checked": "2026-03-09T01:45:39.052276456Z",
-    "servers": [
-      "178.130.128.56"
-    ]
-  },
-  {
-    "sni": "gitlab.education.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 1670,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:35.238464921Z",
-    "last_checked": "2026-03-09T01:45:37.890141149Z",
-    "servers": [
-      "89.169.129.96"
-    ]
-  },
-  {
-    "sni": "twork.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 2637,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:35.748951236Z",
-    "last_checked": "2026-03-09T01:45:39.165128896Z",
-    "servers": [
-      "178.130.128.37"
-    ]
-  },
-  {
-    "sni": "opensource.tbank.ru",
-    "count": 1,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 1672,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": true,
-    "quality_score": 95,
-    "first_seen": "2026-03-09T01:45:35.238478614Z",
-    "last_checked": "2026-03-09T01:45:37.884162099Z",
-    "servers": [
-      "158.160.167.155"
-    ]
-  },
-  {
     "sni": "ozon.ru",
-    "count": 1522,
+    "count": 1520,
     "alive": false,
     "http_status": 0,
-    "response_time": 397,
+    "response_time": 370,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": true,
     "has_https": false,
     "quality_score": 90,
-    "first_seen": "2026-03-09T01:45:37.890166386Z",
+    "first_seen": "2026-03-09T05:20:22.485704864Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "185.73.193.68",
@@ -1140,7 +576,7 @@
     "is_elite": true,
     "has_https": false,
     "quality_score": 90,
-    "first_seen": "2026-03-09T01:45:35.23791059Z",
+    "first_seen": "2026-03-09T05:20:19.059634999Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "217.118.87.98"
@@ -1157,11 +593,11 @@
     "is_elite": true,
     "has_https": false,
     "quality_score": 90,
-    "first_seen": "2026-03-09T01:45:36.769039117Z",
+    "first_seen": "2026-03-09T05:20:21.756028599Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "213.59.253.7",
-      "213.59.254.7"
+      "213.59.254.7",
+      "213.59.253.7"
     ]
   },
   {
@@ -1169,21 +605,21 @@
     "count": 14,
     "alive": true,
     "http_status": 200,
-    "response_time": 2150,
+    "response_time": 1997,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 85,
-    "first_seen": "2026-03-09T01:45:38.712403558Z",
-    "last_checked": "2026-03-09T01:45:41.752220708Z",
+    "first_seen": "2026-03-09T05:20:21.094594337Z",
+    "last_checked": "2026-03-09T05:20:23.859679919Z",
     "servers": [
       "91.206.100.17"
     ]
   },
   {
     "sni": "event.yandex.ru",
-    "count": 133,
+    "count": 128,
     "alive": false,
     "http_status": 0,
     "response_time": 0,
@@ -1192,7 +628,7 @@
     "is_elite": true,
     "has_https": false,
     "quality_score": 85,
-    "first_seen": "2026-03-09T01:45:36.855848792Z",
+    "first_seen": "2026-03-09T05:20:19.719647096Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "213.180.204.62",
@@ -1204,32 +640,32 @@
     "count": 19,
     "alive": false,
     "http_status": 0,
-    "response_time": 375,
+    "response_time": 394,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": true,
     "has_https": false,
     "quality_score": 85,
-    "first_seen": "2026-03-09T01:45:35.958838273Z",
+    "first_seen": "2026-03-09T05:20:19.060158426Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "185.73.193.68",
-      "185.73.194.82"
+      "185.73.194.82",
+      "185.73.193.68"
     ]
   },
   {
     "sni": "io.ozone.ru",
-    "count": 230,
+    "count": 240,
     "alive": true,
     "http_status": 403,
-    "response_time": 771,
+    "response_time": 899,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:40.580404024Z",
-    "last_checked": "2026-03-09T01:45:43.062820455Z",
+    "first_seen": "2026-03-09T05:20:20.618399079Z",
+    "last_checked": "2026-03-09T05:20:22.69298719Z",
     "servers": [
       "185.73.193.119",
       "185.73.195.116"
@@ -1237,17 +673,17 @@
   },
   {
     "sni": "ir.ozone.ru",
-    "count": 222,
+    "count": 236,
     "alive": true,
     "http_status": 403,
-    "response_time": 752,
+    "response_time": 1083,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:36.871375801Z",
-    "last_checked": "2026-03-09T01:45:39.239041269Z",
+    "first_seen": "2026-03-09T05:20:22.355783759Z",
+    "last_checked": "2026-03-09T05:20:24.761760589Z",
     "servers": [
       "185.73.193.119",
       "185.73.195.116"
@@ -1255,36 +691,19 @@
   },
   {
     "sni": "5post-gate.x5.ru",
-    "count": 112,
+    "count": 122,
     "alive": true,
     "http_status": 404,
-    "response_time": 973,
+    "response_time": 590,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:36.977349206Z",
-    "last_checked": "2026-03-09T01:45:38.775389351Z",
+    "first_seen": "2026-03-09T05:20:21.045522525Z",
+    "last_checked": "2026-03-09T05:20:22.602455877Z",
     "servers": [
       "91.206.100.16"
-    ]
-  },
-  {
-    "sni": "aliusfilms.ru",
-    "count": 63,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 562,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": true,
-    "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:37.897437369Z",
-    "last_checked": "2026-03-09T01:45:39.187971553Z",
-    "servers": [
-      "46.173.24.78"
     ]
   },
   {
@@ -1292,16 +711,33 @@
     "count": 55,
     "alive": true,
     "http_status": 403,
-    "response_time": 1042,
+    "response_time": 1068,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:40.083787578Z",
-    "last_checked": "2026-03-09T01:45:42.826603992Z",
+    "first_seen": "2026-03-09T05:20:19.710467099Z",
+    "last_checked": "2026-03-09T05:20:22.763690979Z",
     "servers": [
-      "46.42.187.253"
+      "151.236.83.94"
+    ]
+  },
+  {
+    "sni": "aliusfilms.ru",
+    "count": 49,
+    "alive": true,
+    "http_status": 200,
+    "response_time": 646,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": true,
+    "quality_score": 80,
+    "first_seen": "2026-03-09T05:20:22.70386946Z",
+    "last_checked": "2026-03-09T05:20:24.001235271Z",
+    "servers": [
+      "46.173.24.78"
     ]
   },
   {
@@ -1309,14 +745,14 @@
     "count": 35,
     "alive": true,
     "http_status": 200,
-    "response_time": 1011,
+    "response_time": 1299,
     "category": "other",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:36.932285456Z",
-    "last_checked": "2026-03-09T01:45:38.765538121Z",
+    "first_seen": "2026-03-09T05:20:20.229407062Z",
+    "last_checked": "2026-03-09T05:20:22.355727444Z",
     "servers": [
       "94.139.240.170",
       "94.139.240.169"
@@ -1324,17 +760,17 @@
   },
   {
     "sni": "tvdesign.ru",
-    "count": 29,
+    "count": 30,
     "alive": true,
     "http_status": 200,
-    "response_time": 1369,
+    "response_time": 1393,
     "category": "other",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:36.898950338Z",
-    "last_checked": "2026-03-09T01:45:39.337751028Z",
+    "first_seen": "2026-03-09T05:20:20.528009016Z",
+    "last_checked": "2026-03-09T05:20:22.984762574Z",
     "servers": [
       "178.250.240.233"
     ]
@@ -1344,33 +780,16 @@
     "count": 26,
     "alive": true,
     "http_status": 200,
-    "response_time": 1119,
+    "response_time": 1494,
     "category": "other",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:36.173694435Z",
-    "last_checked": "2026-03-09T01:45:38.274271531Z",
+    "first_seen": "2026-03-09T05:20:19.059714318Z",
+    "last_checked": "2026-03-09T05:20:21.518872902Z",
     "servers": [
       "146.185.196.123"
-    ]
-  },
-  {
-    "sni": "krakenlabs.ru",
-    "count": 19,
-    "alive": true,
-    "http_status": 200,
-    "response_time": 1005,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": true,
-    "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:37.048234029Z",
-    "last_checked": "2026-03-09T01:45:39.110144459Z",
-    "servers": [
-      "45.150.32.173"
     ]
   },
   {
@@ -1378,17 +797,17 @@
     "count": 16,
     "alive": true,
     "http_status": 402,
-    "response_time": 915,
+    "response_time": 928,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:38.136444656Z",
-    "last_checked": "2026-03-09T01:45:39.972344231Z",
+    "first_seen": "2026-03-09T05:20:19.520296098Z",
+    "last_checked": "2026-03-09T05:20:21.353281325Z",
     "servers": [
-      "185.73.194.117",
-      "185.73.193.117"
+      "185.73.193.117",
+      "185.73.194.117"
     ]
   },
   {
@@ -1396,31 +815,31 @@
     "count": 11,
     "alive": true,
     "http_status": 403,
-    "response_time": 1068,
+    "response_time": 1099,
     "category": "banks",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:36.078806474Z",
-    "last_checked": "2026-03-09T01:45:37.673252371Z",
+    "first_seen": "2026-03-09T05:20:20.399351338Z",
+    "last_checked": "2026-03-09T05:20:22.2154446Z",
     "servers": [
       "195.19.94.77"
     ]
   },
   {
     "sni": "www.x5.ru",
-    "count": 10,
+    "count": 11,
     "alive": true,
     "http_status": 200,
-    "response_time": 1926,
+    "response_time": 2537,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:35.237912533Z",
-    "last_checked": "2026-03-09T01:45:38.136406194Z",
+    "first_seen": "2026-03-09T05:20:19.05990328Z",
+    "last_checked": "2026-03-09T05:20:22.572474133Z",
     "servers": [
       "91.206.100.17"
     ]
@@ -1430,16 +849,33 @@
     "count": 10,
     "alive": true,
     "http_status": 200,
-    "response_time": 840,
+    "response_time": 806,
     "category": "other",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:36.075952286Z",
-    "last_checked": "2026-03-09T01:45:37.803209527Z",
+    "first_seen": "2026-03-09T05:20:22.288791515Z",
+    "last_checked": "2026-03-09T05:20:23.903386143Z",
     "servers": [
       "51.250.85.228"
+    ]
+  },
+  {
+    "sni": "flux-or.ru",
+    "count": 8,
+    "alive": true,
+    "http_status": 502,
+    "response_time": 724,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": true,
+    "quality_score": 80,
+    "first_seen": "2026-03-09T05:20:19.060103003Z",
+    "last_checked": "2026-03-09T05:20:20.618372419Z",
+    "servers": [
+      "150.241.115.21"
     ]
   },
   {
@@ -1447,14 +883,14 @@
     "count": 8,
     "alive": true,
     "http_status": 200,
-    "response_time": 1572,
+    "response_time": 1566,
     "category": "other",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:39.904365708Z",
-    "last_checked": "2026-03-09T01:45:42.337246305Z",
+    "first_seen": "2026-03-09T05:20:19.059627263Z",
+    "last_checked": "2026-03-09T05:20:21.490557406Z",
     "servers": [
       "87.228.78.166"
     ]
@@ -1464,50 +900,33 @@
     "count": 6,
     "alive": true,
     "http_status": 200,
-    "response_time": 808,
+    "response_time": 738,
     "category": "other",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:35.238063516Z",
-    "last_checked": "2026-03-09T01:45:36.871342239Z",
+    "first_seen": "2026-03-09T05:20:22.664324487Z",
+    "last_checked": "2026-03-09T05:20:24.211713811Z",
     "servers": [
       "109.69.17.34"
     ]
   },
   {
-    "sni": "flux-or.ru",
-    "count": 6,
-    "alive": true,
-    "http_status": 502,
-    "response_time": 733,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": true,
-    "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:35.237992863Z",
-    "last_checked": "2026-03-09T01:45:36.766046426Z",
-    "servers": [
-      "150.241.115.21"
-    ]
-  },
-  {
-    "sni": "carreta.ru",
+    "sni": "dc-electro.ru",
     "count": 5,
     "alive": true,
-    "http_status": 200,
-    "response_time": 1251,
+    "http_status": 403,
+    "response_time": 1356,
     "category": "other",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:36.895480359Z",
-    "last_checked": "2026-03-09T01:45:38.959131647Z",
+    "first_seen": "2026-03-09T05:20:22.279400875Z",
+    "last_checked": "2026-03-09T05:20:24.550707867Z",
     "servers": [
-      "87.228.65.112"
+      "185.48.73.40"
     ]
   },
   {
@@ -1515,50 +934,33 @@
     "count": 5,
     "alive": true,
     "http_status": 200,
-    "response_time": 714,
+    "response_time": 776,
     "category": "other",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:39.59357859Z",
-    "last_checked": "2026-03-09T01:45:41.085077386Z",
+    "first_seen": "2026-03-09T05:20:20.439167896Z",
+    "last_checked": "2026-03-09T05:20:22.007996674Z",
     "servers": [
       "87.228.78.71"
     ]
   },
   {
-    "sni": "dc-electro.ru",
+    "sni": "carreta.ru",
     "count": 5,
     "alive": true,
     "http_status": 200,
-    "response_time": 1700,
+    "response_time": 1217,
     "category": "other",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:35.238407244Z",
-    "last_checked": "2026-03-09T01:45:37.866094909Z",
+    "first_seen": "2026-03-09T05:20:19.060107974Z",
+    "last_checked": "2026-03-09T05:20:21.443248861Z",
     "servers": [
-      "185.48.73.40"
-    ]
-  },
-  {
-    "sni": "dns-shop.ru",
-    "count": 4,
-    "alive": true,
-    "http_status": 401,
-    "response_time": 525,
-    "category": "ecommerce",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": true,
-    "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:35.238062221Z",
-    "last_checked": "2026-03-09T01:45:36.22126219Z",
-    "servers": [
-      "185.65.148.196"
+      "87.228.65.112"
     ]
   },
   {
@@ -1566,14 +968,14 @@
     "count": 4,
     "alive": true,
     "http_status": 429,
-    "response_time": 991,
+    "response_time": 973,
     "category": "ecommerce",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 80,
-    "first_seen": "2026-03-09T01:45:35.920790082Z",
-    "last_checked": "2026-03-09T01:45:37.580359143Z",
+    "first_seen": "2026-03-09T05:20:21.327550355Z",
+    "last_checked": "2026-03-09T05:20:23.001046606Z",
     "servers": [
       "47.246.133.141",
       "47.246.133.142",
@@ -1583,22 +985,39 @@
     ]
   },
   {
+    "sni": "dns-shop.ru",
+    "count": 4,
+    "alive": true,
+    "http_status": 401,
+    "response_time": 692,
+    "category": "ecommerce",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": true,
+    "quality_score": 80,
+    "first_seen": "2026-03-09T05:20:22.763734371Z",
+    "last_checked": "2026-03-09T05:20:24.423735801Z",
+    "servers": [
+      "185.65.148.196"
+    ]
+  },
+  {
     "sni": "web.max.ru",
-    "count": 753,
+    "count": 789,
     "alive": true,
     "http_status": 200,
-    "response_time": 873,
+    "response_time": 935,
     "category": "other",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 75,
-    "first_seen": "2026-03-09T01:45:36.038860222Z",
-    "last_checked": "2026-03-09T01:45:37.858265177Z",
+    "first_seen": "2026-03-09T05:20:22.984805404Z",
+    "last_checked": "2026-03-09T05:20:24.837094921Z",
     "servers": [
       "155.212.204.143",
-      "155.212.204.193",
-      "155.212.204.78"
+      "155.212.204.78",
+      "155.212.204.193"
     ]
   },
   {
@@ -1606,14 +1025,33 @@
     "count": 28,
     "alive": true,
     "http_status": 200,
-    "response_time": 831,
+    "response_time": 567,
     "category": "other",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 75,
-    "first_seen": "2026-03-09T01:45:39.167608547Z",
-    "last_checked": "2026-03-09T01:45:41.240796383Z",
+    "first_seen": "2026-03-09T05:20:21.563174071Z",
+    "last_checked": "2026-03-09T05:20:23.184275421Z",
+    "servers": [
+      "155.212.204.140",
+      "155.212.204.5",
+      "155.212.204.74"
+    ]
+  },
+  {
+    "sni": "www.max.ru",
+    "count": 16,
+    "alive": true,
+    "http_status": 200,
+    "response_time": 2070,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": true,
+    "quality_score": 75,
+    "first_seen": "2026-03-09T05:20:19.060972854Z",
+    "last_checked": "2026-03-09T05:20:22.86354923Z",
     "servers": [
       "155.212.204.74",
       "155.212.204.5",
@@ -1621,22 +1059,21 @@
     ]
   },
   {
-    "sni": "www.max.ru",
-    "count": 14,
+    "sni": "fin2.pink-service.ru",
+    "count": 6,
     "alive": true,
     "http_status": 200,
-    "response_time": 2290,
+    "response_time": 555,
     "category": "other",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 75,
-    "first_seen": "2026-03-09T01:45:38.531628331Z",
-    "last_checked": "2026-03-09T01:45:41.955371049Z",
+    "first_seen": "2026-03-09T05:20:19.906812698Z",
+    "last_checked": "2026-03-09T05:20:21.097358105Z",
     "servers": [
-      "155.212.204.140",
-      "155.212.204.74",
-      "155.212.204.5"
+      "45.144.53.57",
+      "152.89.244.61"
     ]
   },
   {
@@ -1644,14 +1081,14 @@
     "count": 1,
     "alive": true,
     "http_status": 200,
-    "response_time": 859,
+    "response_time": 811,
     "category": "banks",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 75,
-    "first_seen": "2026-03-09T01:45:40.620404693Z",
-    "last_checked": "2026-03-09T01:45:42.29469105Z",
+    "first_seen": "2026-03-09T05:20:20.037898386Z",
+    "last_checked": "2026-03-09T05:20:22.083997434Z",
     "servers": [
       "195.208.1.119"
     ]
@@ -1661,14 +1098,14 @@
     "count": 1,
     "alive": true,
     "http_status": 404,
-    "response_time": 659,
+    "response_time": 674,
     "category": "banks",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 75,
-    "first_seen": "2026-03-09T01:45:39.239065905Z",
-    "last_checked": "2026-03-09T01:45:40.45432494Z",
+    "first_seen": "2026-03-09T05:20:22.444677611Z",
+    "last_checked": "2026-03-09T05:20:23.842993064Z",
     "servers": [
       "176.57.64.108"
     ]
@@ -1684,7 +1121,7 @@
     "is_elite": true,
     "has_https": false,
     "quality_score": 75,
-    "first_seen": "2026-03-09T01:45:35.23774064Z",
+    "first_seen": "2026-03-09T05:20:20.605802843Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "213.180.204.242",
@@ -1692,166 +1129,40 @@
     ]
   },
   {
-    "sni": "finedog-mobile.tbank.ru",
-    "count": 1,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "banks",
-    "is_russian": true,
-    "is_elite": true,
-    "has_https": false,
-    "quality_score": 75,
-    "first_seen": "2026-03-09T01:45:35.23774963Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "178.130.129.34"
-    ]
-  },
-  {
-    "sni": "learning-admin.tbank.ru",
-    "count": 1,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "",
-    "is_russian": false,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 75,
-    "first_seen": "2026-03-09T01:45:37.803242779Z",
-    "last_checked": "0001-01-01T00:00:00Z"
-  },
-  {
-    "sni": "tcb-learning.tbank.ru",
-    "count": 1,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "",
-    "is_russian": false,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 75,
-    "first_seen": "2026-03-09T01:45:35.239911742Z",
-    "last_checked": "0001-01-01T00:00:00Z"
-  },
-  {
-    "sni": "learning.tbank.ru",
-    "count": 1,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "",
-    "is_russian": false,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 75,
-    "first_seen": "2026-03-09T01:45:39.165158171Z",
-    "last_checked": "0001-01-01T00:00:00Z"
-  },
-  {
-    "sni": "canary-time.tbank.ru",
-    "count": 1,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "",
-    "is_russian": false,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 75,
-    "first_seen": "2026-03-09T01:45:35.237907886Z",
-    "last_checked": "0001-01-01T00:00:00Z"
-  },
-  {
-    "sni": "korzun-test.tbank.ru",
-    "count": 1,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "",
-    "is_russian": false,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 75,
-    "first_seen": "2026-03-09T01:45:39.187994425Z",
-    "last_checked": "0001-01-01T00:00:00Z"
-  },
-  {
-    "sni": "www-f1.tbank.ru",
-    "count": 1,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "",
-    "is_russian": false,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 75,
-    "first_seen": "2026-03-09T01:45:39.145888238Z",
-    "last_checked": "0001-01-01T00:00:00Z"
-  },
-  {
-    "sni": "talk.tbank.ru",
-    "count": 1,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "",
-    "is_russian": false,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 75,
-    "first_seen": "2026-03-09T01:45:37.124880785Z",
-    "last_checked": "0001-01-01T00:00:00Z"
-  },
-  {
-    "sni": "www.hrc.tbank.ru",
-    "count": 1,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "",
-    "is_russian": false,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 75,
-    "first_seen": "2026-03-09T01:45:35.237989648Z",
-    "last_checked": "0001-01-01T00:00:00Z"
-  },
-  {
     "sni": "x5club.ru",
     "count": 2,
     "alive": true,
     "http_status": 200,
-    "response_time": 1956,
+    "response_time": 1600,
     "category": "other",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 70,
-    "first_seen": "2026-03-09T01:45:38.879440116Z",
-    "last_checked": "2026-03-09T01:45:41.725904693Z",
+    "first_seen": "2026-03-09T05:20:19.059790829Z",
+    "last_checked": "2026-03-09T05:20:21.563131782Z",
     "servers": [
       "193.232.108.201"
     ]
   },
   {
-    "sni": "shop.alfa.ru",
-    "count": 1,
+    "sni": "otus.ru",
+    "count": 2,
     "alive": true,
     "http_status": 200,
-    "response_time": 1916,
-    "category": "banks",
+    "response_time": 2459,
+    "category": "other",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 70,
-    "first_seen": "2026-03-09T01:45:39.33778995Z",
-    "last_checked": "2026-03-09T01:45:42.182396119Z",
+    "first_seen": "2026-03-09T05:20:23.184318772Z",
+    "last_checked": "2026-03-09T05:20:26.528289944Z",
     "servers": [
-      "195.208.1.119"
+      "195.209.90.147",
+      "195.208.65.151",
+      "195.209.87.168",
+      "195.209.88.214"
     ]
   },
   {
@@ -1859,33 +1170,33 @@
     "count": 1,
     "alive": true,
     "http_status": 404,
-    "response_time": 921,
+    "response_time": 873,
     "category": "banks",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 70,
-    "first_seen": "2026-03-09T01:45:37.858299731Z",
-    "last_checked": "2026-03-09T01:45:39.973065403Z",
+    "first_seen": "2026-03-09T05:20:19.060894297Z",
+    "last_checked": "2026-03-09T05:20:21.156143026Z",
     "servers": [
       "176.57.64.108"
     ]
   },
   {
-    "sni": "salute.sber.ru",
-    "count": 2,
+    "sni": "shop.alfa.ru",
+    "count": 1,
     "alive": true,
     "http_status": 200,
-    "response_time": 1364,
-    "category": "other",
+    "response_time": 1647,
+    "category": "banks",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
-    "quality_score": 65,
-    "first_seen": "2026-03-09T01:45:37.673280623Z",
-    "last_checked": "2026-03-09T01:45:39.593550428Z",
+    "quality_score": 70,
+    "first_seen": "2026-03-09T05:20:19.061200241Z",
+    "last_checked": "2026-03-09T05:20:22.076873721Z",
     "servers": [
-      "95.181.181.235"
+      "195.208.1.119"
     ]
   },
   {
@@ -1893,16 +1204,106 @@
     "count": 2,
     "alive": true,
     "http_status": 400,
-    "response_time": 953,
+    "response_time": 849,
     "category": "other",
     "is_russian": true,
     "is_elite": false,
     "has_https": true,
     "quality_score": 65,
-    "first_seen": "2026-03-09T01:45:39.447955603Z",
-    "last_checked": "2026-03-09T01:45:41.383430276Z",
+    "first_seen": "2026-03-09T05:20:22.215487862Z",
+    "last_checked": "2026-03-09T05:20:24.468007996Z",
     "servers": [
       "185.71.67.79"
+    ]
+  },
+  {
+    "sni": "pol.pink-service.ru",
+    "count": 2,
+    "alive": true,
+    "http_status": 200,
+    "response_time": 599,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": true,
+    "quality_score": 65,
+    "first_seen": "2026-03-09T05:20:22.572525559Z",
+    "last_checked": "2026-03-09T05:20:23.899976688Z",
+    "servers": [
+      "77.239.114.139",
+      "138.124.104.214",
+      "77.239.114.138"
+    ]
+  },
+  {
+    "sni": "se.pink-service.ru",
+    "count": 2,
+    "alive": true,
+    "http_status": 200,
+    "response_time": 709,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": true,
+    "quality_score": 65,
+    "first_seen": "2026-03-09T05:20:22.15255744Z",
+    "last_checked": "2026-03-09T05:20:23.439297103Z",
+    "servers": [
+      "84.32.99.165"
+    ]
+  },
+  {
+    "sni": "de.pink-service.ru",
+    "count": 2,
+    "alive": true,
+    "http_status": 200,
+    "response_time": 480,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": true,
+    "quality_score": 65,
+    "first_seen": "2026-03-09T05:20:22.433230296Z",
+    "last_checked": "2026-03-09T05:20:23.61460387Z",
+    "servers": [
+      "178.17.57.165",
+      "178.17.57.216"
+    ]
+  },
+  {
+    "sni": "salute.sber.ru",
+    "count": 2,
+    "alive": true,
+    "http_status": 200,
+    "response_time": 1244,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": true,
+    "quality_score": 65,
+    "first_seen": "2026-03-09T05:20:19.524813486Z",
+    "last_checked": "2026-03-09T05:20:21.467687007Z",
+    "servers": [
+      "95.181.181.235"
+    ]
+  },
+  {
+    "sni": "nld3.pink-service.ru",
+    "count": 2,
+    "alive": true,
+    "http_status": 200,
+    "response_time": 460,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": true,
+    "quality_score": 65,
+    "first_seen": "2026-03-09T05:20:21.596586389Z",
+    "last_checked": "2026-03-09T05:20:22.582408472Z",
+    "servers": [
+      "50.7.176.52",
+      "81.31.209.179",
+      "81.31.209.184"
     ]
   },
   {
@@ -1916,7 +1317,7 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 65,
-    "first_seen": "2026-03-09T01:45:35.669868545Z",
+    "first_seen": "2026-03-09T05:20:19.059988147Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "185.73.195.116",
@@ -1925,28 +1326,28 @@
   },
   {
     "sni": "vkvideo.ru",
-    "count": 82,
+    "count": 80,
     "alive": false,
     "http_status": 0,
-    "response_time": 381,
+    "response_time": 355,
     "category": "other",
     "is_russian": true,
     "is_elite": false,
     "has_https": false,
     "quality_score": 60,
-    "first_seen": "2026-03-09T01:45:37.686663553Z",
+    "first_seen": "2026-03-09T05:20:19.059606953Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "93.186.225.194",
+      "87.240.132.78",
       "87.240.137.164",
       "87.240.129.133",
       "87.240.132.72",
-      "87.240.132.78"
+      "93.186.225.194"
     ]
   },
   {
     "sni": "fast-brooklyn.ru",
-    "count": 21,
+    "count": 20,
     "alive": false,
     "http_status": 0,
     "response_time": 0,
@@ -1955,17 +1356,34 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 60,
-    "first_seen": "2026-03-09T01:45:35.238368369Z",
+    "first_seen": "2026-03-09T05:20:22.571489928Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "95.163.210.104",
       "95.163.210.8",
+      "95.163.210.104",
       "95.163.209.33"
     ]
   },
   {
+    "sni": "krakenlabs.ru",
+    "count": 19,
+    "alive": false,
+    "http_status": 0,
+    "response_time": 312,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": false,
+    "quality_score": 60,
+    "first_seen": "2026-03-09T05:20:19.059446273Z",
+    "last_checked": "0001-01-01T00:00:00Z",
+    "servers": [
+      "45.150.32.173"
+    ]
+  },
+  {
     "sni": "braskivo.ru",
-    "count": 17,
+    "count": 15,
     "alive": false,
     "http_status": 0,
     "response_time": 0,
@@ -1974,19 +1392,19 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 60,
-    "first_seen": "2026-03-09T01:45:37.173627382Z",
+    "first_seen": "2026-03-09T05:20:19.059564295Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "193.43.146.11",
-      "194.36.39.168",
-      "194.36.39.134",
+      "194.36.39.117",
+      "194.36.39.160",
       "194.36.39.94",
-      "194.36.39.191"
+      "176.120.67.43",
+      "193.43.146.21"
     ]
   },
   {
     "sni": "www.io.ozone.ru",
-    "count": 43,
+    "count": 44,
     "alive": false,
     "http_status": 0,
     "response_time": 0,
@@ -1995,12 +1413,12 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 60,
-    "first_seen": "2026-03-09T01:45:40.093435775Z",
+    "first_seen": "2026-03-09T05:20:19.863838189Z",
     "last_checked": "0001-01-01T00:00:00Z"
   },
   {
     "sni": "www.jobinvest.ru",
-    "count": 112,
+    "count": 132,
     "alive": false,
     "http_status": 0,
     "response_time": 0,
@@ -2009,17 +1427,17 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 55,
-    "first_seen": "2026-03-09T01:45:36.143308007Z",
+    "first_seen": "2026-03-09T05:20:19.061346545Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "217.198.5.216",
       "217.199.253.15",
-      "176.98.178.162"
+      "176.98.178.162",
+      "217.198.5.216"
     ]
   },
   {
     "sni": "news.ufa-help.ru",
-    "count": 50,
+    "count": 48,
     "alive": false,
     "http_status": 0,
     "response_time": 0,
@@ -2028,15 +1446,15 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 55,
-    "first_seen": "2026-03-09T01:45:36.221284621Z",
+    "first_seen": "2026-03-09T05:20:22.747454101Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "178.250.242.165"
     ]
   },
   {
-    "sni": "nl18.fastlanehosting.ru",
-    "count": 42,
+    "sni": "chat.speedload.ru",
+    "count": 41,
     "alive": false,
     "http_status": 0,
     "response_time": 0,
@@ -2045,14 +1463,18 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 55,
-    "first_seen": "2026-03-09T01:45:35.238426758Z",
+    "first_seen": "2026-03-09T05:20:19.059867525Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "91.242.229.129"
+      "217.16.26.158",
+      "217.13.104.130",
+      "37.18.14.184",
+      "84.201.163.192",
+      "217.12.204.110"
     ]
   },
   {
-    "sni": "chat.speedload.ru",
+    "sni": "nl18.fastlanehosting.ru",
     "count": 40,
     "alive": false,
     "http_status": 0,
@@ -2062,14 +1484,10 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 55,
-    "first_seen": "2026-03-09T01:45:40.150514509Z",
+    "first_seen": "2026-03-09T05:20:22.734795452Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "37.18.14.184",
-      "178.154.202.184",
-      "217.13.104.130",
-      "144.31.19.106",
-      "217.12.204.110"
+      "91.242.229.129"
     ]
   },
   {
@@ -2077,25 +1495,25 @@
     "count": 28,
     "alive": false,
     "http_status": 0,
-    "response_time": 393,
+    "response_time": 380,
     "category": "other",
     "is_russian": true,
     "is_elite": false,
     "has_https": false,
     "quality_score": 55,
-    "first_seen": "2026-03-09T01:45:38.274300725Z",
+    "first_seen": "2026-03-09T05:20:21.518935921Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
+      "87.240.137.164",
+      "87.240.132.78",
       "87.240.132.72",
-      "87.240.132.67",
       "87.240.129.133",
-      "93.186.225.194",
-      "87.240.137.164"
+      "87.240.132.67"
     ]
   },
   {
     "sni": "ru5.fastlanehosting.ru",
-    "count": 25,
+    "count": 23,
     "alive": false,
     "http_status": 0,
     "response_time": 0,
@@ -2104,7 +1522,7 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 55,
-    "first_seen": "2026-03-09T01:45:35.239581592Z",
+    "first_seen": "2026-03-09T05:20:19.059154615Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "213.176.19.149"
@@ -2112,7 +1530,7 @@
   },
   {
     "sni": "ch2.fastlanehosting.ru",
-    "count": 22,
+    "count": 20,
     "alive": false,
     "http_status": 0,
     "response_time": 0,
@@ -2121,7 +1539,7 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 55,
-    "first_seen": "2026-03-09T01:45:35.239365788Z",
+    "first_seen": "2026-03-09T05:20:22.704231564Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "5.182.36.90"
@@ -2138,19 +1556,19 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 55,
-    "first_seen": "2026-03-09T01:45:36.121626347Z",
+    "first_seen": "2026-03-09T05:20:19.983772845Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "176.122.27.205",
-      "176.122.27.206",
+      "176.122.27.147",
+      "176.122.27.154",
       "176.122.27.145",
-      "176.122.27.183",
-      "176.122.27.118"
+      "176.122.27.190",
+      "176.122.27.205"
     ]
   },
   {
     "sni": "de16.fastlanehosting.ru",
-    "count": 14,
+    "count": 15,
     "alive": false,
     "http_status": 0,
     "response_time": 0,
@@ -2159,7 +1577,7 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 55,
-    "first_seen": "2026-03-09T01:45:39.576260437Z",
+    "first_seen": "2026-03-09T05:20:20.707972954Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "144.31.17.116"
@@ -2176,7 +1594,7 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 55,
-    "first_seen": "2026-03-09T01:45:39.184062084Z",
+    "first_seen": "2026-03-09T05:20:21.985825379Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "188.72.103.3"
@@ -2193,10 +1611,27 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 55,
-    "first_seen": "2026-03-09T01:45:35.239845501Z",
+    "first_seen": "2026-03-09T05:20:19.060044944Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "51.250.84.127"
+    ]
+  },
+  {
+    "sni": "gr.nodesecure.ru",
+    "count": 12,
+    "alive": false,
+    "http_status": 0,
+    "response_time": 0,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": false,
+    "quality_score": 55,
+    "first_seen": "2026-03-09T05:20:23.145657093Z",
+    "last_checked": "0001-01-01T00:00:00Z",
+    "servers": [
+      "144.124.242.141"
     ]
   },
   {
@@ -2210,19 +1645,19 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 55,
-    "first_seen": "2026-03-09T01:45:36.76608093Z",
+    "first_seen": "2026-03-09T05:20:22.084036607Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "66.90.90.164",
-      "66.90.90.131",
+      "66.90.90.28",
       "66.90.90.20",
       "66.90.90.140",
-      "66.90.90.12"
+      "66.90.90.131",
+      "66.90.90.180"
     ]
   },
   {
-    "sni": "gr.nodesecure.ru",
-    "count": 10,
+    "sni": "gotraf.nodesecure.ru",
+    "count": 6,
     "alive": false,
     "http_status": 0,
     "response_time": 0,
@@ -2231,10 +1666,10 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 55,
-    "first_seen": "2026-03-09T01:45:37.695107692Z",
+    "first_seen": "2026-03-09T05:20:19.059185292Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "144.124.242.141"
+      "50.7.38.34"
     ]
   },
   {
@@ -2248,7 +1683,7 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 55,
-    "first_seen": "2026-03-09T01:45:35.23871699Z",
+    "first_seen": "2026-03-09T05:20:21.615844445Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "178.22.31.68"
@@ -2265,15 +1700,15 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 55,
-    "first_seen": "2026-03-09T01:45:35.237695116Z",
+    "first_seen": "2026-03-09T05:20:22.324519988Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "85.193.83.183"
     ]
   },
   {
-    "sni": "squad-2-de.vps-m.ru",
-    "count": 6,
+    "sni": "route.mcqueenconnection.ru",
+    "count": 5,
     "alive": false,
     "http_status": 0,
     "response_time": 0,
@@ -2282,28 +1717,10 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 55,
-    "first_seen": "2026-03-09T01:45:36.578817766Z",
+    "first_seen": "2026-03-09T05:20:22.863584847Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "185.254.99.241",
-      "2.59.134.109"
-    ]
-  },
-  {
-    "sni": "gotraf.nodesecure.ru",
-    "count": 6,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 55,
-    "first_seen": "2026-03-09T01:45:36.600191962Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "50.7.38.34"
+      "92.63.177.191"
     ]
   },
   {
@@ -2317,14 +1734,14 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 55,
-    "first_seen": "2026-03-09T01:45:39.0337164Z",
+    "first_seen": "2026-03-09T05:20:19.059186216Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "66.90.90.20",
       "66.90.90.12",
-      "66.90.90.180",
-      "66.90.90.28",
-      "66.90.90.164"
+      "66.90.90.131",
+      "66.90.90.140",
+      "66.90.90.164",
+      "66.90.90.180"
     ]
   },
   {
@@ -2338,28 +1755,25 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 55,
-    "first_seen": "2026-03-09T01:45:35.238612816Z",
+    "first_seen": "2026-03-09T05:20:22.008040496Z",
     "last_checked": "0001-01-01T00:00:00Z"
   },
   {
-    "sni": "ytn.sbrf-cdn342.ru",
+    "sni": "www.ads.x5.ru",
     "count": 4,
     "alive": false,
     "http_status": 0,
     "response_time": 0,
-    "category": "other",
-    "is_russian": true,
+    "category": "",
+    "is_russian": false,
     "is_elite": false,
     "has_https": false,
-    "quality_score": 50,
-    "first_seen": "2026-03-09T01:45:37.35698979Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "90.156.215.101"
-    ]
+    "quality_score": 55,
+    "first_seen": "2026-03-09T05:20:19.060214593Z",
+    "last_checked": "0001-01-01T00:00:00Z"
   },
   {
-    "sni": "tr-general.vps-m.ru",
+    "sni": "window-one.sbrf-cdn342.ru",
     "count": 4,
     "alive": false,
     "http_status": 0,
@@ -2369,91 +1783,10 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 50,
-    "first_seen": "2026-03-09T01:45:35.239365745Z",
+    "first_seen": "2026-03-09T05:20:19.059724683Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "93.177.103.219",
-      "93.177.103.90",
-      "45.158.14.136",
-      "45.158.14.151",
-      "93.177.103.153"
-    ]
-  },
-  {
-    "sni": "tmc.langry.ru",
-    "count": 4,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 50,
-    "first_seen": "2026-03-09T01:45:40.20012864Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "95.163.249.1",
-      "95.163.250.157",
-      "95.163.248.215"
-    ]
-  },
-  {
-    "sni": "la-general.vps-m.ru",
-    "count": 4,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 50,
-    "first_seen": "2026-03-09T01:45:38.95917066Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "193.124.22.54",
-      "94.131.104.216",
-      "176.120.67.194",
-      "176.120.67.200"
-    ]
-  },
-  {
-    "sni": "de.itkrsk.ru",
-    "count": 4,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 50,
-    "first_seen": "2026-03-09T01:45:37.721597809Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "64.188.68.95"
-    ]
-  },
-  {
-    "sni": "fr.sbrf-cdn342.ru",
-    "count": 4,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 50,
-    "first_seen": "2026-03-09T01:45:36.73344901Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "45.90.97.92",
-      "45.152.162.174",
-      "45.90.97.32",
-      "193.177.0.178",
-      "45.90.97.129"
+      "95.163.209.5"
     ]
   },
   {
@@ -2467,10 +1800,85 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 50,
-    "first_seen": "2026-03-09T01:45:40.422398732Z",
+    "first_seen": "2026-03-09T05:20:23.242934318Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "89.125.159.131"
+    ]
+  },
+  {
+    "sni": "fr.sbrf-cdn342.ru",
+    "count": 4,
+    "alive": false,
+    "http_status": 0,
+    "response_time": 0,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": false,
+    "quality_score": 50,
+    "first_seen": "2026-03-09T05:20:21.353312012Z",
+    "last_checked": "0001-01-01T00:00:00Z",
+    "servers": [
+      "45.152.162.174",
+      "193.177.0.178",
+      "45.90.97.32",
+      "45.90.97.92",
+      "45.90.97.129"
+    ]
+  },
+  {
+    "sni": "de.itkrsk.ru",
+    "count": 4,
+    "alive": false,
+    "http_status": 0,
+    "response_time": 0,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": false,
+    "quality_score": 50,
+    "first_seen": "2026-03-09T05:20:23.069162145Z",
+    "last_checked": "0001-01-01T00:00:00Z",
+    "servers": [
+      "64.188.68.95"
+    ]
+  },
+  {
+    "sni": "window-two.sbrf-cdn342.ru",
+    "count": 4,
+    "alive": false,
+    "http_status": 0,
+    "response_time": 0,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": false,
+    "quality_score": 50,
+    "first_seen": "2026-03-09T05:20:20.649959881Z",
+    "last_checked": "0001-01-01T00:00:00Z",
+    "servers": [
+      "95.163.212.210"
+    ]
+  },
+  {
+    "sni": "la-general.vps-m.ru",
+    "count": 4,
+    "alive": false,
+    "http_status": 0,
+    "response_time": 0,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": false,
+    "quality_score": 50,
+    "first_seen": "2026-03-09T05:20:19.060044935Z",
+    "last_checked": "0001-01-01T00:00:00Z",
+    "servers": [
+      "176.120.67.194",
+      "193.124.22.54",
+      "94.131.104.216",
+      "176.120.67.200"
     ]
   },
   {
@@ -2484,14 +1892,14 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 50,
-    "first_seen": "2026-03-09T01:45:35.238664713Z",
+    "first_seen": "2026-03-09T05:20:21.941349455Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "89.58.18.98"
     ]
   },
   {
-    "sni": "sweden.sbrf-cdn342.ru",
+    "sni": "squad-2-de.vps-m.ru",
     "count": 4,
     "alive": false,
     "http_status": 0,
@@ -2501,18 +1909,15 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 50,
-    "first_seen": "2026-03-09T01:45:40.302136331Z",
+    "first_seen": "2026-03-09T05:20:23.066702878Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "176.125.241.214",
-      "45.93.9.226",
-      "78.40.116.146",
-      "45.93.9.143",
-      "45.93.9.171"
+      "185.254.99.241",
+      "2.59.134.109"
     ]
   },
   {
-    "sni": "squad-2-pl.vps-m.ru",
+    "sni": "tr-general.vps-m.ru",
     "count": 4,
     "alive": false,
     "http_status": 0,
@@ -2522,16 +1927,18 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 50,
-    "first_seen": "2026-03-09T01:45:39.920006863Z",
+    "first_seen": "2026-03-09T05:20:22.582447946Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "82.22.40.94",
-      "82.22.40.76",
-      "91.224.75.188"
+      "93.177.103.90",
+      "45.158.14.151",
+      "45.158.14.136",
+      "93.177.103.219",
+      "93.177.103.153"
     ]
   },
   {
-    "sni": "route.mcqueenconnection.ru",
+    "sni": "ytn.sbrf-cdn342.ru",
     "count": 4,
     "alive": false,
     "http_status": 0,
@@ -2541,10 +1948,10 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 50,
-    "first_seen": "2026-03-09T01:45:35.6481815Z",
+    "first_seen": "2026-03-09T05:20:21.308964414Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "92.63.177.191"
+      "90.156.215.101"
     ]
   },
   {
@@ -2558,15 +1965,15 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 50,
-    "first_seen": "2026-03-09T01:45:35.238063544Z",
+    "first_seen": "2026-03-09T05:20:19.059509031Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "147.45.51.164"
     ]
   },
   {
-    "sni": "ilovemax.ru",
-    "count": 2,
+    "sni": "expand-6.sbrf-cdn342.ru",
+    "count": 3,
     "alive": false,
     "http_status": 0,
     "response_time": 0,
@@ -2575,27 +1982,11 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 50,
-    "first_seen": "2026-03-09T01:45:38.765567706Z",
+    "first_seen": "2026-03-09T05:20:19.059192717Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "109.120.188.14"
-    ]
-  },
-  {
-    "sni": "filterai.ru",
-    "count": 2,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 50,
-    "first_seen": "2026-03-09T01:45:35.238209132Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "185.241.193.76"
+      "146.185.243.194",
+      "146.185.241.64"
     ]
   },
   {
@@ -2609,10 +2000,10 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 50,
-    "first_seen": "2026-03-09T01:45:39.05230029Z",
+    "first_seen": "2026-03-09T05:20:22.064488118Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "84.23.52.105"
+      "90.156.214.82"
     ]
   },
   {
@@ -2626,10 +2017,27 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 50,
-    "first_seen": "2026-03-09T01:45:40.340014596Z",
+    "first_seen": "2026-03-09T05:20:19.059393595Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "31.31.197.17"
+    ]
+  },
+  {
+    "sni": "ilovemax.ru",
+    "count": 2,
+    "alive": false,
+    "http_status": 0,
+    "response_time": 0,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": false,
+    "quality_score": 50,
+    "first_seen": "2026-03-09T05:20:19.059446372Z",
+    "last_checked": "0001-01-01T00:00:00Z",
+    "servers": [
+      "109.120.188.145"
     ]
   },
   {
@@ -2643,12 +2051,12 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 50,
-    "first_seen": "2026-03-09T01:45:40.115351648Z",
+    "first_seen": "2026-03-09T05:20:23.001095457Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "79.127.133.101",
       "79.127.133.109",
-      "79.127.133.104"
+      "79.127.133.104",
+      "79.127.133.101"
     ]
   },
   {
@@ -2662,132 +2070,10 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 50,
-    "first_seen": "2026-03-09T01:45:36.542204778Z",
+    "first_seen": "2026-03-09T05:20:21.398575112Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "94.156.154.55"
-    ]
-  },
-  {
-    "sni": "inst.faceppm.ru",
-    "count": 2,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:38.775412935Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "185.42.163.177"
-    ]
-  },
-  {
-    "sni": "nne.money-cloud.ru",
-    "count": 2,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:38.213031Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "152.53.105.1"
-    ]
-  },
-  {
-    "sni": "frankfurt.node.specnet.ru",
-    "count": 2,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:35.237989727Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "89.23.108.19",
-      "81.19.141.133"
-    ]
-  },
-  {
-    "sni": "russia.node.specnet.ru",
-    "count": 2,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:40.454376917Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "103.74.93.72",
-      "85.193.83.187"
-    ]
-  },
-  {
-    "sni": "par.node.specnet.ru",
-    "count": 2,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:40.270750258Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "62.133.62.47",
-      "109.172.55.37"
-    ]
-  },
-  {
-    "sni": "kz.money-cloud.ru",
-    "count": 2,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:40.545114531Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "31.130.152.186"
-    ]
-  },
-  {
-    "sni": "finland.money-cloud.ru",
-    "count": 2,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:37.894011762Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "89.125.92.194"
     ]
   },
   {
@@ -2801,14 +2087,14 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:38.390924185Z",
+    "first_seen": "2026-03-09T05:20:21.156178051Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "95.163.250.16"
     ]
   },
   {
-    "sni": "cloud.whost-solutions.ru",
+    "sni": "inst.faceppm.ru",
     "count": 2,
     "alive": false,
     "http_status": 0,
@@ -2818,10 +2104,61 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:36.274304248Z",
+    "first_seen": "2026-03-09T05:20:19.059790727Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "217.168.247.191"
+      "185.42.163.177"
+    ]
+  },
+  {
+    "sni": "pol2.linkey37.ru",
+    "count": 2,
+    "alive": false,
+    "http_status": 0,
+    "response_time": 0,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": false,
+    "quality_score": 45,
+    "first_seen": "2026-03-09T05:20:23.166334927Z",
+    "last_checked": "0001-01-01T00:00:00Z",
+    "servers": [
+      "144.31.3.253"
+    ]
+  },
+  {
+    "sni": "vat.enginecraft.ru",
+    "count": 2,
+    "alive": false,
+    "http_status": 0,
+    "response_time": 0,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": false,
+    "quality_score": 45,
+    "first_seen": "2026-03-09T05:20:20.514960231Z",
+    "last_checked": "0001-01-01T00:00:00Z",
+    "servers": [
+      "90.156.214.210"
+    ]
+  },
+  {
+    "sni": "kz.money-cloud.ru",
+    "count": 2,
+    "alive": false,
+    "http_status": 0,
+    "response_time": 0,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": false,
+    "quality_score": 45,
+    "first_seen": "2026-03-09T05:20:22.076908055Z",
+    "last_checked": "0001-01-01T00:00:00Z",
+    "servers": [
+      "31.130.152.186"
     ]
   },
   {
@@ -2835,7 +2172,7 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:35.239263695Z",
+    "first_seen": "2026-03-09T05:20:20.823735742Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "72.57.78.8",
@@ -2856,80 +2193,12 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:36.094279588Z",
+    "first_seen": "2026-03-09T05:20:20.064583375Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
+      "95.85.253.78",
       "95.85.253.79",
-      "95.85.253.77",
-      "95.85.253.78"
-    ]
-  },
-  {
-    "sni": "selfms.nodesecure.ru",
-    "count": 2,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:35.238141459Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "37.46.134.53"
-    ]
-  },
-  {
-    "sni": "hels.node.specnet.ru",
-    "count": 2,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:38.894880335Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "93.152.207.106"
-    ]
-  },
-  {
-    "sni": "window-one.sbrf-cdn342.ru",
-    "count": 2,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:35.237722271Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "95.163.209.5"
-    ]
-  },
-  {
-    "sni": "pol1.linkey37.ru",
-    "count": 2,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:39.842745783Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "144.31.3.250"
+      "95.85.253.77"
     ]
   },
   {
@@ -2943,18 +2212,18 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:37.734640958Z",
+    "first_seen": "2026-03-09T05:20:21.280052061Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "82.41.30.32",
-      "82.41.30.76",
-      "82.41.30.62",
       "82.41.30.67",
+      "82.41.30.62",
+      "82.41.30.76",
       "91.224.74.184"
     ]
   },
   {
-    "sni": "pol2.linkey37.ru",
+    "sni": "ni.yurichdelaet.ru",
     "count": 2,
     "alive": false,
     "http_status": 0,
@@ -2964,10 +2233,28 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:35.239669152Z",
+    "first_seen": "2026-03-09T05:20:21.690055241Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "144.31.3.253"
+      "5.101.153.129",
+      "185.214.74.236"
+    ]
+  },
+  {
+    "sni": "pol1.linkey37.ru",
+    "count": 2,
+    "alive": false,
+    "http_status": 0,
+    "response_time": 0,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": false,
+    "quality_score": 45,
+    "first_seen": "2026-03-09T05:20:21.847647472Z",
+    "last_checked": "0001-01-01T00:00:00Z",
+    "servers": [
+      "144.31.3.250"
     ]
   },
   {
@@ -2981,15 +2268,15 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:35.239842924Z",
+    "first_seen": "2026-03-09T05:20:19.904564372Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "185.119.59.36",
-      "147.45.170.144"
+      "147.45.170.144",
+      "185.119.59.36"
     ]
   },
   {
-    "sni": "vat.enginecraft.ru",
+    "sni": "finland.money-cloud.ru",
     "count": 2,
     "alive": false,
     "http_status": 0,
@@ -2999,45 +2286,10 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:39.938400228Z",
+    "first_seen": "2026-03-09T05:20:21.443285279Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "90.156.214.210"
-    ]
-  },
-  {
-    "sni": "expand-6.sbrf-cdn342.ru",
-    "count": 2,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:37.866128121Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "146.185.241.64",
-      "146.185.243.194"
-    ]
-  },
-  {
-    "sni": "de15.fastlanehosting.ru",
-    "count": 2,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:36.180786115Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "64.188.71.230"
+      "89.125.92.194"
     ]
   },
   {
@@ -3051,19 +2303,19 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:38.71303725Z",
+    "first_seen": "2026-03-09T05:20:19.398657044Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "5.181.20.179",
-      "45.12.135.176",
       "45.12.146.70",
       "45.12.135.177",
-      "45.12.135.72"
+      "45.12.135.72",
+      "5.181.20.179",
+      "45.12.135.176"
     ]
   },
   {
-    "sni": "gl.blackapple46.ru",
-    "count": 1,
+    "sni": "squad-2-pl.vps-m.ru",
+    "count": 2,
     "alive": false,
     "http_status": 0,
     "response_time": 0,
@@ -3072,15 +2324,17 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:35.238127841Z",
+    "first_seen": "2026-03-09T05:20:21.902278462Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "194.238.57.149"
+      "91.224.75.222",
+      "82.22.40.108",
+      "91.224.75.188"
     ]
   },
   {
-    "sni": "window-two.sbrf-cdn342.ru",
-    "count": 1,
+    "sni": "selfms.nodesecure.ru",
+    "count": 2,
     "alive": false,
     "http_status": 0,
     "response_time": 0,
@@ -3089,10 +2343,80 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:39.408646555Z",
+    "first_seen": "2026-03-09T05:20:23.031962978Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "95.163.212.210"
+      "37.46.134.53"
+    ]
+  },
+  {
+    "sni": "nne.money-cloud.ru",
+    "count": 2,
+    "alive": false,
+    "http_status": 0,
+    "response_time": 0,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": false,
+    "quality_score": 45,
+    "first_seen": "2026-03-09T05:20:19.059334867Z",
+    "last_checked": "0001-01-01T00:00:00Z",
+    "servers": [
+      "152.53.105.1"
+    ]
+  },
+  {
+    "sni": "cloud.whost-solutions.ru",
+    "count": 2,
+    "alive": false,
+    "http_status": 0,
+    "response_time": 354,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": false,
+    "quality_score": 45,
+    "first_seen": "2026-03-09T05:20:19.059789859Z",
+    "last_checked": "0001-01-01T00:00:00Z",
+    "servers": [
+      "217.168.247.191"
+    ]
+  },
+  {
+    "sni": "de15.fastlanehosting.ru",
+    "count": 2,
+    "alive": false,
+    "http_status": 0,
+    "response_time": 0,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": false,
+    "quality_score": 45,
+    "first_seen": "2026-03-09T05:20:21.490601679Z",
+    "last_checked": "0001-01-01T00:00:00Z",
+    "servers": [
+      "64.188.71.230"
+    ]
+  },
+  {
+    "sni": "tmc.langry.ru",
+    "count": 2,
+    "alive": false,
+    "http_status": 0,
+    "response_time": 0,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": false,
+    "quality_score": 45,
+    "first_seen": "2026-03-09T05:20:19.060416231Z",
+    "last_checked": "0001-01-01T00:00:00Z",
+    "servers": [
+      "95.163.249.1",
+      "95.163.250.157",
+      "95.163.248.215"
     ]
   },
   {
@@ -3106,7 +2430,7 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:38.49643849Z",
+    "first_seen": "2026-03-09T05:20:20.888182026Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "203.188.180.40",
@@ -3114,7 +2438,7 @@
     ]
   },
   {
-    "sni": "s5.psnreality.ru",
+    "sni": "nl7.fastlanehosting.ru",
     "count": 1,
     "alive": false,
     "http_status": 0,
@@ -3124,10 +2448,10 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:39.338430911Z",
+    "first_seen": "2026-03-09T05:20:21.46773095Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
-      "85.193.81.44"
+      "45.140.147.115"
     ]
   },
   {
@@ -3141,10 +2465,44 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:35.238553105Z",
+    "first_seen": "2026-03-09T05:20:19.059987999Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "144.31.165.92"
+    ]
+  },
+  {
+    "sni": "gl.blackapple46.ru",
+    "count": 1,
+    "alive": false,
+    "http_status": 0,
+    "response_time": 0,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": false,
+    "quality_score": 45,
+    "first_seen": "2026-03-09T05:20:19.059334564Z",
+    "last_checked": "0001-01-01T00:00:00Z",
+    "servers": [
+      "194.238.57.149"
+    ]
+  },
+  {
+    "sni": "s5.psnreality.ru",
+    "count": 1,
+    "alive": false,
+    "http_status": 0,
+    "response_time": 0,
+    "category": "other",
+    "is_russian": true,
+    "is_elite": false,
+    "has_https": false,
+    "quality_score": 45,
+    "first_seen": "2026-03-09T05:20:19.061117005Z",
+    "last_checked": "0001-01-01T00:00:00Z",
+    "servers": [
+      "85.193.81.44"
     ]
   },
   {
@@ -3158,7 +2516,7 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:36.558632446Z",
+    "first_seen": "2026-03-09T05:20:19.68127403Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "158.160.69.205"
@@ -3175,7 +2533,7 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:36.167740315Z",
+    "first_seen": "2026-03-09T05:20:22.424354291Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "147.45.170.205"
@@ -3192,27 +2550,10 @@
     "is_elite": false,
     "has_https": false,
     "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:38.268157728Z",
+    "first_seen": "2026-03-09T05:20:19.060055094Z",
     "last_checked": "0001-01-01T00:00:00Z",
     "servers": [
       "95.163.183.64"
-    ]
-  },
-  {
-    "sni": "nl7.fastlanehosting.ru",
-    "count": 1,
-    "alive": false,
-    "http_status": 0,
-    "response_time": 0,
-    "category": "other",
-    "is_russian": true,
-    "is_elite": false,
-    "has_https": false,
-    "quality_score": 45,
-    "first_seen": "2026-03-09T01:45:37.303516297Z",
-    "last_checked": "0001-01-01T00:00:00Z",
-    "servers": [
-      "45.140.147.115"
     ]
   }
 ]
