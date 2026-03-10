@@ -8,15 +8,10 @@ www.yandex.ru
 www.wildberries.ru
 avito.ru
 drive.yandex.ru
-dns.yandex.ru
 any.yandex.ru
-3ds-v2-challenge-test.bank.ozon.ru
-3ds-v2-auth-test.ecom-bank.ozon.ru
-3ds-v2-challenge.bank.ozon.ru
-autodiscover.ord.ozon.ru
-3ds-v2-auth.ecom-bank.ozon.ru
+dns.yandex.ru
 passport.yandex.ru
-securepay.ozon.ru
+x5.ru
 aliexpress.ru
 io.ozone.ru
 ir.ozone.ru
@@ -25,4 +20,3 @@ ir-2.ozone.ru
 www.x5.ru
 vt-1.ozone.ru
 dns-shop.ru
-x5.ru
