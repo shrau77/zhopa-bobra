@@ -1,1 +1,1 @@
-smartcaptcha.yandexcloud.net
+cloud.yandex.ru

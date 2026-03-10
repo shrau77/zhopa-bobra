@@ -1805,3 +1805,1428 @@
    ✅ Alive:               261
    ⭐ Elite found:         218
    ⭐ elite_sni.txt    - Best SNI (score >= 70)
+## 🦫 SNI Hunt Report - 2026-03-10 01:28
+
+### Results
+- ⭐ Elite SNI: 516
+- 💎 Premium SNI: 518
+- 📄 Target SNI: 518
+
+### Stats
+   ✅ Found 868 subdomains
+   ✅ Found 389 subdomains
+   ✅ Found 0 subdomains
+   ✅ Found 11 subdomains
+  ❌ hr-qa.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ok.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ vcs-exp-e02.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ taxi-terminal.yandex.ru (score: 75, count: 1, cat: )
+  ❌ cbro.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ es.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cc03.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.sberbank-ru.os-psi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ sberbank-com.os-prom.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ web-n1-psi-pbmob.testonline.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ zen.crowdzeta.dzen.ru (score: 75, count: 1, cat: )
+  ❌ trust1g.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ uavpdevv01.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ app05.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.health.yandex.ru (score: 75, count: 1, cat: )
+  ❌ pda.sp-money.yandex.ru (score: 75, count: 1, cat: )
+  ❌ vcs.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ devicestest.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ rus6.linkey41.ru (score: 55, count: 7, cat: other)
+  ❌ www.partner.taxi.pepelac1t.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.slovari.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sp.hotaru.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ touch.market.secret.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.webcal.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ arin.search-maps.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.spamooborona.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ jsm.market.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.ewents.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ window-two.sbrf-cdn342.ru (score: 55, count: 7, cat: other)
+  ❌ www.router-quality.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ poland.money-cloud.ru (score: 50, count: 4, cat: other)
+  ❌ expand-6.sbrf-cdn342.ru (score: 50, count: 3, cat: other)
+  ❌ runet.metrika.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.partner.taxi.yandex.ru (score: 75, count: 1, cat: )
+  ❌ cabinet.booking-preview.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ kappa.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gravicapa07g.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ subs.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ossa2.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ lldocsrv3h.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ newbie.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ sberbank.ru (score: 100, count: 1, cat: banks) ⭐ELITE
+  ✅ push.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ secondary.dns.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ psionline.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ atlas.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gravicapa04e.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ csradar.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ pda.blogs.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ 178.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ soft.export.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ side1.ld.yandex.ru (score: 75, count: 1, cat: )
+  ❌ sbbolmobiletest.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ est.pink-service.ru (score: 45, count: 2, cat: other)
+  ✅ legal.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ photo.upload.maps.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ toloka.crypta.yandex.ru (score: 75, count: 1, cat: )
+  ✅ translate.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ brozen.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.city.yandex.ru (score: 75, count: 1, cat: )
+  ❌ tr-general.vps-m.ru (score: 50, count: 4, cat: other)
+  ❌ che.pink-service.ru (score: 45, count: 2, cat: other)
+  ✅ awaps.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ academy.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ weather.pda.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ company2.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ root-ya3.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.partner.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ b.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.radio.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ referats.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.yandex.ru (score: 100, count: 13, cat: ecommerce) ⭐ELITE
+  ✅ surveys.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ww.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ clck.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.time.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ perevod.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ testsbi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ya10.shukafish.ru (score: 45, count: 2, cat: other)
+  ✅ search.yaca.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ rms.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.kino.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ bfd.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ smartway.geoapi.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ kobe.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ t.rasp.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ xmpp.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ esr-psi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ rmso.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ x5.ru (score: 80, count: 4, cat: ecommerce)
+  ❌ agg.taximeter.yandex.ru (score: 75, count: 1, cat: )
+  ❌ sp.felis.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ reports.crm.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pulse-ift.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ autodiscover.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ vcs-exp-e01.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ sp.angius.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sobitia.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ nld3.pink-service.ru (score: 70, count: 4, cat: other)
+  ❌ sec.api.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ webcon.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.leaked.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ public.oprosso.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ gravicapa03e.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ welcome.advertising.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ dms.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ wordstat.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ games.money.yandex.ru (score: 75, count: 1, cat: )
+  ✅ www.legal.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ni.yurichdelaet.ru (score: 45, count: 2, cat: other)
+  ✅ expert.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ bar-navig.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ cashdesk2d.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ytn.sbrf-cdn342.ru (score: 50, count: 3, cat: other)
+  ✅ bm.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.pda.maps.yandex.ru (score: 75, count: 1, cat: )
+  ✅ ipv6.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.visual.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ webchat2int.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ login-rc.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ partner.news.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ lldocsrv2h.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ vno.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ dzunneler.dzen.ru (score: 75, count: 1, cat: )
+  ✅ transport.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ qa.geoapi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ gravicapa01h.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.pda.tv.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ tk.crypta.yandex.ru (score: 75, count: 1, cat: )
+  ✅ op.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cbro-t.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ referat.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ finland.money-cloud.ru (score: 45, count: 2, cat: other)
+  ❌ sp.koga.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ any.yandex.ru (score: 100, count: 3, cat: ecommerce) ⭐ELITE
+  ❌ smspking.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ wifi.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ labs.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ calipso.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cab-psp-isep009.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ boulogne.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ott-widget.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ umbrella.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sp.baku.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ webdav.tst.yandex.ru (score: 75, count: 1, cat: )
+  ✅ cashdesk1f.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ greenmarathon.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ radioprobki2.maps.yandex.ru (score: 75, count: 1, cat: )
+  ✅ home.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ auto.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ awtech.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.music.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ blogs.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ suggest-slovari.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ jazz.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ goya.rutube.ru (score: 100, count: 37, cat: social) ⭐ELITE
+  ✅ kita.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ site.wmc-admin.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sweden.sbrf-cdn342.ru (score: 45, count: 2, cat: other)
+  ❌ im4-tub.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ links.myoffice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ psi-new-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ enc.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ otp.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ bhv.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ www.shell.yandex.ru (score: 75, count: 1, cat: )
+  ✅ pass-rc.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ carsharing.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ kit.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ lldocsrv6h.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ inpage.metrika.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ lldocsrv4m.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.antispam.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ aw-admin.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ visatokenservice-psi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ insfqa.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ wwww.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sp.demomoney.yandex.ru (score: 75, count: 1, cat: )
+  ❌ www.partner.auto.yandex.ru (score: 75, count: 1, cat: )
+  ✅ dns-shop.ru (score: 80, count: 4, cat: ecommerce)
+  ❌ www.mshad.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ lldocsrv6j.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ test-ift-office.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ partners.lbs.heroism.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cab-psp-snac008.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ id.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ sitesuggest.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sp.avis.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ de16.fastlanehosting.ru (score: 55, count: 12, cat: other)
+  ❌ push-t.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ sbcast03e.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ pda.passport.yandex.ru (score: 75, count: 1, cat: )
+  ✅ iseg.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.events.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ vypiska.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ csc-ift.csctest.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ gravicapa04h.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cab-psp-isep002.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ www.realty.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cab-vsp-isem101.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ sber911.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ finline.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ ufscs.psi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ insfpsi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ www.m.money.yandex.ru (score: 75, count: 1, cat: )
+  ❌ www.ozon.ru (score: 85, count: 20, cat: ecommerce) ⭐ELITE
+  ❌ r.maps.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ rbs2sprmpsi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ift.sberdisk.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ site.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ exportcenter.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ fast-brooklyn.ru (score: 60, count: 19, cat: other)
+  ❌ opros--sberbank.ru (score: 55, count: 1, cat: )
+  ❌ i-maps.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ toloka.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ abo.market.yandex.ru (score: 75, count: 1, cat: )
+  ✅ cashdesk2g.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ partner.maps.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ balance-parkingsimple.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ dostavka.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ selfms.nodesecure.ru (score: 45, count: 1, cat: other)
+  ❌ www.mediana.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ client.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ shark12.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ npro.maps.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sberbank-ru.os-psi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.xml.wmc-admin.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ connect-qa1.crowdtest.yandex.ru (score: 75, count: 1, cat: )
+  ❌ ch2.fastlanehosting.ru (score: 55, count: 14, cat: other)
+  ❌ www.atlas.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.partner.market.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ fakelogin.distribution.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ psi-www-sberbank-com.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ office.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ poet.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ join.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ pulse.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ www.reklama.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ gosuslugi.ru (score: 90, count: 10, cat: government) ⭐ELITE
+  ❌ pda.traffic.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.blog.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ csc.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ wa.sfasti.ru (score: 55, count: 5, cat: other)
+  ❌ hr-uat.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ csctest.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ sales.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ shell.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ tours.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ de.itkrsk.ru (score: 50, count: 4, cat: other)
+  ✅ xml.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ landlord.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gravicapa06g.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sbcast04e.maps.yandex.ru (score: 75, count: 1, cat: )
+  ✅ gravicapa07h.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sp.globus.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sp.kita.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ xml.wmc-admin.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ vk1.zqwerty.ru (score: 45, count: 1, cat: other)
+  ❌ ticket.yandex.ru (score: 75, count: 1, cat: )
+  ❌ lldocsrv1m.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ notifications.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.mobi.money.yandex.ru (score: 75, count: 1, cat: )
+  ❌ lokum.yandex.ru (score: 75, count: 1, cat: )
+  ✅ planetanix.ru (score: 70, count: 2, cat: other)
+  ❌ touch.market.pepelac01hp.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.ivents.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sbcast03d.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ trust1f.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ emm.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ root.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ lldcosrv2h.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ extgit-ugr.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gravicapa03g.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.eg.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.collections.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ snippet-admin.market.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cab-psp-snac007.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ gravicapa01d.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ lldocsrv1h.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cl.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ busticket.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ app01.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ encashment.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ aw-platforms.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.mail--yandex.ru (score: 50, count: 1, cat: )
+  ✅ time.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cashdesk2e.yandex.ru (score: 75, count: 1, cat: )
+  ❌ efs.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.sberbank-com.os-psi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cc01.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ pmcloud.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ ru5.fastlanehosting.ru (score: 55, count: 11, cat: other)
+  ✅ click.sender.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.callerid.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ dialog.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ angius.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sberrrr911.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ rbs2sprmift.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ awaps-v6.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ pda.tv.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ irm.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ extsvn-eto.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ sauth.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.mail.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ psi.oprosso.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.metrika.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ cloud.yandex.ru (score: 95, count: 1, cat: cloud) ⭐ELITE
+  ✅ business-maps.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sberdisk.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ psi-pbmob-efs.testonline.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ trust-ipv6.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ side2.ld.yandex.ru (score: 75, count: 1, cat: )
+  ✅ gravicapa07d.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ conference-center.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ so.yandex.ru (score: 75, count: 1, cat: )
+  ❌ clickhouse.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ visual.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ people.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gramota.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sberbank1-ru.os-psi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.mpro.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ rdr.um.maps.yandex.ru (score: 75, count: 1, cat: )
+  ✅ gadget.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ punto.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cab-vsp-isea101.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ svn.opensource.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.academy.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ lasercut.ru (score: 80, count: 10, cat: other)
+  ❌ www.calendar.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ nld.pink-service.ru (score: 50, count: 4, cat: other)
+  ❌ www.passports--yandex.ru (score: 50, count: 1, cat: )
+  ❌ n-and.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ sberkids-t.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ www.bonus--sberbank.ru (score: 50, count: 1, cat: )
+  ✅ suggest.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ibfront1d.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.ads.x5.ru (score: 60, count: 6, cat: )
+  ❌ privet-dev.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ rabota.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ route.mcqueenconnection.ru (score: 50, count: 4, cat: other)
+  ❌ ray.ydf.yandex.ru (score: 75, count: 1, cat: )
+  ✅ keyboard.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ geo-t.geoapi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ kuse.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gravicapa02g.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sp.kobe.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ nl.nodes.rocketnetwork.ru (score: 45, count: 1, cat: other)
+  ✅ radio.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ russia.node.specnet.ru (score: 45, count: 2, cat: other)
+  ❌ sbibz.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ cashdesk2f.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ crls.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ partneronline.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ lldocsrv5j.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ forms.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.speechkit.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ info.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.2000--sberbank.ru (score: 50, count: 1, cat: )
+  ❌ rec.ydf.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ io.ozone.ru (score: 80, count: 240, cat: ecommerce)
+  ❌ sbc.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ im8-tub.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ teamcity.yandex.ru (score: 75, count: 1, cat: )
+  ❌ at17.fastlanehosting.ru (score: 55, count: 10, cat: other)
+  ❌ pda.weather.yandex.ru (score: 75, count: 1, cat: )
+  ❌ shark13.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ notanymore.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ window-one.sbrf-cdn342.ru (score: 55, count: 6, cat: other)
+  ❌ cab-vsp-isep103.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ crowdtest.payment-widget-smarttv.plus.tst.kinopoisk.ru (score: 100, count: 13, cat: social) ⭐ELITE
+  ✅ passport.yandex.ru (score: 95, count: 2, cat: ecommerce) ⭐ELITE
+  ❌ safe.dns.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sbcast01e.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ www.ewent.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ibfront2f.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cbro-t.testonline.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ har.maps.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ chatbot.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ isu.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ www.ivent.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.rabota.yandex.ru (score: 75, count: 1, cat: )
+  ❌ webmaster-support.wmc-admin.yandex.ru (score: 75, count: 1, cat: )
+  ❌ guest-wifi-dev.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ya.volgogradskie.ru (score: 55, count: 13, cat: other)
+  ❌ www.metro.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ collab-edge.voiplab-ext.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ www.m.tv.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ wch.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ nahodki.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.referat.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ passport-test.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ kitsune.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ inet.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ alpha-interface.cloud.yandex.ru (score: 75, count: 1, cat: )
+  ❌ dic.yandex.ru (score: 75, count: 1, cat: )
+  ✅ vs-otrsback01ht.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ secondary.family.dns.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ email1.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ od-ift.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ flv.video.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ specto.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ _xmpp-server.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ connect.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.wildberries.ru (score: 100, count: 10, cat: ecommerce) ⭐ELITE
+  ✅ bayan-testing.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sbmpsi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ webdav.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ panoramas.api-maps.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ websbol.ant.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ psi-sberbank1-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ probki.yandex.ru (score: 75, count: 1, cat: )
+  ✅ vt-1.ozone.ru (score: 80, count: 17, cat: ecommerce)
+  ❌ www.research.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ enterprise.api-maps.yandex.ru (score: 100, count: 24, cat: ecommerce) ⭐ELITE
+  ✅ rutube.ru (score: 100, count: 297, cat: social) ⭐ELITE
+  ❌ fs.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ cab-psp-isep003.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ karti.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ open.api.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ social.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pass.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ s5.psnreality.ru (score: 45, count: 1, cat: other)
+  ❌ tel.money.yandex.ru (score: 75, count: 1, cat: )
+  ✅ booking-preview.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ vb-update.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ front-nmaps01h.cloud.maps.yandex.ru (score: 75, count: 1, cat: )
+  ✅ suggest.sso.dzen.ru (score: 95, count: 1, cat: social) ⭐ELITE
+  ✅ hr.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ yabro-wbplugin.edadeal.yandex.ru (score: 100, count: 20, cat: ecommerce) ⭐ELITE
+  ✅ realty.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.referats.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ilya.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.sberdocs.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.cuda.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ research.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ www.vkvideo.ru (score: 55, count: 28, cat: other)
+  ❌ taximeter.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ osago.yandex.ru (score: 75, count: 1, cat: )
+  ✅ passport-rc.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ 03.rdr.um.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ psi.sberdisk.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cab-psp-isep008.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ aw-campaigns.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.fotki.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ radioprobki2.yandex.ru (score: 75, count: 1, cat: )
+  ✅ lldocsrv2j.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ test-psi-office-emp.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ wifi-portal.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ gr.nodesecure.ru (score: 55, count: 13, cat: other)
+  ✅ kinopoisk.ru (score: 100, count: 83, cat: social) ⭐ELITE
+  ❌ spkk-static.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ www.startups.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ italy.pocomacho.ru (score: 50, count: 3, cat: other)
+  ❌ cc06.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ psi-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ 04.rdr.um.maps.yandex.ru (score: 75, count: 1, cat: )
+  ✅ de.pink-service.ru (score: 70, count: 4, cat: other)
+  ❌ cc-host01.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ devices.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ tvdesign.ru (score: 80, count: 27, cat: other)
+  ✅ sitesearch-suggest.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sbermail.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ antispam.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ufscs.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ openid.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ appmetrika.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ enterprise.static-maps.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gravicapa03d.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cab-psp-snac009.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ happiness-addon.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.n.maps.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pol1.linkey37.ru (score: 45, count: 2, cat: other)
+  ❌ yamb.pepelac1ft.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ lldocsrv4h.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ivents.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ alpha-identity.cloud.yandex.ru (score: 75, count: 1, cat: )
+  ❌ passports--yandex.ru (score: 55, count: 1, cat: )
+  ✅ globus.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ soberem.vmeste.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.watch.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ se.pink-service.ru (score: 75, count: 6, cat: other)
+  ❌ psiclickstream.testonline.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ www.collection.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ partner.auto.yandex.ru (score: 75, count: 1, cat: )
+  ❌ ekspert.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.sberbank-ru.os-prom.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cab-psp-snac002.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ upos.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ trust1e.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cobra.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ superapp.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ bustickets.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ yamb.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ 1csbt.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ bfm.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ c.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ demomoney2.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ s.sberbank-ru.os-psi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ sbbauto.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ www.traffic.pda.yandex.ru (score: 75, count: 1, cat: )
+  ❌ pki.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.sberbank1-ru.os-prom.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ oauth-rc.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cab-psp-isep016.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ parasol.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cab-psp-snac003.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ clickstream.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ sp.isla.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ nider-t.sbrf-cdn342.ru (score: 55, count: 10, cat: other)
+  ✅ company.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pay.enginecraft.ru (score: 45, count: 1, cat: other)
+  ❌ fatca.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ viasun.ru (score: 70, count: 1, cat: other)
+  ❌ yt.money-cloud.ru (score: 45, count: 2, cat: other)
+  ❌ www.webmaster-support.wmc-admin.yandex.ru (score: 75, count: 1, cat: )
+  ✅ export.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ibfront2c.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ partner.market.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pda.money.yandex.ru (score: 75, count: 1, cat: )
+  ❌ kassa.yandex.ru (score: 75, count: 1, cat: )
+  ✅ rabota-click2.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ photo.yandex.ru (score: 75, count: 1, cat: )
+  ✅ autodiscover.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ collection.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ n2-psi-pbmob.testonline.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ sbbolmobile.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ oprosso.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ official.contest.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ kurs-mobile-psi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ school-wiki.new.yandex.ru (score: 75, count: 1, cat: )
+  ✅ pricelabs.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pulse-dev.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ backup-bar-navig.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sberopros.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ ping.blogs.yandex.ru (score: 75, count: 1, cat: )
+  ❌ bot-rc.passport.yandex.ru (score: 75, count: 1, cat: )
+  ❌ app04.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ nne.money-cloud.ru (score: 45, count: 2, cat: other)
+  ✅ bayan2.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ en.moneyfbapp.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ leaked.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ dictant.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ crm.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ events-old.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ speechkit.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ alpha-volume.cloud.yandex.ru (score: 75, count: 1, cat: )
+  ✅ fofi.ru (score: 80, count: 10, cat: other)
+  ❌ dfmit.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ owapp.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ bayan2.pepelac1t.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cab-psp-isep015.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ fr.sbrf-cdn342.ru (score: 50, count: 4, cat: other)
+  ❌ cc02.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ watch.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.reg.greenmarathon.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ nlb-ig-lb5-test.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ securepayments.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ technologies.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ passport.dzen.ru (score: 95, count: 1, cat: social) ⭐ELITE
+  ❌ sp.elbrus.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ enterprise.geocode-maps.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.taras.yandex.ru (score: 75, count: 1, cat: )
+  ✅ cashdesk2c.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ news.ufa-help.ru (score: 55, count: 42, cat: other)
+  ❌ cab-psp-snac011.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.mobile.money.yandex.ru (score: 75, count: 1, cat: )
+  ❌ sberbank-com.os-psi.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ gravicapa04d.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ health.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ bayan.pepelac1ft.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ kasko.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ salute.sber.ru (score: 65, count: 2, cat: other)
+  ✅ ir.ozone.ru (score: 80, count: 217, cat: ecommerce)
+  ❌ bug.yandex.ru (score: 75, count: 1, cat: )
+  ❌ ru.sfasti.ru (score: 55, count: 10, cat: other)
+  ✅ travel.yandex.ru (score: 100, count: 191, cat: ecommerce) ⭐ELITE
+  ❌ event.yandex.ru (score: 85, count: 129, cat: ecommerce) ⭐ELITE
+  ✅ extract.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.wordstat.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ lldocsrv4j.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ibfront1c.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ pdd.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ift-opros-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ channels.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ qas.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sbcast02e.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ driver.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sbc01.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ gravicapa07e.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.books.yandex.ru (score: 75, count: 1, cat: )
+  ✅ audience.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ p.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ taxi-exam.yandex.ru (score: 75, count: 1, cat: )
+  ❌ senat.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ alpha-data.cloud.yandex.ru (score: 75, count: 1, cat: )
+  ✅ cashdesk1c.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ up-fotki.pd.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ alfabank.ru (score: 100, count: 44, cat: banks) ⭐ELITE
+  ❌ guest-wifi.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ 5post-gate.x5.ru (score: 80, count: 114, cat: ecommerce)
+  ❌ www.io.ozone.ru (score: 60, count: 41, cat: )
+  ✅ canvas.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ captcha.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ unstable.mobile.maps.heroism.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ test-ift-office-emp.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ cab-psp-snac010.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ school.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.gmt.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ lingvo.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ aw-video.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ faced.metr.yandex.ru (score: 75, count: 1, cat: )
+  ✅ buki.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ tolstoy.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ upics.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gravicapa02h.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ cashdesk1g.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ dallas.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ alpha-network.cloud.yandex.ru (score: 75, count: 1, cat: )
+  ✅ pdb.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ fin2.pink-service.ru (score: 75, count: 8, cat: other)
+  ✅ rbc.ru (score: 100, count: 104, cat: tech) ⭐ELITE
+  ✅ crmfront2c.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ grinoree.ru (score: 50, count: 1, cat: other)
+  ❌ heroism.yandex.ru (score: 75, count: 1, cat: )
+  ❌ sus.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ www.kinopoisk.ru (score: 100, count: 106, cat: social) ⭐ELITE
+  ❌ cab-psp-isep010.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ webdav.myoffice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ hf-opros-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ wais.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ pulse-uat.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ payments.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ radioprobki.maps.yandex.ru (score: 75, count: 1, cat: )
+  ✅ flights.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ online.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ ewents.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pda.metro.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ vat.enginecraft.ru (score: 45, count: 2, cat: other)
+  ✅ research.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.advertising.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.cl.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ sbcast01d.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ gazeta.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cabinet.booking.yandex.ru (score: 75, count: 1, cat: )
+  ❌ outlook.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.metrica.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ dev-opros-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ tickets.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ legacy.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.greenmarathon.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ pda.yaca.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ route-maps.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ autoconfig.myoffice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ post.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ ftp.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.rasp.yandex.ru (score: 75, count: 1, cat: )
+  ❌ www.pda.money.yandex.ru (score: 75, count: 1, cat: )
+  ❌ kurs-mobile.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ kizen.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ lyncdiscover.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ tmc.langry.ru (score: 50, count: 3, cat: other)
+  ❌ web-n2-psi-pbmob.testonline.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ onlineoffice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ passport-test.dzen.ru (score: 75, count: 1, cat: social) ⭐ELITE
+  ✅ hida.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ cuda.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sp.kappa.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ozon.ru (score: 90, count: 1491, cat: ecommerce) ⭐ELITE
+  ❌ gamma.zen-test.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ news-clck.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ webchat2pub.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ firefox.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ecom.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ www.x5.ru (score: 80, count: 10, cat: ecommerce)
+  ✅ gravicapa01g.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pda.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ traffic-maps.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ homepage.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ dialin.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ info.otp.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ qr2.yandex.ru (score: 75, count: 1, cat: )
+  ❌ im7-tub.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pi-stash.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ imat-relpred.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ lk-online.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ r-img.fotki.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ id.sberbank-ru.os-psi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cc04.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ webchat2dlg.yandex.ru (score: 75, count: 1, cat: )
+  ❌ refund.ticket.yandex.ru (score: 75, count: 1, cat: )
+  ❌ www.event.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ibfront1e.yandex.ru (score: 75, count: 1, cat: )
+  ❌ geocontext.yandex.ru (score: 75, count: 1, cat: )
+  ✅ letters.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cert.partner.yandex.ru (score: 75, count: 1, cat: )
+  ❌ www.2019--sberbank.ru (score: 50, count: 1, cat: )
+  ❌ otkrytka.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ delivery.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pass-test.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ vopros.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ expe-s-lab.voiplab-ext.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ iftmpclickstream.testonline.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ pda.webcal.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ team.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ collections.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.yaca.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ elbrus.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ibfront1f.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ suggest-video.yandex.ru (score: 75, count: 1, cat: )
+  ❌ nlb-ig-lb4.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ cc07.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ inpage.metrica.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pda.mail.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ clocks.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ seodoarm.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ shareholder.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ www.public.oprosso.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ test-jazz.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ivent.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ spamooborona.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.ege.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ _xmpp-client.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ root-ya2.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ clock.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ rum.dzen.ru (score: 95, count: 1, cat: social) ⭐ELITE
+  ✅ crmfront1c.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ partners.avia.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ dst.yandex.ru (score: 75, count: 1, cat: )
+  ✅ www.vesna.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cashdesk1e.yandex.ru (score: 75, count: 1, cat: )
+  ❌ teta.zen-test.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.tel.money.yandex.ru (score: 75, count: 1, cat: )
+  ❌ expe.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ user.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ webchat2.yandex.ru (score: 75, count: 1, cat: )
+  ✅ x5club.ru (score: 70, count: 2, cat: other)
+  ❌ partner.rasp.yandex.ru (score: 75, count: 1, cat: )
+  ❌ aw-stat.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ crmfront1d.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.m.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ hr-ift.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ help.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.weather.yandex.ru (score: 75, count: 1, cat: )
+  ❌ im2-tub.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ developer.yandex.ru (score: 75, count: 1, cat: )
+  ❌ afisha.prestable.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ psi.es.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ phone.money.yandex.ru (score: 75, count: 1, cat: )
+  ❌ wiki.school.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ radioprobki.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ pogoda.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ brak.yandex.ru (score: 75, count: 1, cat: )
+  ❌ cab.myoffice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ dom.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ysa-static.passport.yandex.ru (score: 75, count: 1, cat: )
+  ✅ partner.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ push.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ lldocsrv3m.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cab-psp-isep013.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ lldocsrv1j.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cab-psp-snac005.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ www.tv.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ lldocsrv2m.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ arden.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ zno.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ contact2.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ emp-office.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ taxi-exams.mobile.yandex.ru (score: 75, count: 1, cat: )
+  ✅ literacy.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ set.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ tun.si.dzen.ru (score: 75, count: 1, cat: )
+  ❌ gl.blackapple46.ru (score: 45, count: 1, cat: other)
+  ❌ domain.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ gotraf.nodesecure.ru (score: 55, count: 6, cat: other)
+  ✅ books.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ibfront2g.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ partner.taxi.pepelac1t.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ demomoney.yandex.ru (score: 75, count: 1, cat: )
+  ✅ kani.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ibfront2d.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ang2.yandex.ru (score: 75, count: 1, cat: )
+  ✅ edu.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ dns.yandex.ru (score: 100, count: 3, cat: ecommerce) ⭐ELITE
+  ❌ www.grade.market.yandex.ru (score: 75, count: 1, cat: )
+  ✅ wiki.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ vesna.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ise-node08.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ taksi.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ozone.ru (score: 65, count: 23, cat: ecommerce)
+  ❌ www.kasko.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ extgit-eto.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ yandexcdn2.yandexdns.ru (score: 55, count: 4, cat: )
+  ✅ support.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ dialog-site.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ sbm.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ www.ok.ru (score: 95, count: 2, cat: social) ⭐ELITE
+  ✅ points.maps.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ city.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gravicapa03h.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ bf.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ipv6.internet.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ll.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ dzen.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.securepayments.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ kiks.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ arin.api-maps.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ arcadia.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ rabota2.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gramotno.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ safety.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ im-tub.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sbi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ check.hr-test.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ sbcast02h.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ webview.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ guard.api.tickets.yandex.ru (score: 75, count: 1, cat: )
+  ❌ login-wifi.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ share.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ privet-ift.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ suggest-music.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ lldocsrv3j.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ postoffice.yandex.ru (score: 75, count: 1, cat: )
+  ❌ privet-draft.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ partner.taxi.pepelac1ft.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sberdocs.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ www.sttest.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ contest.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ suggests.rasp.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ isla.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ dictionary.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ browser.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ yandex.ru (score: 100, count: 11350, cat: ecommerce) ⭐ELITE
+  ❌ www.i.yandex.ru (score: 75, count: 1, cat: )
+  ❌ cab-psp-isep007.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.kuda.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ shad.contest.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ spravochnik.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ n.maps.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gravicapa06d.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ vkvideo.ru (score: 60, count: 77, cat: other)
+  ❌ cert.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ display.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ pda-sauth.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ sovetnik.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ rm.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ bayan-prestable.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ suburban-widget.rasp.yandex.ru (score: 75, count: 1, cat: )
+  ✅ carddav.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ gate-1.soykavps.ru (score: 45, count: 1, cat: other)
+  ❌ craftmymine.ru (score: 50, count: 2, cat: other)
+  ✅ rasp.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ cashdesk1d.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ autoconfig.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ alpha-image.cloud.yandex.ru (score: 75, count: 1, cat: )
+  ✅ edu.expert.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pda.lenta.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.maps.wiki.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.i-maps.yandex.ru (score: 75, count: 1, cat: )
+  ✅ visor.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ jobs.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ partner.master.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ arcadia-ro.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pol2.linkey37.ru (score: 45, count: 2, cat: other)
+  ❌ email16.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ www.map.yandex.ru (score: 75, count: 1, cat: )
+  ✅ yaca.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sber911-test.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ xmlsearch.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ zanzibar.ld.yandex.ru (score: 75, count: 1, cat: )
+  ✅ tech.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ lima.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cab-psp-isep001.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ review-admin.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ bs.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ nlb-clickstream.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ spam.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.internet.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ lego.yandex.ru (score: 75, count: 1, cat: )
+  ✅ drive.yandex.ru (score: 100, count: 6, cat: ecommerce) ⭐ELITE
+  ❌ pulse-qa.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ all.money-cloud.ru (score: 55, count: 10, cat: other)
+  ❌ www.maps.pda.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ wdgt.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cc-host02.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ ege.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ipv4.internet.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ slovar.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sp.kirin.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ nl7.fastlanehosting.ru (score: 45, count: 1, cat: other)
+  ❌ school-wiki.yandex.ru (score: 75, count: 1, cat: )
+  ❌ pddimp.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ data.news.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sber247.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ peoplesearch.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ feedback.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ phone-passport.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sbervideo.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ golem.yandex.ru (score: 75, count: 1, cat: )
+  ✅ kuda.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.weather.pda.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ algorithm.contest.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ agency.advertising.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ zen-test.yandex.ru (score: 75, count: 1, cat: )
+  ❌ zanzibar.yandex.ru (score: 75, count: 1, cat: )
+  ❌ git.yandex.ru (score: 75, count: 1, cat: )
+  ✅ www.sberbank.ru (score: 100, count: 3, cat: banks) ⭐ELITE
+  ❌ www.stat.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ desktop.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ lk.taximeter.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ safe.yandex.ru (score: 75, count: 1, cat: )
+  ❌ cab-psp-isep014.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.points.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ probki.pda.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.school-wiki.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ help.max.ru (score: 75, count: 28, cat: other)
+  ✅ bar.export.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pset.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ews.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ carsharing-prestable.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ hr-draft.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ vmeste.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sp-money.yandex.ru (score: 75, count: 1, cat: )
+  ❌ fleece.balance.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.vremya.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ taxi-cabinet.mobile.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ trading.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ skype.yandex.ru (score: 75, count: 1, cat: )
+  ❌ privet.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ www.social.yandex.ru (score: 75, count: 1, cat: )
+  ✅ hotaru.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ direct-in.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ psearch-maps.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ lldocsrv5m.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ alpha-compute.cloud.yandex.ru (score: 75, count: 1, cat: )
+  ✅ postmaster.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ yabs.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ router.api-maps.yandex.ru (score: 75, count: 1, cat: )
+  ✅ gravicapa01e.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ weather.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cc-host03.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.school-wiki.new.yandex.ru (score: 75, count: 1, cat: )
+  ❌ email3.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ nge.money-cloud.ru (score: 50, count: 4, cat: other)
+  ✅ neim-tub.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sbmift.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ zen.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ lv.pink-service.ru (score: 45, count: 2, cat: other)
+  ✅ qas2.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gravicapa02d.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ touch.market.pepelac02hp.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ email12.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ byakko.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ verba.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ruw.starjisec.ru (score: 45, count: 2, cat: other)
+  ❌ 01.rdr.um.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ suggest-market.yandex.ru (score: 75, count: 1, cat: )
+  ✅ pda-passport.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ events.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.adv.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ vashsender.ru (score: 80, count: 23, cat: other)
+  ❌ sp.kuse.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ docs.myoffice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ partner.realty.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ d-assets.2gis.ru (score: 100, count: 8, cat: tech) ⭐ELITE
+  ✅ changepassword.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ bayan.pepelac1t.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.auto.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ balancer.serp.yandex.ru (score: 75, count: 1, cat: )
+  ❌ webquik-test.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ backend.jazz.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ repo.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sberbank1-ru.os-prom.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cab-vsp-isep102.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ email10.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ www.driver.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ requestfilter.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ catalog.yandex.ru (score: 75, count: 1, cat: )
+  ❌ ge2.money-cloud.ru (score: 45, count: 1, cat: other)
+  ✅ autopoet.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ crmfront2e.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ bar.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gravicapa04g.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ alpha-amqp.cloud.yandex.ru (score: 75, count: 1, cat: )
+  ❌ web-si1-psi-pbmob.testonline.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ github.yandex.ru (score: 75, count: 1, cat: )
+  ❌ webcal.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ awsync.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ pda.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ rbs2esprm.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ report-vypiska.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ braskivo.ru (score: 60, count: 16, cat: other)
+  ❌ cu.dzen.ru (score: 75, count: 1, cat: )
+  ❌ www.research.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.clocks.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.sberbank1-ru.os-psi.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ vendor.market.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ esr.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ zen.zeta.dzen.ru (score: 75, count: 1, cat: )
+  ❌ ol.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ota.travel.yandex.ru (score: 75, count: 1, cat: )
+  ❌ bs-ext.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ refund.tickets.yandex.ru (score: 75, count: 1, cat: )
+  ❌ rbs2sprm.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ chat.speedload.ru (score: 55, count: 43, cat: other)
+  ✅ otus.ru (score: 70, count: 2, cat: other)
+  ✅ disc.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ipcacs.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ developer.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ www.m.pogoda.yandex.ru (score: 75, count: 1, cat: )
+  ❌ squad-2-pl.vps-m.ru (score: 50, count: 4, cat: other)
+  ✅ www.max.ru (score: 75, count: 12, cat: other)
+  ❌ pwa.hr.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ sberbank-ru.os-prom.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ lenta.yandex.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ reg.greenmarathon.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ cab-psp-isep004.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ osago.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ ddp-stg.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ www.balance.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ shad.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.jobinvest.ru (score: 55, count: 126, cat: other)
+  ❌ auth-portal.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ push.myoffice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ svn.yandex.ru (score: 75, count: 1, cat: )
+  ❌ nl18.fastlanehosting.ru (score: 55, count: 38, cat: other)
+  ❌ im5-tub.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ tury.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ sovetnik.market.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ blackapple46.ru (score: 50, count: 1, cat: other)
+  ✅ dzen.ru (score: 100, count: 1, cat: social) ⭐ELITE
+  ❌ psi-spkk-static.testonline.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ ym-promo.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ oplata.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ job.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sbcast04d.maps.yandex.ru (score: 75, count: 1, cat: )
+  ✅ www.market.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cab-vsp-isea102.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ calendar.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ omega.zen-test.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ inst.faceppm.ru (score: 45, count: 2, cat: other)
+  ✅ atom.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gravicapa05g.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ipv6.api.direct.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.desktop.yandex.ru (score: 75, count: 1, cat: )
+  ❌ n1-psi-pbmob.testonline.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ s.sberbank-ru.os-prom.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ psi-s-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ css.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.pda.weather.yandex.ru (score: 75, count: 1, cat: )
+  ❌ partner.travel.yandex.ru (score: 75, count: 1, cat: )
+  ❌ sp.arden.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.pogoda.yandex.ru (score: 75, count: 1, cat: )
+  ✅ pozhar.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ testonline.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ frankfurt.node.specnet.ru (score: 45, count: 2, cat: other)
+  ❌ insf.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ aw-agency.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ suggest-people.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.wap.money.yandex.ru (score: 75, count: 1, cat: )
+  ✅ blogs-http.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ blog.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ psi-www-sberbank1-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ s.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ www.bayan2.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ assistant.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ router-quality.maps.yandex.ru (score: 75, count: 1, cat: )
+  ✅ kurum.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ appmetrica.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ suggest-internal.yandex.ru (score: 75, count: 1, cat: )
+  ❌ im0-tub.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ip.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sp.golbat.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ id.sberbank-ru.os-prom.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.zno.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ family.dns.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.m.metro.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ koga.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ taras.yandex.ru (score: 75, count: 1, cat: )
+  ❌ lyncweb.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ root-ya1.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ psi-opros-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.pda.traffic.yandex.ru (score: 75, count: 1, cat: )
+  ❌ sp.kitsune.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pics.market.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ i.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ collab-edge.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ gravicapa05e.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ dc-electro.ru (score: 80, count: 6, cat: other)
+  ✅ tv.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pking.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ afisha.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sberalisa.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ opros.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ www.radioprobki.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ certauth.wso.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ bot.passport.yandex.ru (score: 75, count: 1, cat: )
+  ✅ vremya.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ eg.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ psi-id-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ hakutaku.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ feedback2.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gravicapa05d.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ im6-tub.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ psi-sberbank-com.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ddp-t.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ carreta.ru (score: 80, count: 6, cat: other)
+  ✅ reklama.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ vk.ru (score: 100, count: 12, cat: other) ⭐ELITE
+  ❌ oos.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ auto-click2.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cchufs.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ alpha-novnc.cloud.yandex.ru (score: 75, count: 1, cat: )
+  ✅ bs-meta.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ whalebone.ydf.yandex.ru (score: 75, count: 1, cat: )
+  ✅ soap.direct.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ s6.auto.drom.ru (score: 80, count: 6, cat: tech)
+  ✅ belkacar.ru (score: 80, count: 31, cat: other)
+  ✅ alice.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ geo1.geoapi.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ pol.pink-service.ru (score: 70, count: 4, cat: other)
+  ❌ auth-si20.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ turizm.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ caldav.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gravicapa06h.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ elements.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ langrec.yandex.ru (score: 75, count: 1, cat: )
+  ❌ walks.yandex.ru (score: 75, count: 1, cat: )
+  ✅ fx.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ browsers.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ir-2.ozone.ru (score: 80, count: 55, cat: ecommerce)
+  ❌ 02.rdr.um.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ www.radioprobki2.maps.yandex.ru (score: 75, count: 1, cat: )
+  ✅ kirin.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ymc.yandex.ru (score: 75, count: 1, cat: )
+  ✅ encycl.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ euro16widget.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.sberbank-com.os-prom.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ idm.emm.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ suggest-blogs.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ wifi-ise.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ gaki.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.catalog.yandex.ru (score: 75, count: 1, cat: )
+  ❌ www.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ sbcast01h.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ cbr.ydf.yandex.ru (score: 75, count: 1, cat: )
+  ❌ sp.gaki.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ docviewer.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ lync.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ bsadm.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ kz-general.vps-m.ru (score: 55, count: 6, cat: other)
+  ❌ passport-test-ckicheck.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ put2.cards.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.bayan.yandex.ru (score: 75, count: 1, cat: )
+  ❌ suggest-images.yandex.ru (score: 75, count: 1, cat: )
+  ✅ baku.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cc05.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cab-psp-snac004.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ guard.api.kassa.yandex.ru (score: 75, count: 1, cat: )
+  ❌ traffic.pda.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ public.psi.oprosso.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ ext.contest.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sbcast03h.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ sp.kani.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ kino.yandex.ru (score: 75, count: 1, cat: )
+  ❌ eas.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ forum.direct.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.karti.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ soft.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ finland.sbrf-cdn342.ru (score: 45, count: 2, cat: other)
+  ✅ aliusfilms.ru (score: 80, count: 11, cat: other)
+  ✅ slovari.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ disk.yandex.ru (score: 100, count: 65, cat: ecommerce) ⭐ELITE
+  ❌ spost.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ turn.jazz.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ lldocsrv5h.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.phone.money.yandex.ru (score: 75, count: 1, cat: )
+  ✅ sha-256.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ krakenlabs.ru (score: 80, count: 19, cat: other)
+  ❌ nlb-nt-opros-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ dealer.auto.yandex.ru (score: 75, count: 1, cat: )
+  ❌ data.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ wifi-login.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ quigon.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ bayan2.pepelac1ft.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.partner.taxi.pepelac1ft.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sbcast04h.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ email14.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ sp.corniglia.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.spam.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.osago.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ partner.taxi.yandex.ru (score: 75, count: 1, cat: )
+  ❌ check.hr.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ub-events.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ omail.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ block.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ avis.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ put.cards2.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.uslugi.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ grade.market.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ callerid.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ sp.demomoney2.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.mobile.yandex.ru (score: 80, count: 3, cat: ecommerce) ⭐ELITE
+  ❌ si1-psi-pbmob.testonline.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ access.emm.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ dialogs.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ annya.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ check.easycert.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ smartoffice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ ya.ru (score: 100, count: 211, cat: other) ⭐ELITE
+  ❌ www.yamb.yandex.ru (score: 75, count: 1, cat: )
+  ✅ opera.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ rbs2esprmpsi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ gorod.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ extgit.yandex.ru (score: 75, count: 1, cat: )
+  ❌ www.gorod.yandex.ru (score: 75, count: 1, cat: )
+  ✅ gravicapa05h.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ unsubscribe.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ logos.myoffice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ social-test.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ contract.gosuslugi.ru (score: 100, count: 36, cat: government) ⭐ELITE
+  ❌ developers.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ encyclopedia.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ddp.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ privet-uat.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ cc08.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ vs-otrsback01hp.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ family.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ funai.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pda.calendar.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ awe.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cab-psp-snac006.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ pda-passport-rc.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ shark14.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ aliexpress.ru (score: 80, count: 4, cat: ecommerce)
+  ❌ beeline.ru (score: 90, count: 25, cat: mobile) ⭐ELITE
+  ❌ cab-psp-snac001.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ sba.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ anticheat.kittystars.ru (score: 65, count: 2, cat: other)
+  ❌ email15.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ www.websbol.ant.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ bfds.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ app07.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ hels.node.specnet.ru (score: 45, count: 2, cat: other)
+  ✅ contact.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ test-chatbot.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.taxi-terminal.yandex.ru (score: 75, count: 1, cat: )
+  ❌ www.so.yandex.ru (score: 75, count: 1, cat: )
+  ✅ direct.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ suggest-kinopoisk.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ fotki.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ corba-https-export-ng1.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.bfd.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.video.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ element.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ email13.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ slovary.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ 3dsec.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ extsvn.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ uslugi.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ taxi.yandex.ru (score: 100, count: 1145, cat: ecommerce) ⭐ELITE
+  ✅ eh.vk.ru (score: 100, count: 342, cat: other) ⭐ELITE
+  ❌ bayan.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pda.news.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.adresa.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ de15.fastlanehosting.ru (score: 50, count: 4, cat: other)
+  ❌ leto.adrtun.ru (score: 55, count: 14, cat: other)
+  ❌ kz.money-cloud.ru (score: 45, count: 2, cat: other)
+  ✅ suggest-maps.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ trust.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ flux-or.ru (score: 80, count: 6, cat: other)
+  ✅ ibfront2e.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ target.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ enterpriseregistration.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ frontend.vh.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.opros--sberbank.ru (score: 50, count: 1, cat: )
+  ❌ sokol.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ efspsi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ nlb-finsov.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cab-vsp-isep101.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ science.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ wy.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ an.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ partners-test-cabinet.mobile.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sp.hida.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ passport-rc-ckicheck.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ suggests.avia.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.webmaster.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ chatnc.csc.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ flight.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sbermenu.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ webquik.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ rasp.api.yandex.ru (score: 75, count: 1, cat: )
+  ❌ par.node.specnet.ru (score: 45, count: 2, cat: other)
+  ❌ www.element.yandex.ru (score: 75, count: 1, cat: )
+  ✅ 1edcbb01-l.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ soap-sandbox.direct.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gmt.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ requestfilterpsi.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ dict.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ psi-spkk-static.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ shark11.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.pda.metro.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ arleonsk.ru (score: 80, count: 5, cat: other)
+  ❌ pda.auto.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ upgsbi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ felis.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.homepage.yandex.ru (score: 75, count: 1, cat: )
+  ❌ ilovemax.ru (score: 50, count: 2, cat: other)
+  ❌ bonus--sberbank.ru (score: 55, count: 1, cat: )
+  ❌ sp.boulogne.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pol.adrtun.ru (score: 45, count: 2, cat: other)
+  ❌ fi.rasp.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ email11.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ www.unicreditbank.ru (score: 80, count: 11, cat: banks)
+  ❌ www.npro.maps.yandex.ru (score: 75, count: 1, cat: )
+  ✅ informer.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sp.hakutaku.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ diehard.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gravicapa06e.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sberchat.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ crmfront1e.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ privet-qa.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cab-psp-snac012.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ pda-passport-test.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ibfront1g.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ie.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ hw.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ extsvn-ugr.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.master.yandex.ru (score: 75, count: 1, cat: )
+  ✅ web.max.ru (score: 75, count: 1011, cat: other)
+  ✅ golbat.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ yapic.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ passport-ckicheck.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sp.byakko.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.st.yandex.ru (score: 75, count: 1, cat: )
+  ✅ pythonlbp-s.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sberclub.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ avito.ru (score: 100, count: 4, cat: ecommerce) ⭐ELITE
+  ❌ web-si20.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ direct.sbbolmobile.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ hr-dev.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ sberkids.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ booking.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ webdav-rc.yandex.ru (score: 75, count: 1, cat: )
+  ❌ expe-s-n2sko.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ ise-node07.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ job.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ sbcast02d.maps.yandex.ru (score: 75, count: 1, cat: )
+  ❌ www.mediatop.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ tms.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ tune.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ suggest.dzen.ru (score: 95, count: 1, cat: social) ⭐ELITE
+  ✅ geocode-maps.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pulse-draft.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ psi-www-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ crmfront2d.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ alpha-object.cloud.yandex.ru (score: 75, count: 1, cat: )
+  ✅ corba-https-export.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ye-update.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ bots.zen-test.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ webmaster.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ 2gis.ru (score: 100, count: 1, cat: tech) ⭐ELITE
+  ❌ lldocsrv6m.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.ekspert.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ search-maps.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ corniglia.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cslab.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ avia.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ nlb-ig-lb1-ift.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ business.taxi.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ segalovich.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ sprav.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gravicapa02e.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ expe-s-n1up.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ ofd.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ visatokenservice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ balance.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ distribution.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ korussbof.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ web-collaboration.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ ba.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.rutube.ru (score: 100, count: 34, cat: social) ⭐ELITE
+  ❌ rc.senat.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ partner2.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ psi.ufs-superapp.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ partners.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pnr.stdu.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ hf-id-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ la-general.vps-m.ru (score: 50, count: 4, cat: other)
+  ❌ telephony.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ dss.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ email2.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ news.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.maps.new.wiki.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ im3-tub.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ test-psi-office.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ celltick.zen-test.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.news.yandex.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ friendchatbotpro.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ finline-demo.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+⭐ Saved ELITE SNI: results/elite_sni.txt (517 SNIs, score >= 70)
+📊 SNI SCAN STATISTICS:
+   📥 Total SNI processed: 1401
+   🚫 Blacklisted:         12093
+   🗑️  Suspicious (filtered): 37117
+   ❌ DNS failed:          402
+   ❌ TCP failed:          188
+   ❌ TLS failed:          281
+   ❌ HTTP failed:         11
+   ✅ Alive:               519
+   ⭐ Elite found:         483
+   ⭐ elite_sni.txt    - Best SNI (score >= 70)

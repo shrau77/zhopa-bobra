@@ -17,11 +17,12 @@ help.max.ru
 www.max.ru
 fin2.pink-service.ru
 se.pink-service.ru
-pol.pink-service.ru
 de.pink-service.ru
+pol.pink-service.ru
 nld3.pink-service.ru
-otus.ru
 planetanix.ru
+otus.ru
 x5club.ru
+viasun.ru
 anticheat.kittystars.ru
 salute.sber.ru
