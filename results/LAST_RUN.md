@@ -4153,3 +4153,257 @@
    ✅ Alive:               228
    ⭐ Elite found:         182
    ⭐ elite_sni.txt    - Best SNI (score >= 70)
+## 🦫 SNI Hunt Report - 2026-03-10 16:54
+
+### Results
+- ⭐ Elite SNI: 68
+- 💎 Premium SNI: 71
+- 📄 Target SNI: 71
+
+### Stats
+   ✅ Found 73 subdomains
+  ❌ short.university.ozon.ru (score: 75, count: 1, cat: )
+  ❌ www.secretsanta.ozon.ru (score: 75, count: 1, cat: )
+  ❌ ozonsccmcmg.ozon.ru (score: 75, count: 1, cat: )
+  ❌ www.bank.ozon.ru (score: 75, count: 1, cat: )
+  ❌ voip.ozon.ru (score: 75, count: 1, cat: )
+  ❌ www.ads.x5.ru (score: 60, count: 14, cat: )
+  ❌ www--ozon.ru (score: 55, count: 1, cat: )
+  ❌ ozon-card-landing.ozon.ru (score: 75, count: 1, cat: )
+  ❌ nl.nodes.rocketnetwork.ru (score: 45, count: 1, cat: other)
+  ✅ us.pink-service.ru (score: 65, count: 2, cat: other)
+  ❌ pay.enginecraft.ru (score: 45, count: 1, cat: other)
+  ❌ leto.adrtun.ru (score: 55, count: 13, cat: other)
+  ❌ profit.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ che.pink-service.ru (score: 45, count: 2, cat: other)
+  ❌ www.mobile.yandex.ru (score: 75, count: 2, cat: ecommerce) ⭐ELITE
+  ❌ rest.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ testlegaci.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ window-one.sbrf-cdn342.ru (score: 55, count: 10, cat: other)
+  ❌ kz-general.vps-m.ru (score: 55, count: 14, cat: other)
+  ❌ ru-usa2.linkey39.ru (score: 55, count: 7, cat: other)
+  ❌ rus6.linkey41.ru (score: 55, count: 10, cat: other)
+  ❌ 3ds-v2-challenge.ecom-bank.ozon.ru (score: 75, count: 1, cat: )
+  ❌ window-two.sbrf-cdn342.ru (score: 55, count: 13, cat: other)
+  ❌ ch2.fastlanehosting.ru (score: 55, count: 20, cat: other)
+  ❌ de18.fastlanehosting.ru (score: 55, count: 9, cat: other)
+  ❌ hels.node.specnet.ru (score: 45, count: 2, cat: other)
+  ❌ ozone.ru (score: 65, count: 26, cat: ecommerce)
+  ❌ nl7.fastlanehosting.ru (score: 45, count: 1, cat: other)
+  ❌ ruswl3.linkey45.ru (score: 55, count: 6, cat: other)
+  ❌ pol.pink-service.ru (score: 55, count: 8, cat: other)
+  ❌ autodiscover.g.ozon.ru (score: 75, count: 1, cat: )
+  ❌ global.university.ozon.ru (score: 75, count: 1, cat: )
+  ❌ cs.ozon.ru (score: 75, count: 1, cat: )
+  ✅ se.pink-service.ru (score: 75, count: 10, cat: other)
+  ❌ grinoree.ru (score: 50, count: 1, cat: other)
+  ❌ finland.money-cloud.ru (score: 45, count: 2, cat: other)
+  ❌ learning.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ arleonsk.ru (score: 80, count: 7, cat: other)
+  ❌ de17.fastlanehosting.ru (score: 50, count: 3, cat: other)
+  ❌ fb.blackapple46.ru (score: 45, count: 1, cat: other)
+  ✅ krakenlabs.ru (score: 80, count: 19, cat: other)
+  ✅ aliexpress.ru (score: 85, count: 6, cat: ecommerce)
+  ✅ help.max.ru (score: 75, count: 19, cat: other)
+  ✅ 3ds-v2-challenge.bank.ozon.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ web.max.ru (score: 75, count: 1478, cat: other)
+  ✅ avito.ru (score: 100, count: 6, cat: ecommerce) ⭐ELITE
+  ❌ finland.sbrf-cdn342.ru (score: 45, count: 2, cat: other)
+  ✅ passport.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ kinopoisk.ru (score: 100, count: 80, cat: social) ⭐ELITE
+  ❌ de15.fastlanehosting.ru (score: 55, count: 6, cat: other)
+  ✅ 3ds-v2-auth-test.ecom-bank.ozon.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ travel.yandex.ru (score: 100, count: 315, cat: ecommerce) ⭐ELITE
+  ❌ finl5.linkey40.ru (score: 55, count: 7, cat: other)
+  ❌ sellerstage.university.ozon.ru (score: 75, count: 1, cat: )
+  ❌ route.mcqueenconnection.ru (score: 55, count: 9, cat: other)
+  ✅ vt-1.ozone.ru (score: 80, count: 24, cat: ecommerce)
+  ❌ seller.university.ozon.ru (score: 75, count: 1, cat: )
+  ✅ securepay.ozon.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ dns-shop.ru (score: 80, count: 4, cat: ecommerce)
+  ✅ rbc.ru (score: 100, count: 215, cat: tech) ⭐ELITE
+  ✅ www.wildberries.ru (score: 100, count: 13, cat: ecommerce) ⭐ELITE
+  ❌ 3ds-v2-challenge-test.ecom-bank.ozon.ru (score: 75, count: 1, cat: )
+  ❌ etls.ozon.ru (score: 75, count: 1, cat: )
+  ❌ selfms.nodesecure.ru (score: 50, count: 4, cat: other)
+  ✅ belkacar.ru (score: 80, count: 37, cat: other)
+  ❌ smtpz1s4.ozon.ru (score: 75, count: 1, cat: )
+  ✅ vashsender.ru (score: 80, count: 26, cat: other)
+  ❌ seller.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ user-account.ozon.ru (score: 75, count: 1, cat: )
+  ❌ learning.university.ozon.ru (score: 75, count: 1, cat: )
+  ❌ www.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ par.node.specnet.ru (score: 45, count: 2, cat: other)
+  ✅ nld3.pink-service.ru (score: 75, count: 8, cat: other)
+  ❌ ru.sfasti.ru (score: 55, count: 8, cat: )
+  ❌ all.money-cloud.ru (score: 55, count: 6, cat: other)
+  ✅ tvdesign.ru (score: 80, count: 35, cat: other)
+  ✅ 3ds-v2-auth.ecom-bank.ozon.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ secretsanta.ozon.ru (score: 75, count: 1, cat: )
+  ❌ rawinet.ru (score: 50, count: 2, cat: other)
+  ❌ rest.university.ozon.ru (score: 75, count: 1, cat: )
+  ❌ braskivo.ru (score: 60, count: 18, cat: other)
+  ❌ inst.faceppm.ru (score: 45, count: 2, cat: other)
+  ✅ dc-electro.ru (score: 80, count: 5, cat: other)
+  ✅ reg.ru (score: 75, count: 4, cat: other)
+  ✅ anticheat.kittystars.ru (score: 65, count: 2, cat: other)
+  ❌ push.ozon.ru (score: 75, count: 1, cat: )
+  ❌ poland.money-cloud.ru (score: 50, count: 4, cat: other)
+  ❌ at17.fastlanehosting.ru (score: 55, count: 16, cat: other)
+  ✅ ya.ru (score: 100, count: 214, cat: other) ⭐ELITE
+  ❌ fl14.linkey21.ru (score: 55, count: 6, cat: other)
+  ✅ taxi.yandex.ru (score: 100, count: 920, cat: ecommerce) ⭐ELITE
+  ❌ prometheus.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ event.yandex.ru (score: 85, count: 161, cat: ecommerce) ⭐ELITE
+  ❌ fast-brooklyn.ru (score: 60, count: 22, cat: other)
+  ✅ enterprise.api-maps.yandex.ru (score: 100, count: 57, cat: ecommerce) ⭐ELITE
+  ❌ est.pink-service.ru (score: 50, count: 4, cat: other)
+  ✅ disk.yandex.ru (score: 100, count: 76, cat: ecommerce) ⭐ELITE
+  ❌ la-general.vps-m.ru (score: 55, count: 10, cat: other)
+  ✅ aliusfilms.ru (score: 80, count: 47, cat: other)
+  ✅ rutube.ru (score: 100, count: 398, cat: social) ⭐ELITE
+  ❌ hkqrpk.ozon.ru (score: 75, count: 1, cat: )
+  ❌ ytn.sbrf-cdn342.ru (score: 55, count: 8, cat: other)
+  ✅ flux-or.ru (score: 80, count: 10, cat: other)
+  ✅ any.yandex.ru (score: 95, count: 2, cat: ecommerce) ⭐ELITE
+  ✅ goya.rutube.ru (score: 100, count: 35, cat: social) ⭐ELITE
+  ❌ ge2.money-cloud.ru (score: 45, count: 1, cat: other)
+  ✅ io.ozone.ru (score: 80, count: 287, cat: ecommerce)
+  ❌ gr.nodesecure.ru (score: 55, count: 18, cat: other)
+  ❌ yandexcdn2.yandexdns.ru (score: 55, count: 4, cat: )
+  ✅ yandex.ru (score: 100, count: 10298, cat: ecommerce) ⭐ELITE
+  ✅ www.max.ru (score: 75, count: 30, cat: other)
+  ❌ wa.sfasti.ru (score: 50, count: 4, cat: )
+  ❌ tr7.linkey13.ru (score: 55, count: 6, cat: other)
+  ❌ short.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ir.ozone.ru (score: 80, count: 214, cat: ecommerce)
+  ✅ carreta.ru (score: 80, count: 5, cat: other)
+  ✅ eh.vk.ru (score: 100, count: 311, cat: other) ⭐ELITE
+  ❌ craftmymine.ru (score: 55, count: 4, cat: other)
+  ✅ salute.sber.ru (score: 65, count: 2, cat: other)
+  ❌ news.ufa-help.ru (score: 55, count: 38, cat: other)
+  ✅ drive.yandex.ru (score: 100, count: 6, cat: ecommerce) ⭐ELITE
+  ❌ gl.blackapple46.ru (score: 45, count: 1, cat: other)
+  ❌ de.itkrsk.ru (score: 50, count: 4, cat: other)
+  ❌ nld.pink-service.ru (score: 50, count: 4, cat: other)
+  ✅ d-assets.2gis.ru (score: 100, count: 9, cat: tech) ⭐ELITE
+  ✅ autodiscover.ord.ozon.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pol.adrtun.ru (score: 45, count: 2, cat: other)
+  ❌ tr-general.vps-m.ru (score: 55, count: 10, cat: other)
+  ❌ blackapple46.ru (score: 50, count: 1, cat: other)
+  ❌ lv.pink-service.ru (score: 45, count: 2, cat: other)
+  ❌ ruw.starjisec.ru (score: 50, count: 4, cat: other)
+  ✅ rusonyx.ru (score: 70, count: 2, cat: other)
+  ✅ ir-2.ozone.ru (score: 80, count: 59, cat: ecommerce)
+  ❌ squad-2-pl.vps-m.ru (score: 55, count: 6, cat: other)
+  ✅ dns.yandex.ru (score: 95, count: 2, cat: ecommerce) ⭐ELITE
+  ❌ chat.speedload.ru (score: 55, count: 60, cat: other)
+  ❌ tickets.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ s6.auto.drom.ru (score: 80, count: 8, cat: tech)
+  ✅ vk.ru (score: 100, count: 13, cat: other) ⭐ELITE
+  ❌ ya.volgogradskie.ru (score: 55, count: 19, cat: other)
+  ❌ gazprom5.sbrf-cdn342.ru (score: 45, count: 2, cat: other)
+  ❌ sellerstage.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ 1testintegration.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sip.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ tmc.langry.ru (score: 45, count: 1, cat: other)
+  ✅ fofi.ru (score: 80, count: 6, cat: other)
+  ❌ pol1.linkey37.ru (score: 50, count: 4, cat: other)
+  ❌ russia.node.specnet.ru (score: 45, count: 2, cat: other)
+  ❌ university.ozon.ru (score: 75, count: 1, cat: )
+  ✅ x5.ru (score: 80, count: 4, cat: ecommerce)
+  ✅ fin2.pink-service.ru (score: 75, count: 14, cat: other)
+  ❌ frankfurt.node.specnet.ru (score: 45, count: 2, cat: other)
+  ❌ www.ozon.ru (score: 85, count: 44, cat: ecommerce) ⭐ELITE
+  ❌ gotraf.nodesecure.ru (score: 50, count: 4, cat: other)
+  ❌ profit.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ nge.money-cloud.ru (score: 45, count: 2, cat: other)
+  ✅ planetanix.ru (score: 80, count: 6, cat: other)
+  ❌ nl20.linkey26.ru (score: 50, count: 4, cat: other)
+  ❌ gosuslugi.ru (score: 90, count: 16, cat: government) ⭐ELITE
+  ❌ de16.fastlanehosting.ru (score: 55, count: 18, cat: other)
+  ✅ yabro-wbplugin.edadeal.yandex.ru (score: 100, count: 31, cat: ecommerce) ⭐ELITE
+  ❌ www.io.ozone.ru (score: 60, count: 50, cat: )
+  ❌ www.invest.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.rutube.ru (score: 100, count: 36, cat: social) ⭐ELITE
+  ❌ news.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ 3ds-v2-challenge-test.bank.ozon.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.x5.ru (score: 80, count: 33, cat: ecommerce)
+  ✅ ok.ru (score: 100, count: 6, cat: social) ⭐ELITE
+  ❌ alco.ozon.ru (score: 75, count: 1, cat: )
+  ❌ fr.sbrf-cdn342.ru (score: 50, count: 4, cat: other)
+  ❌ ozon.ru (score: 90, count: 1342, cat: ecommerce) ⭐ELITE
+  ❌ ecom-bank.ozon.ru (score: 75, count: 1, cat: )
+  ✅ www.kinopoisk.ru (score: 100, count: 130, cat: social) ⭐ELITE
+  ❌ vk1.zqwerty.ru (score: 45, count: 1, cat: other)
+  ✅ 2gis.ru (score: 100, count: 1, cat: tech) ⭐ELITE
+  ❌ de.pink-service.ru (score: 55, count: 6, cat: other)
+  ❌ www.tickets.ozon.ru (score: 75, count: 1, cat: )
+  ❌ ilovemax.ru (score: 50, count: 2, cat: other)
+  ❌ seller.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ 5post-gate.x5.ru (score: 80, count: 82, cat: ecommerce)
+  ❌ pol2.linkey37.ru (score: 55, count: 10, cat: other)
+  ❌ gate-1.soykavps.ru (score: 45, count: 1, cat: other)
+  ❌ ru-bridge.vps-m.ru (score: 50, count: 4, cat: other)
+  ❌ smtp-notifications.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ wfm01z1.ozon.ru (score: 75, count: 1, cat: )
+  ❌ smtpz23s5.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.jobinvest.ru (score: 55, count: 138, cat: other)
+  ✅ alfabank.ru (score: 100, count: 70, cat: banks) ⭐ELITE
+  ❌ ru-m-usa1.linkey36.ru (score: 55, count: 6, cat: other)
+  ❌ rocket.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ivi.ru (score: 100, count: 2, cat: tech) ⭐ELITE
+  ❌ ni.yurichdelaet.ru (score: 45, count: 2, cat: other)
+  ❌ beeline.ru (score: 90, count: 27, cat: mobile) ⭐ELITE
+  ✅ lasercut.ru (score: 80, count: 12, cat: other)
+  ✅ www.ok.ru (score: 95, count: 2, cat: social) ⭐ELITE
+  ❌ ger33.linkey19.ru (score: 55, count: 7, cat: other)
+  ✅ otus.ru (score: 75, count: 4, cat: other)
+  ❌ s5.psnreality.ru (score: 45, count: 1, cat: other)
+  ❌ nl18.fastlanehosting.ru (score: 55, count: 28, cat: other)
+  ❌ learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ kz.money-cloud.ru (score: 45, count: 2, cat: other)
+  ❌ business.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.unicreditbank.ru (score: 80, count: 13, cat: banks)
+  ✅ crowdtest.payment-widget-smarttv.plus.tst.kinopoisk.ru (score: 100, count: 13, cat: social) ⭐ELITE
+  ❌ italy.pocomacho.ru (score: 50, count: 3, cat: other)
+  ❌ job.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ finance.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ contract.gosuslugi.ru (score: 100, count: 38, cat: government) ⭐ELITE
+  ❌ card.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ x5club.ru (score: 70, count: 2, cat: other)
+  ❌ expand-6.sbrf-cdn342.ru (score: 50, count: 3, cat: other)
+  ✅ www.yandex.ru (score: 100, count: 22, cat: ecommerce) ⭐ELITE
+  ❌ sgateway.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.vkvideo.ru (score: 55, count: 32, cat: other)
+  ❌ vkvideo.ru (score: 60, count: 62, cat: other)
+  ❌ bank.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ru5.fastlanehosting.ru (score: 55, count: 11, cat: other)
+  ❌ partner.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ vat.enginecraft.ru (score: 45, count: 2, cat: other)
+  ❌ gazprom1.sbrf-cdn342.ru (score: 45, count: 2, cat: other)
+  ❌ invest.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ squad-2-ru.vps-m.ru (score: 50, count: 4, cat: other)
+  ❌ smtpz20s4.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ forum.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ owa.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ smtpz23s4.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ smtp-relays.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ selfreg.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ seller-admin.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ webconf.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ docs.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ id.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ awas.x5.ru (score: 55, count: 4, cat: ecommerce)
+⭐ Saved ELITE SNI: results/elite_sni.txt (69 SNIs, score >= 70)
+📊 SNI SCAN STATISTICS:
+   📥 Total SNI processed: 233
+   🚫 Blacklisted:         14171
+   🗑️  Suspicious (filtered): 35550
+   ❌ DNS failed:          32
+   ❌ TCP failed:          28
+   ❌ TLS failed:          77
+   ❌ HTTP failed:         24
+   ✅ Alive:               72
+   ⭐ Elite found:         36
+   ⭐ elite_sni.txt    - Best SNI (score >= 70)
