@@ -4,9 +4,10 @@ kinopoisk.ru
 goya.rutube.ru
 www.rutube.ru
 crowdtest.payment-widget-smarttv.plus.tst.kinopoisk.ru
+ok.ru
 dzen.ru
-www.ok.ru
-suggest.dzen.ru
 passport.dzen.ru
-rum.dzen.ru
+suggest.dzen.ru
 suggest.sso.dzen.ru
+rum.dzen.ru
+www.perekrestok.ru
