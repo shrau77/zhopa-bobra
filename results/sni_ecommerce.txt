@@ -18,5 +18,5 @@ ir.ozone.ru
 ir-2.ozone.ru
 vt-1.ozone.ru
 www.x5.ru
-x5.ru
 dns-shop.ru
+x5.ru
