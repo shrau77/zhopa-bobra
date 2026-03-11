@@ -7623,3 +7623,244 @@
    ✅ Alive:               112
    ⭐ Elite found:         76
    ⭐ elite_sni.txt    - Best SNI (score >= 70)
+## 🦫 SNI Hunt Report - 2026-03-11 12:47
+
+### Results
+- ⭐ Elite SNI: 105
+- 💎 Premium SNI: 108
+- 📄 Target SNI: 108
+
+### Stats
+   ✅ Found 42 subdomains
+   ✅ Found 11 subdomains
+   ✅ Found 7 subdomains
+  ❌ korzun-test.tbank.ru (score: 75, count: 1, cat: )
+  ❌ inst.faceppm.ru (score: 45, count: 1, cat: other)
+  ❌ ru.sfasti.ru (score: 55, count: 106, cat: )
+  ❌ poland.money-cloud.ru (score: 45, count: 2, cat: other)
+  ❌ vk1.zqwerty.ru (score: 45, count: 1, cat: other)
+  ❌ frankfurt.node.specnet.ru (score: 45, count: 2, cat: other)
+  ❌ cu.dzen.ru (score: 75, count: 1, cat: )
+  ❌ yandexcdn2.yandexdns.ru (score: 55, count: 4, cat: )
+  ✅ secrets.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ russia.node.specnet.ru (score: 45, count: 2, cat: other)
+  ✅ journal.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ rus6.linkey41.ru (score: 55, count: 7, cat: other)
+  ❌ www.mobile.yandex.ru (score: 85, count: 19, cat: ecommerce) ⭐ELITE
+  ❌ at17.fastlanehosting.ru (score: 55, count: 14, cat: other)
+  ❌ filterai.ru (score: 50, count: 2, cat: other)
+  ❌ nge.money-cloud.ru (score: 45, count: 2, cat: other)
+  ✅ se.pink-service.ru (score: 75, count: 10, cat: other)
+  ❌ gotraf.nodesecure.ru (score: 55, count: 6, cat: other)
+  ❌ fl14.linkey21.ru (score: 45, count: 2, cat: other)
+  ❌ ruswl3.linkey45.ru (score: 50, count: 4, cat: other)
+  ❌ de16.fastlanehosting.ru (score: 55, count: 15, cat: other)
+  ❌ braskivo.ru (score: 60, count: 16, cat: other)
+  ✅ rbc.ru (score: 100, count: 49, cat: tech) ⭐ELITE
+  ❌ kz.money-cloud.ru (score: 45, count: 1, cat: other)
+  ✅ vt-1.ozone.ru (score: 80, count: 16, cat: ecommerce)
+  ✅ qna.habr.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ tact-sm.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ finland.sbrf-cdn342.ru (score: 45, count: 2, cat: other)
+  ✅ safemobile.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ hels.node.specnet.ru (score: 45, count: 2, cat: other)
+  ❌ che.pink-service.ru (score: 45, count: 2, cat: other)
+  ✅ id.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ vashsender.ru (score: 80, count: 22, cat: other)
+  ❌ passport-test.dzen.ru (score: 75, count: 1, cat: social) ⭐ELITE
+  ✅ fofi.ru (score: 70, count: 2, cat: other)
+  ❌ www.io.ozone.ru (score: 60, count: 42, cat: )
+  ✅ krakenlabs.ru (score: 80, count: 19, cat: other)
+  ✅ d-assets.2gis.ru (score: 100, count: 8, cat: tech) ⭐ELITE
+  ✅ ir-2.ozone.ru (score: 80, count: 55, cat: ecommerce)
+  ✅ hrc.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ account.habr.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ passport.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ suggest.dzen.ru (score: 95, count: 1, cat: social) ⭐ELITE
+  ❌ italy.pocomacho.ru (score: 45, count: 2, cat: other)
+  ❌ de.pink-service.ru (score: 45, count: 2, cat: other)
+  ✅ kinopoisk.ru (score: 100, count: 66, cat: social) ⭐ELITE
+  ❌ tcb-learning.tbank.ru (score: 75, count: 1, cat: )
+  ❌ ruw.starjisec.ru (score: 45, count: 2, cat: other)
+  ❌ fast-brooklyn.ru (score: 60, count: 16, cat: other)
+  ✅ www.kinopoisk.ru (score: 100, count: 97, cat: social) ⭐ELITE
+  ✅ anticheat.kittystars.ru (score: 65, count: 2, cat: other)
+  ✅ help.max.ru (score: 75, count: 28, cat: other)
+  ✅ pol.pink-service.ru (score: 75, count: 6, cat: other)
+  ❌ event.yandex.ru (score: 85, count: 133, cat: ecommerce) ⭐ELITE
+  ❌ lv.pink-service.ru (score: 45, count: 2, cat: other)
+  ✅ 5post-gate.x5.ru (score: 80, count: 100, cat: ecommerce)
+  ✅ docker.registry.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ ya.ru (score: 100, count: 240, cat: other) ⭐ELITE
+  ❌ talk.tbank.ru (score: 75, count: 1, cat: )
+  ✅ time-ops.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ www.jobinvest.ru (score: 55, count: 110, cat: other)
+  ❌ finland.money-cloud.ru (score: 45, count: 2, cat: other)
+  ✅ read.emails.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ squad-2-pl.vps-m.ru (score: 55, count: 6, cat: other)
+  ✅ rusonyx.ru (score: 80, count: 6, cat: other)
+  ✅ habr.ru (score: 100, count: 1, cat: tech) ⭐ELITE
+  ✅ superhabr.ru (score: 75, count: 1, cat: tech)
+  ✅ rutube.ru (score: 100, count: 372, cat: social) ⭐ELITE
+  ✅ dc-electro.ru (score: 70, count: 1, cat: other)
+  ❌ pol2.linkey37.ru (score: 45, count: 2, cat: other)
+  ✅ www.j.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ cobrowsing-cdn-test.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ craftmymine.ru (score: 55, count: 4, cat: other)
+  ❌ ni.yurichdelaet.ru (score: 45, count: 2, cat: other)
+  ❌ s5.psnreality.ru (score: 45, count: 1, cat: other)
+  ✅ www.sberbank.ru (score: 95, count: 2, cat: banks) ⭐ELITE
+  ✅ 2gis.ru (score: 100, count: 1, cat: tech) ⭐ELITE
+  ✅ shop.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ zen.zeta.dzen.ru (score: 75, count: 1, cat: )
+  ❌ www-f1.tbank.ru (score: 75, count: 1, cat: )
+  ✅ dzen.ru (score: 100, count: 1, cat: social) ⭐ELITE
+  ❌ tr-general.vps-m.ru (score: 50, count: 4, cat: other)
+  ❌ canary-time.tbank.ru (score: 75, count: 1, cat: )
+  ✅ arleonsk.ru (score: 70, count: 1, cat: other)
+  ✅ x5club.ru (score: 70, count: 2, cat: other)
+  ✅ registry.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ selfms.nodesecure.ru (score: 45, count: 2, cat: other)
+  ❌ www.ads.x5.ru (score: 60, count: 28, cat: )
+  ❌ ya10.shukafish.ru (score: 45, count: 2, cat: other)
+  ❌ www.hrc.tbank.ru (score: 75, count: 1, cat: )
+  ✅ ffdd2d.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ ru-m-usa1.linkey36.ru (score: 50, count: 4, cat: other)
+  ❌ finl5.linkey40.ru (score: 55, count: 5, cat: other)
+  ✅ twork-learn.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ pay.enginecraft.ru (score: 45, count: 1, cat: other)
+  ❌ squad-2-de.vps-m.ru (score: 45, count: 2, cat: other)
+  ❌ nne.money-cloud.ru (score: 45, count: 1, cat: other)
+  ❌ ch2.fastlanehosting.ru (score: 55, count: 16, cat: other)
+  ✅ j.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ tbank.ru (score: 100, count: 1, cat: banks) ⭐ELITE
+  ❌ ge2.money-cloud.ru (score: 45, count: 1, cat: other)
+  ✅ contract.gosuslugi.ru (score: 100, count: 30, cat: government) ⭐ELITE
+  ✅ dns-shop.ru (score: 80, count: 4, cat: ecommerce)
+  ❌ leto.adrtun.ru (score: 55, count: 9, cat: other)
+  ✅ twork.edu.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ planetanix.ru (score: 70, count: 2, cat: other)
+  ✅ tmsg-p2p.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ belkacar.ru (score: 80, count: 8, cat: other)
+  ✅ us.pink-service.ru (score: 65, count: 2, cat: other)
+  ✅ time.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ twork.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ window-one.sbrf-cdn342.ru (score: 55, count: 20, cat: other)
+  ❌ gl.blackapple46.ru (score: 45, count: 1, cat: other)
+  ❌ oth.ilovemax.ru (score: 45, count: 2, cat: other)
+  ❌ zen.crowdzeta.dzen.ru (score: 75, count: 1, cat: )
+  ❌ de.itkrsk.ru (score: 50, count: 3, cat: other)
+  ✅ fin2.pink-service.ru (score: 75, count: 22, cat: other)
+  ✅ disk.yandex.ru (score: 100, count: 41, cat: ecommerce) ⭐ELITE
+  ❌ gate-1.soykavps.ru (score: 45, count: 1, cat: other)
+  ✅ taxi.yandex.ru (score: 100, count: 1042, cat: ecommerce) ⭐ELITE
+  ✅ aliexpress.ru (score: 80, count: 4, cat: ecommerce)
+  ❌ learning.tbank.ru (score: 75, count: 1, cat: )
+  ❌ de15.fastlanehosting.ru (score: 55, count: 8, cat: other)
+  ❌ nl.nodes.rocketnetwork.ru (score: 45, count: 1, cat: other)
+  ❌ yt.money-cloud.ru (score: 45, count: 1, cat: other)
+  ✅ eh.vk.ru (score: 100, count: 346, cat: other) ⭐ELITE
+  ❌ pol1.linkey37.ru (score: 45, count: 2, cat: other)
+  ✅ yabro-wbplugin.edadeal.yandex.ru (score: 100, count: 20, cat: ecommerce) ⭐ELITE
+  ❌ tun.si.dzen.ru (score: 75, count: 1, cat: )
+  ❌ sweden.sbrf-cdn342.ru (score: 45, count: 2, cat: other)
+  ✅ flux-or.ru (score: 80, count: 10, cat: other)
+  ✅ producty24conf.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ lasercut.ru (score: 70, count: 2, cat: other)
+  ❌ ya.volgogradskie.ru (score: 55, count: 17, cat: other)
+  ✅ www.wildberries.ru (score: 100, count: 10, cat: ecommerce) ⭐ELITE
+  ✅ otus.ru (score: 75, count: 4, cat: other)
+  ❌ all.money-cloud.ru (score: 55, count: 10, cat: other)
+  ❌ news.ufa-help.ru (score: 55, count: 38, cat: other)
+  ❌ g.ilovemax.ru (score: 45, count: 2, cat: other)
+  ✅ goya.rutube.ru (score: 100, count: 37, cat: social) ⭐ELITE
+  ✅ alfabank.ru (score: 100, count: 34, cat: banks) ⭐ELITE
+  ❌ fb.blackapple46.ru (score: 45, count: 1, cat: other)
+  ❌ dzunneler.dzen.ru (score: 75, count: 1, cat: )
+  ✅ s6.auto.drom.ru (score: 80, count: 12, cat: tech)
+  ✅ speedtest.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ tr7.linkey13.ru (score: 45, count: 2, cat: other)
+  ❌ la-general.vps-m.ru (score: 55, count: 10, cat: other)
+  ✅ career.habr.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ suggest.sso.dzen.ru (score: 95, count: 1, cat: social) ⭐ELITE
+  ✅ www.journal.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ grinoree.ru (score: 50, count: 1, cat: other)
+  ✅ www.ok.ru (score: 95, count: 2, cat: social) ⭐ELITE
+  ❌ learning-admin.tbank.ru (score: 75, count: 1, cat: )
+  ✅ social.secrets.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ www.x5.ru (score: 80, count: 17, cat: ecommerce)
+  ❌ ru-usa2.linkey39.ru (score: 55, count: 5, cat: other)
+  ❌ route.mcqueenconnection.ru (score: 55, count: 5, cat: other)
+  ✅ web.max.ru (score: 75, count: 616, cat: other)
+  ❌ blackapple46.ru (score: 50, count: 1, cat: other)
+  ✅ io.ozone.ru (score: 80, count: 226, cat: ecommerce)
+  ✅ avito.ru (score: 100, count: 4, cat: ecommerce) ⭐ELITE
+  ❌ wa.sfasti.ru (score: 55, count: 119, cat: )
+  ✅ enterprise.api-maps.yandex.ru (score: 100, count: 36, cat: ecommerce) ⭐ELITE
+  ✅ www.habr.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ nl18.fastlanehosting.ru (score: 55, count: 34, cat: other)
+  ✅ any.yandex.ru (score: 95, count: 2, cat: ecommerce) ⭐ELITE
+  ✅ rum.dzen.ru (score: 95, count: 1, cat: social) ⭐ELITE
+  ✅ link.emails.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ pol.adrtun.ru (score: 45, count: 2, cat: other)
+  ✅ bridge.time.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ window-two.sbrf-cdn342.ru (score: 55, count: 14, cat: other)
+  ❌ de18.fastlanehosting.ru (score: 55, count: 9, cat: other)
+  ❌ ilovemax.ru (score: 50, count: 2, cat: other)
+  ✅ drive.yandex.ru (score: 100, count: 6, cat: ecommerce) ⭐ELITE
+  ✅ ir.ozone.ru (score: 80, count: 174, cat: ecommerce)
+  ✅ dns.yandex.ru (score: 95, count: 2, cat: ecommerce) ⭐ELITE
+  ✅ travel.yandex.ru (score: 100, count: 98, cat: ecommerce) ⭐ELITE
+  ❌ de17.fastlanehosting.ru (score: 55, count: 6, cat: other)
+  ❌ kz-general.vps-m.ru (score: 55, count: 8, cat: other)
+  ❌ nl7.fastlanehosting.ru (score: 45, count: 1, cat: other)
+  ✅ twork-fks.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ www.rutube.ru (score: 100, count: 34, cat: social) ⭐ELITE
+  ❌ ozone.ru (score: 65, count: 23, cat: ecommerce)
+  ✅ opensource.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ emails.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ par.node.specnet.ru (score: 45, count: 2, cat: other)
+  ✅ passport.dzen.ru (score: 95, count: 1, cat: social) ⭐ELITE
+  ✅ aliusfilms.ru (score: 80, count: 11, cat: other)
+  ✅ gitlab.education.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ carreta.ru (score: 70, count: 2, cat: other)
+  ✅ nld3.pink-service.ru (score: 75, count: 10, cat: other)
+  ✅ yandex.ru (score: 100, count: 8806, cat: ecommerce) ⭐ELITE
+  ✅ vk.ru (score: 100, count: 10, cat: other) ⭐ELITE
+  ✅ le.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ beeline.ru (score: 90, count: 24, cat: mobile) ⭐ELITE
+  ❌ fr.sbrf-cdn342.ru (score: 50, count: 4, cat: other)
+  ✅ reg.ru (score: 70, count: 2, cat: other)
+  ✅ freelance.habr.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ salute.sber.ru (score: 65, count: 2, cat: other)
+  ❌ nl20.linkey26.ru (score: 50, count: 4, cat: other)
+  ❌ est.pink-service.ru (score: 50, count: 4, cat: other)
+  ❌ chat.speedload.ru (score: 55, count: 41, cat: other)
+  ✅ invest-media.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ ozon.ru (score: 90, count: 1403, cat: ecommerce) ⭐ELITE
+  ✅ www.yandex.ru (score: 100, count: 20, cat: ecommerce) ⭐ELITE
+  ❌ vat.enginecraft.ru (score: 45, count: 2, cat: other)
+  ✅ www.unicreditbank.ru (score: 80, count: 11, cat: banks)
+  ✅ tvdesign.ru (score: 80, count: 25, cat: other)
+  ❌ www.ozon.ru (score: 85, count: 12, cat: ecommerce) ⭐ELITE
+  ❌ gosuslugi.ru (score: 90, count: 10, cat: government) ⭐ELITE
+  ❌ gr.nodesecure.ru (score: 55, count: 12, cat: other)
+  ❌ www.vkvideo.ru (score: 55, count: 28, cat: other)
+  ❌ vkvideo.ru (score: 60, count: 84, cat: other)
+  ❌ ru5.fastlanehosting.ru (score: 55, count: 11, cat: other)
+  ❌ ger33.linkey19.ru (score: 55, count: 5, cat: other)
+  ✅ x5.ru (score: 80, count: 4, cat: ecommerce)
+  ❌ expand-6.sbrf-cdn342.ru (score: 50, count: 3, cat: other)
+  ❌ finedog-mobile.tbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+⭐ Saved ELITE SNI: results/elite_sni.txt (106 SNIs, score >= 70)
+📊 SNI SCAN STATISTICS:
+   📥 Total SNI processed: 218
+   🚫 Blacklisted:         10617
+   🗑️  Suspicious (filtered): 31117
+   ❌ DNS failed:          18
+   ❌ TCP failed:          17
+   ❌ TLS failed:          69
+   ❌ HTTP failed:         5
+   ✅ Alive:               109
+   ⭐ Elite found:         72
+   ⭐ elite_sni.txt    - Best SNI (score >= 70)
