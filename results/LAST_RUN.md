@@ -9881,3 +9881,658 @@
    ✅ Alive:               161
    ⭐ Elite found:         119
    ⭐ elite_sni.txt    - Best SNI (score >= 70)
+## 🦫 SNI Hunt Report - 2026-03-12 05:16
+
+### Results
+- ⭐ Elite SNI: 120
+- 💎 Premium SNI: 124
+- 📄 Target SNI: 124
+
+### Stats
+   ✅ Found 389 subdomains
+   ✅ Found 0 subdomains
+   ✅ Found 44 subdomains
+   ✅ Found 42 subdomains
+   ✅ Found 4 subdomains
+  ❌ nlb-nt-opros-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ wifi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ise-node07.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cab-psp-snac007.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ enterpriseregistration.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cab-psp-isep001.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ access.emm.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.hrc.tbank.ru (score: 75, count: 1, cat: )
+  ❌ privet-qa.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ csctest.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cab-psp-isep013.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ email1.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ exchangeost.corp.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ nl.nodes.rocketnetwork.ru (score: 45, count: 1, cat: other)
+  ❌ cc06.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ sberrrr911.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ emp-office.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ autodiscover.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ filter.ilovemax.ru (score: 45, count: 2, cat: other)
+  ❌ leaked.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ cab-psp-snac005.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ public.psi.oprosso.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ guardian.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ exchange.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ ob1.nettrust.ru (score: 45, count: 2, cat: other)
+  ❌ russia.node.specnet.ru (score: 45, count: 2, cat: other)
+  ❌ sberbank-com.os-prom.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ gosuslugi.ru (score: 90, count: 10, cat: government) ⭐ELITE
+  ❌ route.mcqueenconnection.ru (score: 55, count: 5, cat: other)
+  ❌ lync.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ pol1.linkey37.ru (score: 45, count: 2, cat: other)
+  ❌ event.yandex.ru (score: 85, count: 93, cat: ecommerce) ⭐ELITE
+  ❌ requestfilter.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ senat.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ psi-spkk-static.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cab-psp-snac003.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ test-psi-office-emp.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ docker.registry.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ cab-psp-snac002.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ autodiscover.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ dev-opros-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ www.j.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ cab-psp-isep009.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ sberdisk.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ sbm.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ est.pink-service.ru (score: 45, count: 2, cat: other)
+  ✅ sber911.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ sberbank-com.os-psi.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ registry.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ rmso.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ psi-id-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www-f1.tbank.ru (score: 75, count: 1, cat: )
+  ❌ direct.sbbolmobile.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ aliexpress.ru (score: 80, count: 4, cat: ecommerce)
+  ❌ sberkids.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ privet-uat.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ finance.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ alfabank.ru (score: 100, count: 77, cat: banks) ⭐ELITE
+  ❌ www.sberdocs.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ smspking.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ websbol.ant.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ sberbank.ru (score: 100, count: 1, cat: banks) ⭐ELITE
+  ❌ cab-psp-snac010.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ob3.nettrust.ru (score: 45, count: 2, cat: other)
+  ❌ post.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ chatnc.csc.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ s6.auto.drom.ru (score: 80, count: 8, cat: tech)
+  ❌ s.sberbank-ru.os-prom.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ eas.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ web.max.ru (score: 75, count: 472, cat: other)
+  ❌ 178.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ finance3.wildberries.ru (score: 75, count: 1, cat: )
+  ✅ wildberries.ru (score: 100, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ france2.foxyrobot.ru (score: 65, count: 2, cat: other)
+  ❌ poland.money-cloud.ru (score: 45, count: 2, cat: other)
+  ❌ www.sberbank1-ru.os-prom.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.greenmarathon.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ finance2.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ kz.money-cloud.ru (score: 45, count: 1, cat: other)
+  ✅ tmsg-p2p.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ rbc.ru (score: 100, count: 159, cat: tech) ⭐ELITE
+  ❌ gl.blackapple46.ru (score: 45, count: 1, cat: other)
+  ❌ vat.enginecraft.ru (score: 45, count: 2, cat: other)
+  ✅ tvdesign.ru (score: 80, count: 24, cat: other)
+  ❌ cab-psp-isep016.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ contract.gosuslugi.ru (score: 100, count: 30, cat: government) ⭐ELITE
+  ❌ seodoarm.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ s5.psnreality.ru (score: 45, count: 1, cat: other)
+  ❌ www.sberbank-com.os-prom.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ oprosso.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ jazz.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ web-si1-psi-pbmob.testonline.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ www.perekrestok.ru (score: 70, count: 2, cat: social)
+  ✅ 5post-gate.x5.ru (score: 80, count: 85, cat: ecommerce)
+  ✅ ru.foxyrobot.ru (score: 65, count: 2, cat: other)
+  ❌ id.sberbank-ru.os-prom.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ exchangecas.corp.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ geo-t.geoapi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ sec.api.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ hack-app.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ de16.fastlanehosting.ru (score: 55, count: 11, cat: other)
+  ✅ rutube.ru (score: 100, count: 156, cat: social) ⭐ELITE
+  ❌ cab-psp-isep003.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ www.x5.ru (score: 80, count: 13, cat: ecommerce)
+  ✅ ir-2.ozone.ru (score: 80, count: 55, cat: ecommerce)
+  ❌ cab-psp-isep007.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ tbank.ru (score: 100, count: 1, cat: banks) ⭐ELITE
+  ✅ goya.rutube.ru (score: 100, count: 35, cat: social) ⭐ELITE
+  ✅ alfa.ru (score: 75, count: 1, cat: banks)
+  ❌ yt.money-cloud.ru (score: 45, count: 1, cat: other)
+  ❌ psi-sberbank-com.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ 3dsec.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ se.pink-service.ru (score: 75, count: 6, cat: other)
+  ✅ bfds.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ sber911-test.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ carreta.ru (score: 70, count: 2, cat: other)
+  ❌ app07.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ sbc.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ fin2.pink-service.ru (score: 75, count: 12, cat: other)
+  ❌ cc07.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ vmeste-tours.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ web-n1-psi-pbmob.testonline.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ hr-qa.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ya.volgogradskie.ru (score: 55, count: 17, cat: other)
+  ❌ legacy.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ www.kinopoisk.ru (score: 100, count: 108, cat: social) ⭐ELITE
+  ❌ ift-opros-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ journal.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ www.rutube.ru (score: 100, count: 34, cat: social) ⭐ELITE
+  ✅ passport.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.leaked.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ twork-fks.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ vmeste-hotels.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ pay.enginecraft.ru (score: 45, count: 1, cat: other)
+  ❌ cab-vsp-isep102.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ger39.linkey38.ru (score: 45, count: 1, cat: other)
+  ❌ cc-host02.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ osago.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ csradar.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ bonus--sberbank.ru (score: 55, count: 1, cat: )
+  ❌ kz.sbrf-cdn342.ru (score: 45, count: 2, cat: other)
+  ❌ sbibz.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cc02.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cc03.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ email15.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ planetanix.ru (score: 70, count: 2, cat: other)
+  ❌ otkrytka.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ cab-psp-snac004.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ dialog-site.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ www.yandex.ru (score: 100, count: 20, cat: ecommerce) ⭐ELITE
+  ❌ testsbi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ friendchatbotpro.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ nlb-ig-lb5-test.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ auth-si20.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ push-t.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ korzun-test.tbank.ru (score: 75, count: 1, cat: )
+  ❌ cab-psp-isep010.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ exchangeost01.corp.wildberries.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ la-general.vps-m.ru (score: 55, count: 10, cat: other)
+  ❌ 1c-relay.wildberries.ru (score: 75, count: 1, cat: )
+  ✅ 2gis.ru (score: 100, count: 1, cat: tech) ⭐ELITE
+  ❌ ufscs.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ esr.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ hrc.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ expe-s-lab.voiplab-ext.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ yandex.ru (score: 100, count: 9054, cat: ecommerce) ⭐ELITE
+  ❌ email11.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ sbermail.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cab-psp-snac009.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ 1csbt.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ pki.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ user.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ insfpsi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ logos.myoffice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ cab-vsp-isem101.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ rc.senat.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ owapp.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ pmcloud.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ psi-www-sberbank-com.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cchufs.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ beeline.ru (score: 90, count: 23, cat: mobile) ⭐ELITE
+  ❌ pwa.hr.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ hf-opros-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ join.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ sberchat.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ trading.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ ru-br-2.sbrf-cdn342.ru (score: 45, count: 2, cat: other)
+  ❌ sberbank-ru.os-psi.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ yabro-wbplugin.edadeal.yandex.ru (score: 100, count: 24, cat: ecommerce) ⭐ELITE
+  ❌ ob4.nettrust.ru (score: 45, count: 2, cat: other)
+  ❌ www.sberbank-ru.os-psi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ise-node08.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ pulse-uat.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ twork-learn.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ wais.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ ya.ru (score: 100, count: 230, cat: other) ⭐ELITE
+  ✅ twork.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ jeka.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ web-si20.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ ge2.money-cloud.ru (score: 45, count: 1, cat: other)
+  ❌ bf.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ oth.ilovemax.ru (score: 50, count: 4, cat: other)
+  ❌ push.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.cl.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ruw.starjisec.ru (score: 45, count: 2, cat: other)
+  ❌ ok.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ j.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ cert.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ iftmpclickstream.testonline.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ psi-opros-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ sbc01.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ bfd-b.wildberries.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ social.secrets.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ cab-psp-isep008.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ expe.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ secrets.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ enterprise.api-maps.yandex.ru (score: 100, count: 48, cat: ecommerce) ⭐ELITE
+  ❌ hr-dev.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ firedept.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ email14.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ bnpl-gateway-stage.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ ddp-stg.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ ru-usa2.linkey39.ru (score: 50, count: 3, cat: other)
+  ✅ le.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ otp.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ team.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ ru-m-usa1.linkey36.ru (score: 50, count: 3, cat: other)
+  ❌ efspsi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ift.sberdisk.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ilovemax.ru (score: 60, count: 6, cat: other)
+  ❌ first.keen.sbrf-cdn342.ru (score: 45, count: 2, cat: other)
+  ❌ gitlab-internal.wildberries.ru (score: 75, count: 1, cat: )
+  ✅ d-assets.2gis.ru (score: 100, count: 8, cat: tech) ⭐ELITE
+  ❌ securepayments.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ webquik-test.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ notify.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ window-one.sbrf-cdn342.ru (score: 55, count: 20, cat: other)
+  ❌ check.easycert.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ qa.geoapi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ cc05.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ tech-gitlab.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ redmine.wildberries.ru (score: 75, count: 1, cat: )
+  ✅ www.wildberries.ru (score: 100, count: 10, cat: ecommerce) ⭐ELITE
+  ✅ id.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ sbbauto.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ sbmpsi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ pulse.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cab-psp-snac011.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ pking.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ psi-s-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ svoy--alfa.ru (score: 75, count: 1, cat: banks)
+  ❌ squad-2-de.vps-m.ru (score: 50, count: 4, cat: other)
+  ✅ hr.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ upos.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ shop.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ pol.pink-service.ru (score: 70, count: 4, cat: other)
+  ❌ web-collaboration.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ sbi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ sberopros.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ info.otp.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ visatokenservice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ collab-edge.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ozone.ru (score: 65, count: 23, cat: ecommerce)
+  ✅ bnpl-gateway.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ de.itkrsk.ru (score: 50, count: 4, cat: other)
+  ❌ www.securepayments.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ pulse-qa.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ nge.money-cloud.ru (score: 45, count: 2, cat: other)
+  ❌ chat.speedload.ru (score: 55, count: 37, cat: other)
+  ❌ email3.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ kinopoisk.ru (score: 100, count: 60, cat: social) ⭐ELITE
+  ❌ ol.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ csc.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ craftmymine.ru (score: 55, count: 4, cat: other)
+  ❌ p.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ www.callerid.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ selfms.nodesecure.ru (score: 45, count: 2, cat: other)
+  ❌ www.bfd.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ rbs2sprm.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ cab-psp-isep004.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ producty24conf.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ shareholder.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ privet-draft.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ data.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ hr-draft.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ufscs.psi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ bfm.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ de15.fastlanehosting.ru (score: 55, count: 8, cat: other)
+  ❌ conference-center.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ yandexcdn2.yandexdns.ru (score: 55, count: 4, cat: )
+  ❌ pulse-ift.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ lyncdiscover.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ learning.tbank.ru (score: 75, count: 1, cat: )
+  ✅ www.unicreditbank.ru (score: 80, count: 11, cat: banks)
+  ❌ sberbank1-ru.os-prom.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ app05.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ news.ufa-help.ru (score: 55, count: 41, cat: other)
+  ❌ guest-wifi-dev.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cbro-t.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cab-vsp-isep101.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ avito.ru (score: 100, count: 4, cat: ecommerce) ⭐ELITE
+  ❌ www.vkvideo.ru (score: 55, count: 26, cat: other)
+  ❌ korussbof.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ senkogermany.foxyrobot.ru (score: 65, count: 2, cat: other)
+  ✅ ir.ozone.ru (score: 80, count: 234, cat: ecommerce)
+  ✅ wbpay-analytic.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ eh.vk.ru (score: 100, count: 329, cat: other) ⭐ELITE
+  ❌ cab-psp-isep002.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ help.max.ru (score: 75, count: 28, cat: other)
+  ❌ wifi-ise.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ kz-general.vps-m.ru (score: 55, count: 6, cat: other)
+  ❌ test-ift-office-emp.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ finland2.foxyrobot.ru (score: 50, count: 4, cat: other)
+  ✅ anticheat.kittystars.ru (score: 65, count: 2, cat: other)
+  ❌ spkk-static.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ fatca.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ bank.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ web-n2-psi-pbmob.testonline.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.io.ozone.ru (score: 60, count: 45, cat: )
+  ❌ exchange01.corp.wildberries.ru (score: 75, count: 1, cat: )
+  ✅ dc-electro.ru (score: 70, count: 2, cat: other)
+  ✅ invest-media.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ tms.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ cbro.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ pol.adrtun.ru (score: 45, count: 2, cat: other)
+  ❌ job.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ email12.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ backend.jazz.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ shop.alfa.ru (score: 70, count: 1, cat: banks)
+  ❌ fast-brooklyn.ru (score: 60, count: 17, cat: other)
+  ❌ vcs-exp-e01.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ app04.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ lyncweb.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ g.ilovemax.ru (score: 45, count: 2, cat: other)
+  ❌ shark14.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ rusonyx.ru (score: 75, count: 4, cat: other)
+  ❌ ni.yurichdelaet.ru (score: 45, count: 2, cat: other)
+  ❌ sberbank-ru.os-prom.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ dns-shop.ru (score: 80, count: 4, cat: ecommerce)
+  ❌ office.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ hf-id-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ gotraf.nodesecure.ru (score: 55, count: 6, cat: other)
+  ❌ corp.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ psi-spkk-static.testonline.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ vk.ru (score: 100, count: 12, cat: other) ⭐ELITE
+  ✅ dns.yandex.ru (score: 95, count: 2, cat: ecommerce) ⭐ELITE
+  ❌ www.sberbank-com.os-psi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ idm.emm.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ callerid.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ learning-admin.tbank.ru (score: 75, count: 1, cat: )
+  ❌ www.2000--sberbank.ru (score: 50, count: 1, cat: )
+  ❌ pol2.linkey37.ru (score: 45, count: 2, cat: other)
+  ❌ braskivo.ru (score: 60, count: 16, cat: other)
+  ✅ ffdd2d.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ reg.greenmarathon.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ s.sberbank-ru.os-psi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ speedtest.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ dialin.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ chatbot.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ x5club.ru (score: 70, count: 2, cat: other)
+  ✅ taxi.yandex.ru (score: 100, count: 1073, cat: ecommerce) ⭐ELITE
+  ❌ shark13.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ shark12.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ sbervideo.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ nosoc.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sokol.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ public.oprosso.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ cab-psp-isep015.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ rm.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ wa.sfasti.ru (score: 55, count: 118, cat: )
+  ❌ psi.ufs-superapp.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ lasercut.ru (score: 70, count: 2, cat: other)
+  ❌ cl.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ turn.jazz.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ read.emails.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ opros--sberbank.ru (score: 55, count: 1, cat: )
+  ❌ shark11.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ squad-2-pl.vps-m.ru (score: 50, count: 4, cat: other)
+  ❌ inst.faceppm.ru (score: 45, count: 1, cat: other)
+  ❌ gitlab.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ clickstream.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ 1edcbb01-l.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ psi-www-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ finl5.linkey40.ru (score: 50, count: 4, cat: other)
+  ❌ ddp-t.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ travel.yandex.ru (score: 100, count: 96, cat: ecommerce) ⭐ELITE
+  ❌ all.money-cloud.ru (score: 55, count: 6, cat: other)
+  ❌ open.api.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ pulse-dev.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ devicestest.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ smartway.geoapi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ub-events.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ io.ozone.ru (score: 80, count: 208, cat: ecommerce)
+  ❌ sbmift.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ es.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ spost.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ email16.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ visatokenservice-psi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ superapp.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ efs.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ opensource.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ finline.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ outlook.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cab-psp-snac006.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ grinoree.ru (score: 50, count: 1, cat: other)
+  ❌ kurs-mobile.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ www.2019--sberbank.ru (score: 50, count: 1, cat: )
+  ❌ testonline.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ time.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ rbs2esprm.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ psi.es.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ vcs.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ www.sberbank.ru (score: 80, count: 3, cat: banks) ⭐ELITE
+  ❌ italy.pocomacho.ru (score: 45, count: 2, cat: other)
+  ❌ cbro-t.testonline.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ opros.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ exchange.corp.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ psi-sberbank1-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ www.journal.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ psi-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ psi-www-sberbank1-ru.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ test-chatbot.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ hr-ift.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ privet-ift.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ expand-6.sbrf-cdn342.ru (score: 50, count: 4, cat: other)
+  ❌ sberkids-t.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ bridge.time.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ collab-edge.voiplab-ext.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cab-psp-snac012.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ autoconfig.myoffice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ partneronline.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ cc-host01.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ lk-online.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ visor.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ psi.sberdisk.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.reg.greenmarathon.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ cobrowsing-cdn-test.tbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ finance4.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ kurs-mobile-psi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ belkacar.ru (score: 80, count: 8, cat: other)
+  ✅ tact-sm.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ fs.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ twork.edu.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ www.sberbank1-ru.os-psi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ od-ift.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ nne.money-cloud.ru (score: 45, count: 1, cat: other)
+  ❌ ru.sfasti.ru (score: 55, count: 105, cat: )
+  ❌ www.public.oprosso.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.osago.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ n2-psi-pbmob.testonline.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cab-vsp-isea102.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ finland.money-cloud.ru (score: 45, count: 2, cat: other)
+  ❌ vashsender.ru (score: 60, count: 17, cat: other)
+  ✅ global.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ check.hr.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ pnr.stdu.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ research.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ assistant.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ exch-mbx-05.cf.wildberries.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ rms.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ dialog.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ psi.oprosso.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ sber247.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ email10.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ netbox.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ rbs2esprmpsi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ kizen.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ link.emails.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ login-wifi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ finance5.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ nlb-ig-lb1-ift.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ drive.yandex.ru (score: 100, count: 6, cat: ecommerce) ⭐ELITE
+  ❌ gate-1.soykavps.ru (score: 45, count: 1, cat: other)
+  ❌ docs.myoffice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ sbermenu.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ newbie.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ sberbank1-ru.os-psi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ onlineoffice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ www.sberbank-ru.os-prom.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ check.hr-test.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cc01.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ talk.tbank.ru (score: 75, count: 1, cat: )
+  ❌ sbbolmobile.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ leto.adrtun.ru (score: 55, count: 13, cat: other)
+  ❌ www.websbol.ant.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ tcb-learning.tbank.ru (score: 75, count: 1, cat: )
+  ❌ cab-vsp-isep103.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ id.sberbank-ru.os-psi.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ x5.ru (score: 85, count: 6, cat: ecommerce)
+  ❌ wifi-portal.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ test-psi-office.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ nld3.pink-service.ru (score: 75, count: 6, cat: other)
+  ❌ at17.fastlanehosting.ru (score: 55, count: 10, cat: other)
+  ❌ cc08.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ nlb-ig-lb4.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ any.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ vt-1.ozone.ru (score: 80, count: 17, cat: ecommerce)
+  ❌ rbs2sprmpsi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ webcon.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ exportcenter.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ ecom.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ finance1.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ ddp.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ krakenlabs.ru (score: 80, count: 19, cat: other)
+  ❌ www.research.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ rbs2sprmift.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ smartoffice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ exch-mbx-04.cf.wildberries.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ id.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ si1-psi-pbmob.testonline.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ auth-portal.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ de18.fastlanehosting.ru (score: 55, count: 34, cat: other)
+  ❌ greenmarathon.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ email2.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ psi-pbmob-efs.testonline.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ channels.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ tr-general.vps-m.ru (score: 50, count: 4, cat: other)
+  ❌ guest-wifi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ psiclickstream.testonline.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ email13.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ certauth.wso.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ sberalisa.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ payments.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ exchangedtln.corp.wildberries.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ dag01.corp.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ www.jobinvest.ru (score: 55, count: 140, cat: other)
+  ❌ cab-psp-snac008.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.bonus--sberbank.ru (score: 50, count: 1, cat: )
+  ✅ disk.yandex.ru (score: 100, count: 4, cat: ecommerce) ⭐ELITE
+  ❌ test-jazz.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ pulse-draft.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ vcs-exp-e02.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ upgsbi.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ finland.sbrf-cdn342.ru (score: 45, count: 2, cat: other)
+  ❌ www.kasko.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ n1-psi-pbmob.testonline.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ cab-psp-snac001.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ sberclub.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ fb.blackapple46.ru (score: 45, count: 1, cat: other)
+  ❌ oos.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ www.opros--sberbank.ru (score: 50, count: 1, cat: )
+  ❌ requestfilterpsi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ wifi-login.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ time-ops.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ cc04.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ report-vypiska.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ app01.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ vypiska.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ safemobile.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ canary-time.tbank.ru (score: 75, count: 1, cat: )
+  ❌ encashment.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ www.max.ru (score: 75, count: 22, cat: other)
+  ❌ geo1.geoapi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ nlb-clickstream.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ cab-vsp-isea101.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ bfd.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ gitlab-private.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ info.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ s.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ aliusfilms.ru (score: 80, count: 11, cat: other)
+  ❌ blackapple46.ru (score: 50, count: 1, cat: other)
+  ❌ webquik.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ sus.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ push.myoffice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ developer.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ cc-host03.sbercontact.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ irm.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ psionline.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ dms.sberbank.ru (score: 75, count: 1, cat: )
+  ✅ arleonsk.ru (score: 70, count: 1, cat: other)
+  ❌ insf.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ sberdocs.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ sbbolmobiletest.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ esr-psi.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ uavpdevv01.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ hr-uat.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ kasko.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ ews.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ devices.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ cab-psp-isep014.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ emm.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ emails.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ target.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ nlb-finsov.sberbank.ru (score: 75, count: 1, cat: )
+  ❌ window-two.sbrf-cdn342.ru (score: 55, count: 9, cat: other)
+  ❌ dfmit.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ expe-s-n2sko.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ gr.nodesecure.ru (score: 55, count: 12, cat: other)
+  ❌ privet.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ links.myoffice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ cslab.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ finedog-mobile.tbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ www.ok.ru (score: 95, count: 2, cat: social) ⭐ELITE
+  ✅ otus.ru (score: 80, count: 6, cat: other)
+  ❌ de17.fastlanehosting.ru (score: 55, count: 17, cat: other)
+  ❌ csc-ift.csctest.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ online.sberbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ rus6.linkey41.ru (score: 55, count: 7, cat: other)
+  ❌ nl18.fastlanehosting.ru (score: 55, count: 28, cat: other)
+  ✅ reg.ru (score: 70, count: 2, cat: other)
+  ❌ cab.myoffice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ insole.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ger33.linkey19.ru (score: 50, count: 3, cat: other)
+  ✅ edu.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ direct-in.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ isu.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ taxi.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ gitlab.education.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ privet-dev.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ insfqa.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ✅ www.svoy--alfa.ru (score: 70, count: 1, cat: banks)
+  ❌ psi-new-sberbank-ru.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ expe-s-n1up.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ nl20.linkey26.ru (score: 50, count: 3, cat: other)
+  ❌ cobra.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ webdav.myoffice.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ ipcacs.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ bhv.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ ru5.fastlanehosting.ru (score: 55, count: 11, cat: other)
+  ❌ developers.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ dss.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ test-ift-office.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ finline-demo.sberbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ exch-mbx-03.cf.wildberries.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ fr.sbrf-cdn342.ru (score: 50, count: 4, cat: other)
+  ❌ ozon.ru (score: 90, count: 1376, cat: ecommerce) ⭐ELITE
+  ❌ vkvideo.ru (score: 60, count: 84, cat: other)
+  ❌ ch2.fastlanehosting.ru (score: 55, count: 12, cat: other)
+  ❌ www.ozon.ru (score: 85, count: 20, cat: ecommerce) ⭐ELITE
+⭐ Saved ELITE SNI: results/elite_sni.txt (121 SNIs, score >= 70)
+📊 SNI SCAN STATISTICS:
+   📥 Total SNI processed: 630
+   🚫 Blacklisted:         11341
+   🗑️  Suspicious (filtered): 26743
+   ❌ DNS failed:          250
+   ❌ TCP failed:          111
+   ❌ TLS failed:          136
+   ❌ HTTP failed:         8
+   ✅ Alive:               125
+   ⭐ Elite found:         85
+   ⭐ elite_sni.txt    - Best SNI (score >= 70)
