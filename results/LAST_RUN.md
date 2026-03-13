@@ -11499,3 +11499,318 @@
    ✅ Alive:               67
    ⭐ Elite found:         28
    ⭐ elite_sni.txt    - Best SNI (score >= 70)
+## 🦫 SNI Hunt Report - 2026-03-13 01:31
+
+### Results
+- ⭐ Elite SNI: 110
+- 💎 Premium SNI: 114
+- 📄 Target SNI: 114
+
+### Stats
+   ✅ Found 0 subdomains
+   ✅ Found 75 subdomains
+   ✅ Found 44 subdomains
+   ✅ Found 42 subdomains
+   ✅ Found 4 subdomains
+  ❌ www.bank.ozon.ru (score: 75, count: 1, cat: )
+  ❌ exchange.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ gitlab-private.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ finance3.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ redmine.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ ruw.starjisec.ru (score: 45, count: 2, cat: other)
+  ❌ ozonsccmcmg.ozon.ru (score: 75, count: 1, cat: )
+  ❌ www-f1.tbank.ru (score: 75, count: 1, cat: )
+  ❌ university.ozon.ru (score: 75, count: 1, cat: )
+  ❌ jeka.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ dag01.corp.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ squad-2-de.vps-m.ru (score: 50, count: 4, cat: other)
+  ❌ user-account.ozon.ru (score: 75, count: 1, cat: )
+  ❌ cs.ozon.ru (score: 75, count: 1, cat: )
+  ❌ learning.university.ozon.ru (score: 75, count: 1, cat: )
+  ❌ squad-2-pl.vps-m.ru (score: 45, count: 2, cat: other)
+  ❌ hkqrpk.ozon.ru (score: 75, count: 1, cat: )
+  ❌ la-general.vps-m.ru (score: 55, count: 10, cat: other)
+  ❌ nge.money-cloud.ru (score: 45, count: 2, cat: other)
+  ❌ finance5.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ learning.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ gr.nodesecure.ru (score: 55, count: 10, cat: other)
+  ❌ poland.money-cloud.ru (score: 45, count: 2, cat: other)
+  ✅ www.j.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ kz-general.vps-m.ru (score: 55, count: 6, cat: other)
+  ✅ dns-shop.ru (score: 80, count: 4, cat: ecommerce)
+  ❌ gotraf.nodesecure.ru (score: 55, count: 6, cat: other)
+  ✅ fin2.pink-service.ru (score: 75, count: 12, cat: other)
+  ❌ 1c-relay.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ smtpz1s4.ozon.ru (score: 75, count: 1, cat: )
+  ❌ est.pink-service.ru (score: 45, count: 2, cat: other)
+  ❌ gitlab.wildberries.ru (score: 75, count: 1, cat: )
+  ✅ enterprise.api-maps.yandex.ru (score: 100, count: 29, cat: ecommerce) ⭐ELITE
+  ❌ 3ds-v2-challenge.ecom-bank.ozon.ru (score: 75, count: 1, cat: )
+  ❌ canary-time.tbank.ru (score: 75, count: 1, cat: )
+  ✅ time.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ time-ops.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ testlegaci.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ corp.wildberries.ru (score: 75, count: 1, cat: )
+  ✅ passport.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ finance.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ insole.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ d-assets.2gis.ru (score: 100, count: 7, cat: tech) ⭐ELITE
+  ✅ s6.auto.drom.ru (score: 75, count: 4, cat: tech)
+  ✅ france2.foxyrobot.ru (score: 65, count: 2, cat: other)
+  ❌ pay.enginecraft.ru (score: 45, count: 1, cat: other)
+  ✅ eh.vk.ru (score: 100, count: 332, cat: other) ⭐ELITE
+  ✅ edu.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ sellerstage.university.ozon.ru (score: 75, count: 1, cat: )
+  ❌ exchangecas.corp.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ de18.fastlanehosting.ru (score: 55, count: 39, cat: other)
+  ✅ drive.yandex.ru (score: 100, count: 4, cat: ecommerce) ⭐ELITE
+  ✅ docker.registry.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ x5club.ru (score: 70, count: 2, cat: other)
+  ✅ disk.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.ok.ru (score: 95, count: 1, cat: social) ⭐ELITE
+  ✅ tmsg-p2p.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ profit.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ rusonyx.ru (score: 75, count: 4, cat: other)
+  ❌ ob3.nettrust.ru (score: 45, count: 2, cat: other)
+  ✅ social.secrets.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ twork-fks.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ ru.foxyrobot.ru (score: 65, count: 2, cat: other)
+  ❌ www.trustline.ozon.ru (score: 75, count: 1, cat: )
+  ✅ link.emails.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ 3ds-v2-challenge.bank.ozon.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ srv2.ezconnect.ru (score: 45, count: 2, cat: other)
+  ❌ finland2.foxyrobot.ru (score: 45, count: 2, cat: other)
+  ❌ wfm01z1.ozon.ru (score: 75, count: 1, cat: )
+  ✅ www.yandex.ru (score: 100, count: 13, cat: ecommerce) ⭐ELITE
+  ❌ rest.university.ozon.ru (score: 75, count: 1, cat: )
+  ✅ io.ozone.ru (score: 80, count: 191, cat: ecommerce)
+  ✅ www.journal.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ tr-general.vps-m.ru (score: 45, count: 2, cat: other)
+  ❌ de.itkrsk.ru (score: 50, count: 3, cat: other)
+  ✅ secrets.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ exchange01.corp.wildberries.ru (score: 75, count: 1, cat: )
+  ✅ arleonsk.ru (score: 70, count: 1, cat: other)
+  ✅ journal.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ ya.volgogradskie.ru (score: 55, count: 17, cat: other)
+  ❌ gitlab-internal.wildberries.ru (score: 75, count: 1, cat: )
+  ✅ contract.gosuslugi.ru (score: 100, count: 30, cat: government) ⭐ELITE
+  ✅ rutube.ru (score: 100, count: 217, cat: social) ⭐ELITE
+  ✅ rbc.ru (score: 100, count: 297, cat: tech) ⭐ELITE
+  ✅ 3ds-v2-auth.ecom-bank.ozon.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ru.sfasti.ru (score: 55, count: 105, cat: )
+  ❌ chat.speedload.ru (score: 55, count: 39, cat: other)
+  ✅ ya.ru (score: 100, count: 228, cat: other) ⭐ELITE
+  ✅ tact-sm.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ sgateway.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ opensource.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ guardian.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ exchangeost01.corp.wildberries.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ senkogermany.foxyrobot.ru (score: 65, count: 2, cat: other)
+  ❌ sip.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ smtp-notifications.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ notify.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ ecom-bank.ozon.ru (score: 75, count: 1, cat: )
+  ❌ gosuslugi.ru (score: 90, count: 10, cat: government) ⭐ELITE
+  ❌ finance4.wildberries.ru (score: 75, count: 1, cat: )
+  ✅ global.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ vashsender.ru (score: 60, count: 24, cat: other)
+  ❌ bnpl-gateway-stage.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ autodiscover.g.ozon.ru (score: 75, count: 1, cat: )
+  ✅ ffdd2d.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ producty24conf.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ de15.fastlanehosting.ru (score: 55, count: 6, cat: other)
+  ❌ tech-gitlab.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ exchangedtln.corp.wildberries.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ch2.fastlanehosting.ru (score: 55, count: 16, cat: other)
+  ❌ at17.fastlanehosting.ru (score: 55, count: 14, cat: other)
+  ✅ se.pink-service.ru (score: 75, count: 6, cat: other)
+  ❌ all.money-cloud.ru (score: 55, count: 6, cat: other)
+  ✅ anticheat.kittystars.ru (score: 65, count: 2, cat: other)
+  ✅ read.emails.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ shop.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ www--ozon.ru (score: 55, count: 1, cat: )
+  ✅ any.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ srv5.ezconnect.ru (score: 45, count: 1, cat: other)
+  ✅ id.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ twork-learn.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ web.max.ru (score: 75, count: 303, cat: other)
+  ❌ yandexcdn2.yandexdns.ru (score: 55, count: 4, cat: )
+  ❌ ozone.ru (score: 65, count: 19, cat: ecommerce)
+  ❌ learning-admin.tbank.ru (score: 75, count: 1, cat: )
+  ❌ inst.faceppm.ru (score: 45, count: 1, cat: other)
+  ❌ exch-mbx-05.cf.wildberries.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.secretsanta.ozon.ru (score: 75, count: 1, cat: )
+  ✅ yandex.ru (score: 100, count: 8005, cat: ecommerce) ⭐ELITE
+  ❌ window-two.sbrf-cdn342.ru (score: 55, count: 6, cat: other)
+  ❌ bnpl-gateway.wildberries.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ registry.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ otus.ru (score: 75, count: 4, cat: other)
+  ✅ aliusfilms.ru (score: 80, count: 9, cat: other)
+  ❌ selfreg.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ seller.university.ozon.ru (score: 75, count: 1, cat: )
+  ✅ www.svoy--alfa.ru (score: 70, count: 1, cat: banks)
+  ✅ dns.yandex.ru (score: 95, count: 2, cat: ecommerce) ⭐ELITE
+  ✅ le.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ id.vk.ru (score: 90, count: 2, cat: other) ⭐ELITE
+  ❌ seller.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ vmeste-tours.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ short.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ job.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ hack-app.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ bank.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.perekrestok.ru (score: 70, count: 2, cat: social)
+  ✅ bank.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ dc-electro.ru (score: 70, count: 2, cat: other)
+  ❌ event.yandex.ru (score: 85, count: 113, cat: ecommerce) ⭐ELITE
+  ❌ de16.fastlanehosting.ru (score: 55, count: 12, cat: other)
+  ✅ www.rutube.ru (score: 100, count: 34, cat: social) ⭐ELITE
+  ❌ netbox.wildberries.ru (score: 75, count: 1, cat: )
+  ✅ j.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ alfa.ru (score: 75, count: 1, cat: banks)
+  ❌ rocket.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.kinopoisk.ru (score: 100, count: 59, cat: social) ⭐ELITE
+  ❌ bfd-b.wildberries.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ kz.money-cloud.ru (score: 45, count: 1, cat: other)
+  ❌ italy.pocomacho.ru (score: 45, count: 1, cat: other)
+  ✅ goya.rutube.ru (score: 100, count: 32, cat: social) ⭐ELITE
+  ❌ voip.ozon.ru (score: 75, count: 1, cat: )
+  ✅ reg.ru (score: 70, count: 2, cat: other)
+  ✅ help.max.ru (score: 75, count: 28, cat: other)
+  ✅ www.wildberries.ru (score: 100, count: 10, cat: ecommerce) ⭐ELITE
+  ❌ ozon-card-landing.ozon.ru (score: 75, count: 1, cat: )
+  ❌ vat.enginecraft.ru (score: 45, count: 2, cat: other)
+  ❌ route.mcqueenconnection.ru (score: 50, count: 3, cat: other)
+  ✅ aliexpress.ru (score: 80, count: 4, cat: ecommerce)
+  ✅ www.unicreditbank.ru (score: 80, count: 11, cat: banks)
+  ❌ talk.tbank.ru (score: 75, count: 1, cat: )
+  ❌ push.ozon.ru (score: 75, count: 1, cat: )
+  ✅ belkacar.ru (score: 80, count: 8, cat: other)
+  ❌ www.ads.x5.ru (score: 60, count: 32, cat: )
+  ✅ speedtest.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ vk.ru (score: 100, count: 7, cat: other) ⭐ELITE
+  ❌ seller-admin.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ de17.fastlanehosting.ru (score: 55, count: 14, cat: other)
+  ✅ wbpay-analytic.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ vmeste-hotels.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ finance2.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ 3ds-v2-challenge-test.ecom-bank.ozon.ru (score: 75, count: 1, cat: )
+  ❌ craftmymine.ru (score: 55, count: 4, cat: other)
+  ❌ pol.pink-service.ru (score: 50, count: 4, cat: other)
+  ❌ sellerstage.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ smtpz20s4.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ prometheus.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ finance.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ finance1.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ smtp-relays.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ wa.sfasti.ru (score: 55, count: 118, cat: )
+  ✅ carreta.ru (score: 70, count: 2, cat: other)
+  ✅ 3ds-v2-auth-test.ecom-bank.ozon.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ taxi.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ 1testintegration.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ short.university.ozon.ru (score: 75, count: 1, cat: )
+  ✅ kinopoisk.ru (score: 100, count: 64, cat: social) ⭐ELITE
+  ❌ leto.adrtun.ru (score: 55, count: 10, cat: other)
+  ❌ smtpz23s5.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ autodiscover.ord.ozon.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.jobinvest.ru (score: 55, count: 160, cat: other)
+  ❌ firedept.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ www.tickets.ozon.ru (score: 75, count: 1, cat: )
+  ❌ invest.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ card.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ window-one.sbrf-cdn342.ru (score: 55, count: 18, cat: other)
+  ❌ tcb-learning.tbank.ru (score: 75, count: 1, cat: )
+  ❌ alco.ozon.ru (score: 75, count: 1, cat: )
+  ❌ salute.sber.ru (score: 45, count: 2, cat: other)
+  ❌ www.vkvideo.ru (score: 55, count: 28, cat: other)
+  ✅ ok.ru (score: 100, count: 3, cat: social) ⭐ELITE
+  ❌ autodiscover.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ exch-mbx-04.cf.wildberries.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ secretsanta.ozon.ru (score: 75, count: 1, cat: )
+  ✅ vt-1.ozone.ru (score: 80, count: 17, cat: ecommerce)
+  ✅ yabro-wbplugin.edadeal.yandex.ru (score: 100, count: 21, cat: ecommerce) ⭐ELITE
+  ❌ nne.money-cloud.ru (score: 45, count: 1, cat: other)
+  ❌ global.university.ozon.ru (score: 75, count: 1, cat: )
+  ✅ bridge.time.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ profit.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ hrc.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ ozon.ru (score: 90, count: 1364, cat: ecommerce) ⭐ELITE
+  ❌ seller.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ cobrowsing-cdn-test.tbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ ge2.money-cloud.ru (score: 45, count: 1, cat: other)
+  ❌ etls.ozon.ru (score: 75, count: 1, cat: )
+  ❌ id.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ exch-mbx-03.cf.wildberries.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ nosoc.wildberries.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ twork.edu.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ korzun-test.tbank.ru (score: 75, count: 1, cat: )
+  ✅ ir.ozone.ru (score: 80, count: 223, cat: ecommerce)
+  ❌ srv8.ezconnect.ru (score: 45, count: 1, cat: other)
+  ❌ exchangeost.corp.wildberries.ru (score: 75, count: 1, cat: )
+  ✅ alfabank.ru (score: 100, count: 53, cat: banks) ⭐ELITE
+  ✅ 3ds-v2-challenge-test.bank.ozon.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ir-2.ozone.ru (score: 80, count: 55, cat: ecommerce)
+  ✅ twork.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ exchange.corp.wildberries.ru (score: 75, count: 1, cat: )
+  ❌ www.io.ozone.ru (score: 60, count: 28, cat: )
+  ❌ www.hrc.tbank.ru (score: 75, count: 1, cat: )
+  ❌ finland.money-cloud.ru (score: 45, count: 2, cat: other)
+  ❌ fast-brooklyn.ru (score: 60, count: 13, cat: other)
+  ❌ srv9.ezconnect.ru (score: 45, count: 2, cat: other)
+  ❌ learning.tbank.ru (score: 75, count: 1, cat: )
+  ✅ invest-media.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ business.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ selfms.nodesecure.ru (score: 45, count: 1, cat: other)
+  ❌ braskivo.ru (score: 60, count: 12, cat: other)
+  ❌ nl18.fastlanehosting.ru (score: 55, count: 40, cat: other)
+  ❌ news.ufa-help.ru (score: 55, count: 36, cat: other)
+  ✅ securepay.ozon.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ safemobile.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ rest.learning.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.ozon.ru (score: 85, count: 16, cat: ecommerce) ⭐ELITE
+  ❌ yt.money-cloud.ru (score: 45, count: 1, cat: other)
+  ✅ avito.ru (score: 100, count: 4, cat: ecommerce) ⭐ELITE
+  ✅ lasercut.ru (score: 70, count: 2, cat: other)
+  ✅ nld3.pink-service.ru (score: 70, count: 4, cat: other)
+  ✅ wildberries.ru (score: 100, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ svoy--alfa.ru (score: 75, count: 1, cat: banks)
+  ❌ smtpz23s4.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ www.x5.ru (score: 80, count: 10, cat: ecommerce)
+  ✅ travel.yandex.ru (score: 100, count: 127, cat: ecommerce) ⭐ELITE
+  ❌ vkvideo.ru (score: 60, count: 87, cat: other)
+  ✅ 5post-gate.x5.ru (score: 80, count: 81, cat: ecommerce)
+  ✅ www.max.ru (score: 75, count: 22, cat: other)
+  ✅ tvdesign.ru (score: 80, count: 24, cat: other)
+  ✅ taxi.yandex.ru (score: 100, count: 1059, cat: ecommerce) ⭐ELITE
+  ❌ forum.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ shop.alfa.ru (score: 70, count: 1, cat: banks)
+  ✅ gitlab.education.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ❌ tickets.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ emails.tbank.ru (score: 95, count: 1, cat: banks) ⭐ELITE
+  ✅ tbank.ru (score: 100, count: 1, cat: banks) ⭐ELITE
+  ❌ webconf.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ trustline.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ x5.ru (score: 85, count: 6, cat: ecommerce)
+  ❌ news.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ finedog-mobile.tbank.ru (score: 75, count: 1, cat: banks) ⭐ELITE
+  ❌ docs.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ ru5.fastlanehosting.ru (score: 55, count: 11, cat: other)
+  ✅ krakenlabs.ru (score: 80, count: 19, cat: other)
+  ❌ ru2.aether-runet.ru (score: 45, count: 1, cat: other)
+  ❌ beeline.ru (score: 90, count: 22, cat: mobile) ⭐ELITE
+  ❌ partner.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ www.invest.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+  ❌ owa.ozon.ru (score: 75, count: 1, cat: ecommerce) ⭐ELITE
+⭐ Saved ELITE SNI: results/elite_sni.txt (111 SNIs, score >= 70)
+📊 SNI SCAN STATISTICS:
+   📥 Total SNI processed: 290
+   🚫 Blacklisted:         9131
+   🗑️  Suspicious (filtered): 28602
+   ❌ DNS failed:          67
+   ❌ TCP failed:          33
+   ❌ TLS failed:          51
+   ❌ HTTP failed:         24
+   ✅ Alive:               115
+   ⭐ Elite found:         77
+   ⭐ elite_sni.txt    - Best SNI (score >= 70)
