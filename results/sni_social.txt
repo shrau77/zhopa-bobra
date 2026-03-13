@@ -1,8 +1,8 @@
 rutube.ru
-kinopoisk.ru
 www.kinopoisk.ru
-www.rutube.ru
+kinopoisk.ru
 goya.rutube.ru
+www.rutube.ru
 ok.ru
 www.ok.ru
 www.perekrestok.ru
