@@ -3,7 +3,6 @@ ya.ru
 vk.ru
 id.vk.ru
 tvdesign.ru
-vashsender.ru
 krakenlabs.ru
 aliusfilms.ru
 belkacar.ru
@@ -14,14 +13,13 @@ fin2.pink-service.ru
 se.pink-service.ru
 nld3.pink-service.ru
 rusonyx.ru
-pol.pink-service.ru
-lasercut.ru
 reg.ru
-planetanix.ru
-carreta.ru
 x5club.ru
+carreta.ru
+lasercut.ru
+planetanix.ru
 arleonsk.ru
 dc-electro.ru
-salute.sber.ru
-anticheat.kittystars.ru
 ru.foxyrobot.ru
+anticheat.kittystars.ru
+salute.sber.ru
