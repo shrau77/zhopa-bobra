@@ -5,12 +5,17 @@ enterprise.api-maps.yandex.ru
 yabro-wbplugin.edadeal.yandex.ru
 www.yandex.ru
 www.wildberries.ru
-drive.yandex.ru
 disk.yandex.ru
+drive.yandex.ru
 avito.ru
 dns.yandex.ru
-any.yandex.ru
 passport.yandex.ru
+3ds-v2-challenge.bank.ozon.ru
+securepay.ozon.ru
+3ds-v2-auth-test.ecom-bank.ozon.ru
+3ds-v2-auth.ecom-bank.ozon.ru
+autodiscover.ord.ozon.ru
+3ds-v2-challenge-test.bank.ozon.ru
 x5.ru
 ir.ozone.ru
 io.ozone.ru
@@ -18,5 +23,5 @@ io.ozone.ru
 ir-2.ozone.ru
 vt-1.ozone.ru
 www.x5.ru
-aliexpress.ru
 dns-shop.ru
+aliexpress.ru
