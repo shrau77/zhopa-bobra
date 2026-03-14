@@ -1,14 +1,3 @@
-sberbank.ru
+alfabank.ru
 www.sberbank.ru
-hr.sberbank.ru
-sber911.sberbank.ru
-bfd.sberbank.ru
-opros.sberbank.ru
-visor.sberbank.ru
-websbol.ant.sberbank.ru
-jazz.sberbank.ru
-public.oprosso.sberbank.ru
-backend.jazz.sberbank.ru
-online.sberbank.ru
-research.sberbank.ru
-1edcbb01-l.sberbank.ru
+www.unicreditbank.ru

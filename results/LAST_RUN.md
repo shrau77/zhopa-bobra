@@ -17083,3 +17083,376 @@
    ✅ Alive:               117
    ⭐ Elite found:         77
    ⭐ elite_sni.txt    - Best SNI (score >= 70)
+## 🦫 SNI Hunt Report - 2026-03-14 16:27
+
+### Results
+- ⭐ Elite SNI: 179
+- 💎 Premium SNI: 183
+- 📄 Target SNI: 183
+
+### Stats
+   ✅ Found 208 subdomains
+  ❌ squad-2-de.vps-m.ru (score: 45, count: 2, cat: other)
+  ❌ www.ekaterinburvg.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ leto.adrtun.ru (score: 55, count: 12, cat: other)
+  ❌ vk1.zqwerty.ru (score: 45, count: 1, cat: other)
+  ❌ www.kirov.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.nesterov.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.lipetsk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.cpa.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ cloud.whost-solutions.ru (score: 45, count: 2, cat: other)
+  ❌ www.naro-fominsk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.orel.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.chekhov.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ gl.blackapple46.ru (score: 45, count: 1, cat: other)
+  ❌ gate-1.soykavps.ru (score: 45, count: 1, cat: other)
+  ❌ finl5.linkey40.ru (score: 50, count: 3, cat: other)
+  ❌ yt.money-cloud.ru (score: 45, count: 1, cat: other)
+  ❌ craftmymine.ru (score: 55, count: 4, cat: other)
+  ❌ de17.fastlanehosting.ru (score: 50, count: 3, cat: other)
+  ❌ ch2.fastlanehosting.ru (score: 55, count: 10, cat: other)
+  ❌ nl18.fastlanehosting.ru (score: 55, count: 30, cat: other)
+  ❌ finland.sbrf-cdn342.ru (score: 45, count: 2, cat: other)
+  ❌ www.malinovka.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ websocket.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.chatik.mytischi.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ sentry.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ wa.sfasti.ru (score: 55, count: 117, cat: )
+  ❌ pol1.linkey37.ru (score: 45, count: 2, cat: other)
+  ✅ jira.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ finland2.foxyrobot.ru (score: 45, count: 2, cat: other)
+  ✅ enterprise.api-maps.yandex.ru (score: 100, count: 29, cat: ecommerce) ⭐ELITE
+  ❌ www.podolsk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ se.pink-service.ru (score: 65, count: 2, cat: other)
+  ✅ sibur.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.tver.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.jobinvest.ru (score: 55, count: 176, cat: other)
+  ✅ avito.ru (score: 100, count: 4, cat: ecommerce) ⭐ELITE
+  ❌ www.anzhero-sudzhensk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.novaya-igirma.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.malinovoe-ozero.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ travel.yandex.ru (score: 100, count: 136, cat: ecommerce) ⭐ELITE
+  ✅ korolev.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ bryansk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ pol.pink-service.ru (score: 70, count: 4, cat: other)
+  ✅ nn.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ vladimir.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ kamenolomnya.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ kursk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ astrakhan.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ chatik.mytischi.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ krakenlabs.ru (score: 80, count: 19, cat: other)
+  ✅ hh.ru (score: 100, count: 1, cat: tech) ⭐ELITE
+  ✅ belgorod.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ lukino.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ tver.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.tula.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.chatik.ramenskoye.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.vladimir.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ goryachij-klyuch.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ krasnogorsk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ lasercut.ru (score: 75, count: 4, cat: other)
+  ❌ tutnetonline.ru (score: 55, count: 4, cat: other)
+  ✅ employer-reviews-front.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.websocket.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ essencion.sbrf-cdn342.ru (score: 45, count: 2, cat: other)
+  ✅ omsk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.zhavoronki50.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.india.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.volzhskiy.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.novgorod.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.bakal.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ volgograd.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ gosuslugi.ru (score: 90, count: 9, cat: government) ⭐ELITE
+  ❌ www.feedback.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ hhcheck.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.lukino.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ sweden.sbrf-cdn342.ru (score: 45, count: 2, cat: other)
+  ❌ ru.sfasti.ru (score: 55, count: 104, cat: )
+  ❌ kz-general.vps-m.ru (score: 55, count: 6, cat: other)
+  ❌ www.kashira.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ nld3.pink-service.ru (score: 75, count: 6, cat: other)
+  ✅ podolsk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ ekaterinburvg.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ rostov.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.kamenolomnya.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ perm.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ disk.yandex.ru (score: 100, count: 7, cat: ecommerce) ⭐ELITE
+  ❌ www.ulyanovsk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ voronezh.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.kursk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ krasnodar.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ otradnaya.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ dzerzhinsk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ www.x5.ru (score: 80, count: 11, cat: ecommerce)
+  ❌ www.kronshtadt.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.voznesensk-nk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.kolomna.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.chatik.zheleznogorsk-kursk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ any.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ ok.ru (score: 100, count: 7, cat: social) ⭐ELITE
+  ✅ vt-1.ozone.ru (score: 80, count: 13, cat: ecommerce)
+  ✅ simferopol.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.cherm.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ ru.foxyrobot.ru (score: 65, count: 2, cat: other)
+  ❌ aendros.realm-of-ultramar.ru (score: 45, count: 2, cat: other)
+  ❌ www.otradnaya.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ www.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ www.kinopoisk.ru (score: 100, count: 105, cat: social) ⭐ELITE
+  ✅ tyumen.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ ryazan.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ ge2.money-cloud.ru (score: 45, count: 1, cat: other)
+  ✅ spb.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ gr.nodesecure.ru (score: 55, count: 11, cat: other)
+  ❌ www.ejsihccoupfqzqvur.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ docs.it.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ www.yandex.ru (score: 100, count: 20, cat: ecommerce) ⭐ELITE
+  ❌ de15.fastlanehosting.ru (score: 45, count: 2, cat: other)
+  ✅ kvm-isg.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ balashikha.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ yuzhno-sakhalinsk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ goya.rutube.ru (score: 100, count: 39, cat: social) ⭐ELITE
+  ❌ at17.fastlanehosting.ru (score: 55, count: 12, cat: other)
+  ✅ www.rutube.ru (score: 100, count: 40, cat: social) ⭐ELITE
+  ❌ self.nice-chat.ru (score: 45, count: 2, cat: other)
+  ❌ www.sentry.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ gotraf.nodesecure.ru (score: 50, count: 4, cat: other)
+  ✅ 2gis.ru (score: 100, count: 2, cat: tech) ⭐ELITE
+  ✅ arleonsk.ru (score: 70, count: 2, cat: other)
+  ✅ ejsihccoupfqzqvur.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ cherm.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ syktyvkar.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ scherbinka.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.dalnerechensk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ vladivostok.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ novaya-igirma.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ passport.yandex.ru (score: 95, count: 1, cat: ecommerce) ⭐ELITE
+  ✅ kizel.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ novgorod.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ chatik.zheleznogorsk-kursk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.anapa.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ feedback.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ dns.yandex.ru (score: 95, count: 2, cat: ecommerce) ⭐ELITE
+  ❌ ozone.ru (score: 65, count: 17, cat: ecommerce)
+  ❌ vat.enginecraft.ru (score: 45, count: 2, cat: other)
+  ✅ novorossiysk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ www.perekrestok.ru (score: 70, count: 2, cat: social)
+  ❌ www.ryazan.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.khimki.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.omsk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ chatik.ulyanovsk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ nne.money-cloud.ru (score: 45, count: 1, cat: other)
+  ✅ aliexpress.ru (score: 80, count: 4, cat: ecommerce)
+  ✅ www.wildberries.ru (score: 100, count: 10, cat: ecommerce) ⭐ELITE
+  ❌ www.thumbnail.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ russia.node.specnet.ru (score: 45, count: 2, cat: other)
+  ❌ event.yandex.ru (score: 85, count: 55, cat: ecommerce) ⭐ELITE
+  ❌ www.rest-domains.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.chatik.kirov.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ pay.enginecraft.ru (score: 45, count: 1, cat: other)
+  ✅ kinopoisk.ru (score: 100, count: 36, cat: social) ⭐ELITE
+  ❌ poland.money-cloud.ru (score: 45, count: 2, cat: other)
+  ❌ www.astrakhan.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ vashsender.ru (score: 80, count: 22, cat: other)
+  ❌ hels.node.specnet.ru (score: 45, count: 2, cat: other)
+  ✅ kronshtadt.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.novyj-urengoy.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ x5.ru (score: 85, count: 12, cat: ecommerce)
+  ❌ www.balashikha.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ affilate.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ ulyanovsk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.preobrazhenie.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ tula.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ pol2.linkey37.ru (score: 45, count: 2, cat: other)
+  ✅ ir.ozone.ru (score: 80, count: 210, cat: ecommerce)
+  ✅ chelyabinsk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.kakdela.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ s6.auto.drom.ru (score: 80, count: 8, cat: tech)
+  ❌ www.kostroma.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ board.hh.rubrwww.board.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ orel.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ saratov.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.timashevsk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ ruw.starjisec.ru (score: 45, count: 2, cat: other)
+  ❌ first.keen.sbrf-cdn342.ru (score: 45, count: 2, cat: other)
+  ✅ togliatti.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ penza.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.academyifa.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ naro-fominsk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.ozon.ru (score: 85, count: 10, cat: ecommerce) ⭐ELITE
+  ✅ thumbnail.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ blackapple46.ru (score: 50, count: 1, cat: other)
+  ✅ nesterov.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ kaluga.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ orenburg.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.chatik.ulyanovsk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.yuzhno-sakhalinsk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ x5club.ru (score: 70, count: 2, cat: other)
+  ❌ www.io.ozone.ru (score: 60, count: 22, cat: )
+  ❌ www.ozersk-chelyabinsk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.sergievposad.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ salute.sber.ru (score: 65, count: 2, cat: other)
+  ✅ rest-domains.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ timashevsk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ surgut.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ braskivo.ru (score: 60, count: 16, cat: other)
+  ❌ www.dzerzhinsk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ novyj-urengoy.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ cpa.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ volzhskiy.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ rus6.linkey41.ru (score: 50, count: 4, cat: other)
+  ❌ le13yar.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ academyifa.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ kakdela.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ bot.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ fin2.pink-service.ru (score: 75, count: 10, cat: other)
+  ✅ io.ozone.ru (score: 80, count: 191, cat: ecommerce)
+  ❌ www.goryachij-klyuch.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ tech.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ kostroma.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ de16.fastlanehosting.ru (score: 55, count: 15, cat: other)
+  ❌ news.ufa-help.ru (score: 55, count: 38, cat: other)
+  ❌ nl.nodes.rocketnetwork.ru (score: 45, count: 1, cat: other)
+  ✅ yandex.ru (score: 100, count: 8974, cat: ecommerce) ⭐ELITE
+  ✅ www.unicreditbank.ru (score: 80, count: 11, cat: banks)
+  ✅ tvdesign.ru (score: 80, count: 21, cat: other)
+  ❌ de18.fastlanehosting.ru (score: 45, count: 2, cat: other)
+  ✅ vk.ru (score: 100, count: 8, cat: other) ⭐ELITE
+  ✅ novosibirsk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ krasnoyarsk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ 5post-gate.x5.ru (score: 80, count: 80, cat: ecommerce)
+  ✅ kaliningrad.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ kvm-datapro.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.chatik.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ i-m.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ rusonyx.ru (score: 70, count: 2, cat: other)
+  ✅ kirov.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ board.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ ekaterinburg.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.le13yar.hh.ru (score: 75, count: 1, cat: )
+  ✅ anapa.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ lipetsk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ ru2.aether-runet.ru (score: 45, count: 1, cat: other)
+  ✅ sergievposad.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ ozersk-chelyabinsk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ pol.adrtun.ru (score: 45, count: 2, cat: other)
+  ❌ www.novorossiysk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ dns-shop.ru (score: 80, count: 4, cat: ecommerce)
+  ❌ ya10.shukafish.ru (score: 45, count: 2, cat: other)
+  ❌ www.vkvideo.ru (score: 55, count: 24, cat: other)
+  ❌ www.simferopol.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.dolgoprudny.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ carreta.ru (score: 75, count: 3, cat: other)
+  ✅ web.max.ru (score: 75, count: 749, cat: other)
+  ❌ www.togliatti.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ chekhov.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ grinoree.ru (score: 50, count: 1, cat: other)
+  ❌ la-general.vps-m.ru (score: 55, count: 10, cat: other)
+  ❌ de.itkrsk.ru (score: 50, count: 4, cat: other)
+  ❌ www.zuya.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ dolgoprudny.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ d-assets.2gis.ru (score: 100, count: 8, cat: tech) ⭐ELITE
+  ✅ barnaul.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ ozon.ru (score: 90, count: 373, cat: ecommerce) ⭐ELITE
+  ✅ khimki.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ autodiscover.rating.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.kizel.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ www.sberbank.ru (score: 95, count: 2, cat: banks) ⭐ELITE
+  ❌ all.money-cloud.ru (score: 55, count: 7, cat: other)
+  ❌ www.vidnoe.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ voznesensk-nk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.scherbinka.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ chatik.ramenskoye.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ fast-brooklyn.ru (score: 60, count: 16, cat: other)
+  ✅ career.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ chatik.kirov.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ pay.yandex.ru (score: 95, count: 2, cat: ecommerce) ⭐ELITE
+  ✅ ufa.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.le13.hh.ru (score: 75, count: 1, cat: )
+  ✅ khabarovsk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ anzhero-sudzhensk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ academy.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ zuya.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ ir-2.ozone.ru (score: 80, count: 55, cat: ecommerce)
+  ✅ sasak.streamlive-24.ru (score: 75, count: 20, cat: other)
+  ❌ nge.money-cloud.ru (score: 45, count: 2, cat: other)
+  ✅ aliusfilms.ru (score: 80, count: 11, cat: other)
+  ✅ planetanix.ru (score: 70, count: 2, cat: other)
+  ❌ fb.blackapple46.ru (score: 45, count: 1, cat: other)
+  ✅ crm.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ spider.it.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ pspdfkit.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ finland.money-cloud.ru (score: 45, count: 2, cat: other)
+  ✅ india.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ dalnerechensk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.adsrv.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.korolev.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ samara.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ dc-electro.ru (score: 70, count: 2, cat: other)
+  ❌ www.e0.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ drive.yandex.ru (score: 100, count: 5, cat: ecommerce) ⭐ELITE
+  ❌ www.krasnogorsk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ squad-2-pl.vps-m.ru (score: 50, count: 4, cat: other)
+  ❌ ru-m-usa1.linkey36.ru (score: 45, count: 2, cat: other)
+  ❌ kz.money-cloud.ru (score: 45, count: 1, cat: other)
+  ❌ www.khabarovsk.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ help.max.ru (score: 75, count: 28, cat: other)
+  ✅ otus.ru (score: 80, count: 6, cat: other)
+  ❌ ya.volgogradskie.ru (score: 55, count: 17, cat: other)
+  ❌ srv5.ezconnect.ru (score: 45, count: 1, cat: other)
+  ❌ www.orenburg.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ inst.faceppm.ru (score: 45, count: 1, cat: other)
+  ✅ rutube.ru (score: 100, count: 117, cat: social) ⭐ELITE
+  ❌ italy.pocomacho.ru (score: 45, count: 2, cat: other)
+  ✅ sochi.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ eh.vk.ru (score: 100, count: 265, cat: other) ⭐ELITE
+  ❌ route.mcqueenconnection.ru (score: 55, count: 5, cat: other)
+  ✅ kashira.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ www.employer-reviews-front.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ www.kaliningrad.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ✅ reg.ru (score: 70, count: 2, cat: other)
+  ✅ email.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ rdp.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ rbc.ru (score: 100, count: 225, cat: tech) ⭐ELITE
+  ❌ ru-usa2.linkey39.ru (score: 45, count: 2, cat: other)
+  ✅ i.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ chatik.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ yabro-wbplugin.edadeal.yandex.ru (score: 100, count: 23, cat: ecommerce) ⭐ELITE
+  ✅ contract.gosuslugi.ru (score: 100, count: 30, cat: government) ⭐ELITE
+  ✅ yaroslavl.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ zhavoronki50.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ e0.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ anticheat.kittystars.ru (score: 65, count: 2, cat: other)
+  ✅ belkacar.ru (score: 80, count: 8, cat: other)
+  ✅ kolomna.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ kazan.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ vidnoe.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ www.board.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ alfabank.ru (score: 100, count: 37, cat: banks) ⭐ELITE
+  ✅ ya.ru (score: 100, count: 174, cat: other) ⭐ELITE
+  ❌ ru5.fastlanehosting.ru (score: 55, count: 10, cat: other)
+  ✅ rosatom-trip.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ bakal.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ✅ irkutsk.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ yandexcdn2.yandexdns.ru (score: 55, count: 4, cat: )
+  ✅ it.hh.ru (score: 95, count: 1, cat: tech) ⭐ELITE
+  ❌ chat.speedload.ru (score: 55, count: 38, cat: other)
+  ❌ ruswl3.linkey45.ru (score: 45, count: 1, cat: other)
+  ❌ beeline.ru (score: 80, count: 2, cat: mobile) ⭐ELITE
+  ❌ kz.sbrf-cdn342.ru (score: 45, count: 2, cat: other)
+  ❌ vkvideo.ru (score: 60, count: 114, cat: other)
+  ✅ autodiscover.cozhh.ru (score: 70, count: 1, cat: tech)
+  ❌ le13.hh.ru (score: 75, count: 1, cat: tech) ⭐ELITE
+  ❌ nl20.linkey26.ru (score: 45, count: 2, cat: other)
+⭐ Saved ELITE SNI: results/elite_sni.txt (180 SNIs, score >= 70)
+📊 SNI SCAN STATISTICS:
+   📥 Total SNI processed: 352
+   🚫 Blacklisted:         9277
+   🗑️  Suspicious (filtered): 25644
+   ❌ DNS failed:          6
+   ❌ TCP failed:          19
+   ❌ TLS failed:          138
+   ❌ HTTP failed:         5
+   ✅ Alive:               184
+   ⭐ Elite found:         147
+   ⭐ elite_sni.txt    - Best SNI (score >= 70)
